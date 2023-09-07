@@ -77,6 +77,12 @@
         "definition": "<p style='font-style: italic;'>Cada uno de los signos o cifras arábigas que expresan una cantidad.</p>",
         "description": "<p style='font-style: italic;'>En matemáticas, \"guarismo\" es un término que se usaba para referirse a los números o dígitos que utilizamos en nuestra vida diaria, como el 0, 1, 2, 3, y así sucesivamente hasta el 9. Son como las letras del alfabeto, pero para los números. Cada vez que escribimos un número, estamos usando guarismos, como cuando escribimos \"5\" para decir cuántos años tiene un niño. Los guarismos son como las piezas de un rompecabezas que usamos para construir números más grandes.</p>"
     },
+    "Al-Juarismi": {
+        "title": "<h3 style='font-size: 3em;'>Al-Juarismi</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>Abu Abdallah Muḥammad Ibn Mūsā Al-Jwarizmī, conocido como al-Juarismi, fue un eminente matemático, astrónomo y geógrafo persa que vivió alrededor del siglo IX. Fue astrónomo y director de la Biblioteca de la Casa de la Sabiduría de Bagdad. Sus contribuciones incluyen: Desarrolló la primera solución sistemática de ecuaciones lineales y cuadráticas. Introdujo el método de completación de cuadrados para resolver ecuaciones cuadráticas. Trabajó en trigonometría y creó tablas de seno, coseno y tangentes. Es considerado el padre del álgebra, tratándola como una disciplina independiente y desarrollando métodos de \"reducción\" y \"equilibrio\". Su nombre latinizado dio origen a términos matemáticos como \"algoritmo\" y \"algoritmia\". Destacó como geógrafo y astrónomo, revisando y mejorando la obra de Ptolomeo. Escribió sobre el astrolabio, reloj solar, calendario y produjo tablas astronómicas. Su obra influyó en la popularización de los números arábigos en Occidente y en la transición desde el sistema de numeración romano al árabe.</p>",
+        "description": "<p style='font-style: italic;'>Al-Juarismi fue un matemático antiguo que ayudó a inventar formas de resolver problemas matemáticos difíciles. También trabajó en astronomía y geografía, mejorando mapas y tablas astronómicas. Su legado más famoso es haber introducido los números arábigos en Occidente, que usamos hoy en día para contar.</p>"
+    },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
