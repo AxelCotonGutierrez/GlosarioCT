@@ -1,3 +1,6 @@
+// Axel Cotón Gutiérrez Copyright 2023
+
+
 document.addEventListener('DOMContentLoaded', () => {
     const generateOutputBtn = document.getElementById('generate-output-btn');
     const formattedJsonContainer = document.getElementById('formatted-json');

@@ -1,3 +1,6 @@
+// Axel Cotón Gutiérrez Copyright 2023
+
+
 // Define una variable para almacenar las definiciones
 let definitions = {};
 
