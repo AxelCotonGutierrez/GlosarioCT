@@ -31,7 +31,7 @@ fetch('definitions.json')
                         <h3>${definition.title}</h3>
                         <p>${definition.source}</p>
                         <p>${definition.definition}</p>
-                        <p><strong style='color: #007BFF;'>Descripción Coloquial:</strong> ${definition.description}</p>
+                        <p><strong style='color: #007BFF;'>Coloquialmente:</strong> ${definition.description}</p>
                     </div>
                 `;
                 }).join("");
