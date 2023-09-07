@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Conceptos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        label {
+            font-weight: bold;
+        }
+
+        .input-container {
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 15px;
+        }
+
+        .input-container label,
+        .input-container textarea {
+            margin-bottom: 5px;
+        }
+
+        textarea {
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            resize: vertical;
+        }
+
+        .btn-container {
+            text-align: center;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 18px;
+            background-color: #007BFF;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        #output-container {
+            margin-top: 20px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        /* CSS para controlar el overflow horizontal */
+        #formatted-json {
+            width: 100%;
+            overflow-x: auto;
+            white-space: pre-wrap;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Formulario de Conceptos</h1>
+        <form id="concept-form">
+            <div class="input-container">
+                <label for="concept-title">Título:</label>
+                <input type="text" id="concept-title" name="title" required>
+            </div>
+            <div class="input-container">
+                <label for="concept-source">Fuente:</label>
+                <input type="text" id="concept-source" name="source" required>
+            </div>
+            <div class="input-container">
+                <label for="concept-definition">Definición:</label>
+                <textarea id="concept-definition" name="definition" rows="5" required></textarea>
+            </div>
+            <div class="input-container">
+                <label for="concept-description">Descripción:</label>
+                <textarea id="concept-description" name="description" rows="10" required></textarea>
+            </div>
+            <div class="btn-container">
+                <button type="button" id="generate-output-btn">Generar Formato JSON</button>
+            </div>
+        </form>
+        <div id="output-container">
+            <pre id="formatted-json">
+                <!-- El resultado JSON formateado se mostrará aquí -->
+            </pre>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>

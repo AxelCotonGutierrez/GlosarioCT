@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #007BFF;
+}
+
+#search-container {
+    margin: 20px auto;
+    width: 60%;
+}
+
+#search-input {
+    width: 70%;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+#search-button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#definition-result {
+    margin: 20px auto;
+    width: 60%;
+}
+
+/* Estilos para la lista de definiciones */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* Estilos para los enlaces dentro de la definición */
+a {
+    text-decoration: none;
+    color: #007BFF;
+}
+
+p {
+    font-weight: bold;
+    margin: 10px 0;
+}
+
