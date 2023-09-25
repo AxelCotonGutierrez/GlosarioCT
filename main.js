@@ -17,13 +17,15 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         const formattedJSON = `
-"${title}": {
-    "title": "<h3 style='font-size: 3em;'>${title}</h3>",
-    "source": "<p style='color: #007BFF;'>${source}</p>",
-    "definition": "<p style='font-style: italic;'>${definition}</p>",
-    "description": "<p style='font-style: italic;'>${description}</p>",
-    "link": "<a href='${link}'>Enlace a más información</a>"
-},`;
+{
+    "${title}": {
+        "title": "<h3 style='font-size: 3em;'>${title}</h3>",
+        "source": "<p style='color: #007BFF;'>${source}</p>",
+        "definition": "<p style='font-style: italic;'>${definition}</p>",
+        "description": "<p style='font-style: italic;'>${description}</p>",
+        "link": "<a href='${link}'>Enlace a más información</a>"
+    }
+}`;
 
         formattedJsonContainer.textContent = formattedJSON;
     });
