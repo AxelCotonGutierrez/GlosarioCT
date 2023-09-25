@@ -32,42 +32,42 @@
         "source": "<p style='color: #007BFF;'>Wikipedia</p>",
         "definition": "<p style='font-style: italic;'>La notación posicional es un sistema de numeración en el cual cada dígito posee un valor que depende de su posición relativa, la cual está determinada por la base, que es el número de dígitos necesarios para escribir cualquier número. Un ejemplo de numeración posicional es el habitualmente usado sistema decimal (base 10), necesitándose diez dígitos diferentes, los cuales deberán estar constituidos de un símbolo (grafema), cuyo valor en orden creciente es: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. Para los números escritos en sistemas de bases menores, se usan solo los dígitos de menor valor; para los escritos con bases mayores que 10, se utilizan letras: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, ...</p>",
         "description": "<p style='font-style: italic;'>La \"Notación Posicional\" es como un lenguaje especial que usamos para escribir números de manera ordenada y comprensible. Imagina que los números son como palabras en una oración, y cada número tiene un lugar específico en esa oración. La posición de un número en ese lugar le da su valor, igual que las palabras en una oración tienen significados según su posición. Por ejemplo, en el número \"123\", el \"1\" está en el lugar de las centenas, el \"2\" en el lugar de las decenas y el \"3\" en el lugar de las unidades. Esta notación hace que los números sean fáciles de leer y entender, como las palabras en una historia.</p>",
-        "link": "<a href='https://es.wikipedia.org/wiki/Notaci%C3%B3n_posicional'>Enlace a más información</a>"
+        "link": "https://es.wikipedia.org/wiki/Notaci%C3%B3n_posicional"
     },
     "Infinito": {
         "title": "<h3 style='font-size: 3em;'>Infinito</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
         "definition": "<p style='font-style: italic;'>En lógica y matemáticas, se refiere a una magnitud que no tiene límites ni fin, como la secuencia de números naturales (1, 2, 3, ...) que nunca termina. También se utiliza en un sentido más general para describir algo que es ilimitado o inagotable en su extensión o duración.</p>",
         "description": "<p style='font-style: italic;'>\"Infinito\" es como un concepto mágico que significa que algo nunca se acaba. Imagina que tienes una cuerda muy larga que nunca termina, no importa cuánto la estires. Eso es como el infinito. En matemáticas, usamos \"infinito\" para decir que algo continúa para siempre, como los números que nunca paran de aumentar (1, 2, 3, ... ¡y así sucesivamente para siempre!). Es un poco como el cielo estrellado en una noche sin fin: ¡siempre hay más números y estrellas por descubrir!</p>",
-        "link": "<a href='https://es.wikipedia.org/wiki/Infinito'>Enlace a más información</a>"
+        "link": "https://es.wikipedia.org/wiki/Infinito"
     },
     "Conjunto": {
         "title": "<h3 style='font-size: 3em;'>Conjunto</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
         "definition": "<p style='font-style: italic;'>Colección de elementos o números reunidos de acuerdo con una regla o criterio específico.</p>",
         "description": "<p style='font-style: italic;'>Un \"conjunto\" es como una caja imaginaria que contiene cosas similares. Piensa en una caja de juguetes: todos los juguetes dentro de la caja son un conjunto porque tienen algo en común, como ser de colores o formas similares. En matemáticas, un conjunto es como una lista de números o elementos que están agrupados juntos por alguna razón, como los números pares (2, 4, 6, ...) o los animales de la granja (vacas, cerdos, gallinas, ...). Es como poner cosas que tienen algo en común en un mismo lugar.</p>",
-        "link": "<a href='https://es.wikipedia.org/wiki/Conjunto'>Enlace a más información</a>"
+        "link": "https://es.wikipedia.org/wiki/Conjunto"
     },
     "Cifra": {
         "title": "<h3 style='font-size: 3em;'>Cifra</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
         "definition": "<p style='font-style: italic;'>Signo o conjunto de signos con que se representa un número.</p>",
         "description": "<p style='font-style: italic;'>Una \"cifra\" es como un número pequeñito, como los que vemos todos los días en los relojes o cuando contamos cosas. Imagina que cada número que vemos, como el \"7\" en un reloj o el \"3\" en tu edad, es una cifra. En matemáticas, las cifras son como los ladrillos con los que construimos los números más grandes. Por ejemplo, el número \"73\" está hecho de las cifras \"7\" y \"3\". Es como si cada cifra fuera un bloque que usamos para construir nuestros números.</p>",
-        "link": "<a href='https://es.wikipedia.org/wiki/Cifra_(matem%C3%A1tica)'>Enlace a más información</a>"
+        "link": "https://es.wikipedia.org/wiki/Cifra_(matem%C3%A1tica)"
     },
     "Dígito": {
         "title": "<h3 style='font-size: 3em;'>Dígito</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
         "definition": "<p style='font-style: italic;'>Cada uno de los caracteres o símbolos con los que se representan los números en la numeración decimal, que son los siguientes: 0, 1, 2, 3, 4, 5, 6, 7, 8 y 9.</p>",
         "description": "<p style='font-style: italic;'>Un \"dígito\" es como un número pequeñito que usamos todos los días. Imagina que los números son como las palabras en un idioma, y los dígitos son las letras de ese idioma. Los dígitos son solo diez: 0, 1, 2, 3, 4, 5, 6, 7, 8 y 9. Usamos estos dígitos para escribir todos los números más grandes. Por ejemplo, el número \"5\" es un dígito que usamos para escribir el número \"50\" o \"500\". Es como si los dígitos fueran las piezas más pequeñas que forman los números que usamos en nuestra vida diaria.</p>",
-        "link": "<a href='https://es.wikipedia.org/wiki/Cifra_(matem%C3%A1tica)'>Enlace a más información</a>"
+        "link": "https://es.wikipedia.org/wiki/Cifra_(matem%C3%A1tica)"
     },
     "Unidad": {
         "title": "<h3 style='font-size: 3em;'>Unidad</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
         "definition": "<p style='font-style: italic;'>Valor o cantidad básica utilizada como referencia para medir, contar o comparar otras cantidades. En muchos casos, la unidad se representa con el número \"1\" y se utiliza para construir números más grandes mediante la adición o multiplicación.</p>",
         "description": "<p style='font-style: italic;'>En matemáticas, \"unidad\" es como la pieza más pequeña que usamos para contar cosas o medir cantidades. Es como tener una regla donde la unidad es el centímetro, y cuando decimos \"3 centímetros\", estamos usando la unidad para medir una distancia. O cuando decimos \"3 manzanas\", la unidad es \"manzana\", y estamos contando cuántas tenemos. En resumen, la unidad es como la pieza básica que nos ayuda a decir cuántas cosas tenemos o a medir distancias, como si fuera el ladrillo más pequeño de un edificio de números.</p>",
-        "link": "<a href='https://es.wikipedia.org/wiki/Uno'>Enlace a más información</a>"
+        "link": "https://es.wikipedia.org/wiki/Uno"
     },
     "Decena": {
         "title": "<h3 style='font-size: 3em;'>Decena</h3>",
