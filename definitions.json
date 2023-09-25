@@ -136,14 +136,28 @@
         "title": "<h3 style='font-size: 3em;'>Millardo</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021)</p>",
         "definition": "<p style='font-style: italic;'>Mil millones.</p>",
-        "description": "<p style='font-style: italic;'>El término \"millardo\" es una unidad de medida numérica equivalente a mil millones, es decir, 1,000,000,000. Se utiliza comúnmente en algunos países de habla hispana y en Europa para expresar esta cantidad masiva en el contexto de números grandes. Por ejemplo, en el sistema de numeración de escala larga, un millardo equivale a mil millones, o 1 seguido por 9 ceros (1,000,000,000).</p>",
+        "description": "<p style='font-style: italic;'>El término \"millardo\" es una unidad de medida numérica equivalente a mil millones, es decir, 1 000 000 000. Se utiliza comúnmente en algunos países de habla hispana y en Europa para expresar esta cantidad masiva en el contexto de números grandes. Por ejemplo, en el sistema de numeración de escala larga, un millardo equivale a mil millones, o 1 seguido por 9 ceros (1 000 000 000).</p>",
         "link": "https://es.wikipedia.org/wiki/Millardo"
+    },
+    "Billón": {
+            "title": "<h3 style='font-size: 3em;'>Billón</h3>",
+            "source": "<p style='color: #007BFF;'>RAE (sept. 2021)</p>",
+            "definition": "<p style='font-style: italic;'>Un millón de millones, que se expresa por la unidad seguida de doce ceros. En Estados Unidos equivale a mil millones, que se expresa por la unidad seguida de nueve ceros.</p>",
+            "description": "<p style='font-style: italic;'>En muchos países de habla hispana, un \"billón\" se refiere a la cantidad equivalente a mil millones, es decir, 1 000 000 000. Esta es la forma en que se utiliza comúnmente en la mayoría de los lugares de habla hispana. Sin embargo, es importante tener en cuenta que en algunos países, como España, el término \"billón\" se utiliza para referirse a la cantidad equivalente a un millón de millones, es decir, 1 000 000 000 000. Esta diferencia en el significado puede llevar a confusiones, por lo que es esencial verificar el contexto y el país en el que se está utilizando para comprender su significado preciso. En muchas ocasiones, se prefieren los términos \"mil millones\" o \"un millón de millones\" para evitar ambigüedades en la comunicación.</p>",
+            "link": "https://es.wikipedia.org/wiki/Bill%C3%B3n"
+    },
+    "Cardinal": {
+            "title": "<h3 style='font-size: 3em;'>Cardinal</h3>",
+            "source": "<p style='color: #007BFF;'>RAE (sept. 2021)</p>",
+            "definition": "<p style='font-style: italic;'>Cada uno de los números enteros en abstracto; p. ej., cero, diez, mil.</p>",
+            "description": "<p style='font-style: italic;'>En matemáticas, un número cardinal es un número que se utiliza para contar elementos y expresar cuántos hay en un conjunto. Por ejemplo, en la frase \"Hay cinco manzanas en la cesta\", el número \"cinco\" es un número cardinal, ya que indica la cantidad exacta de manzanas en la cesta. Los números cardinales se utilizan para responder preguntas como \"¿Cuántos?\" o \"¿Cuántas?\" y son fundamentales en la aritmética y en la vida cotidiana para contar objetos, personas y más. Los primeros números cardinales son: uno, dos, tres, cuatro, cinco, y así sucesivamente.</p>",
+            "link": "https://es.wikipedia.org/wiki/N%C3%BAmero_cardinal"
     },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
         "definition": "<p style='font-style: italic;'>Conjunto o colección de mil cosas.</p>",
-        "description": "<p style='font-style: italic;'>En matemáticas, un \"millar\" es como un grupo gigante de mil cosas. Puedes imaginarlo como una gran cantidad de bolitas, caramelos o cualquier otro objeto que tengas mil unidades. También se usa para contar números muy grandes. Por ejemplo, el número \"3,000\" significa tres millares, lo que equivale a tres grupos de mil. Así que, en resumen, un millar es una gran cantidad de mil cosas o la forma en que contamos grupos de mil en los números.</p>",
+        "description": "<p style='font-style: italic;'>En matemáticas, un \"millar\" es como un grupo gigante de mil cosas. Puedes imaginarlo como una gran cantidad de bolitas, caramelos o cualquier otro objeto que tengas mil unidades. También se usa para contar números muy grandes. Por ejemplo, el número \"3000\" significa tres millares, lo que equivale a tres grupos de mil. Así que, en resumen, un millar es una gran cantidad de mil cosas o la forma en que contamos grupos de mil en los números.</p>",
         "link": "https://es.wikipedia.org/wiki/Mil"
     }
 }
