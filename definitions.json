@@ -132,6 +132,13 @@
         "description": "<p style='font-style: italic;'>Galileo Galilei fue un destacado científico del Renacimiento. Realizó importantes observaciones astronómicas con su mejorado telescopio, apoyó la teoría de Copérnico de que la Tierra y los planetas giraban alrededor del Sol y formuló la primera ley del movimiento. Es conocido como el \"padre de la astronomía moderna\" y el \"padre de la física moderna\". Su trabajo experimental y su enfoque científico complementaron los de otros científicos de la época, como Francis Bacon y Johannes Kepler. También se enfrentó a la Inquisición de la Iglesia católica debido a sus ideas, lo que destaca el conflicto entre religión y ciencia en su tiempo.</p>",
         "link": "https://es.wikipedia.org/wiki/Galileo_Galilei"
     },
+    "Millardo": {
+        "title": "<h3 style='font-size: 3em;'>Millardo</h3>",
+        "source": "<p style='color: #007BFF;'>RAE (sept. 2021)</p>",
+        "definition": "<p style='font-style: italic;'>Mil millones.</p>",
+        "description": "<p style='font-style: italic;'>El término \"millardo\" es una unidad de medida numérica equivalente a mil millones, es decir, 1,000,000,000. Se utiliza comúnmente en algunos países de habla hispana y en Europa para expresar esta cantidad masiva en el contexto de números grandes. Por ejemplo, en el sistema de numeración de escala larga, un millardo equivale a mil millones, o 1 seguido por 9 ceros (1,000,000,000).</p>",
+        "link": "https://es.wikipedia.org/wiki/Millardo"
+    },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
