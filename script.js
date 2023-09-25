@@ -10,7 +10,6 @@ fetch('definitions.json')
     .then(data => {
         definitions = data; // Asigna las definiciones cargadas al objeto definitions
 
-  
         const searchInput = document.getElementById("search-input");
         const searchButton = document.getElementById("search-button");
         const definitionResult = document.getElementById("definition-result");
@@ -32,6 +31,7 @@ fetch('definitions.json')
                         <p>${definition.source}</p>
                         <p>${definition.definition}</p>
                         <p><strong style='color: #007BFF;'>Coloquialmente:</strong> ${definition.description}</p>
+                        ${definition.link ? `<p><a href="${definition.link}" target="_blank">Enlace a más información</a></p>` : ""}
                     </div>
                 `;
                 }).join("");
@@ -44,3 +44,4 @@ fetch('definitions.json')
     .catch(error => {
         console.error('Error al cargar las definiciones:', error);
     });
+
