@@ -244,6 +244,13 @@
         "description": "<p style='font-style: italic;'>\"La Escala Numérica Corta y la Larga son dos formas diferentes de hablar sobre números gigantes. En la Escala Corta, decimos 'billion' para referirnos a mil millones, y en la Larga, decimos 'billón' para lo mismo. Es un poco como el inglés y el español, donde diferentes palabras significan lo mismo. Así que cuando escuches 'billion' en inglés, en realidad se refiere a mil millones en la Escala Larga, ¡es solo una forma diferente de nombrar números enormes!</p>",
         "link": "https://es.wikipedia.org/wiki/Escalas_num%C3%A9ricas_larga_y_corta"
     },
+    "Nicolas Chuquet": {
+        "title": "<h3 style='font-size: 3em;'>Nicolas Chuquet</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>Nicolas Chuquet ( francés: nacido c.  1445  – c.  1455 ; fallecido c.  1488  – c.  1500 ) fue un matemático francés . Inventó su propia notación para conceptos algebraicos y exponenciación . Pudo haber sido el primer matemático en reconocer el cero y los números negativos como exponentes.</p>",
+        "description": "<p style='font-style: italic;'>Nicolas Chuquet, un matemático francés del siglo XV, hizo contribuciones significativas al Sistema de Numeración Decimal. Chuquet es conocido por su obra \"Triparty en la Science des Nombres,\" donde introdujo el uso de exponentes para representar potencias de diez. Esta innovación permitió una notación más compacta y eficiente para números grandes y simplificó los cálculos aritméticos. Su trabajo allanó el camino para una comprensión más profunda y un uso más amplio del sistema decimal en matemáticas y ciencia. </p>",
+        "link": "https://en.wikipedia.org/wiki/Nicolas_Chuquet"
+    },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
