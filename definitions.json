@@ -223,6 +223,27 @@
         "description": "<p style='font-style: italic;'>Georg Cantor, un matemático alemán del siglo XIX y principios del siglo XX, es conocido por sus contribuciones revolucionarias en el campo de la teoría de conjuntos. Cantor introdujo el concepto de infinitud y demostró que existen diferentes tamaños de infinitos, una idea que inicialmente fue controvertida pero que cambió la forma en que entendemos los números y el infinito en las matemáticas. Su teorema de la diagonalización y su trabajo en la teoría de conjuntos le llevaron a descubrimientos profundos, como el conjunto de los números reales es de un tamaño mayor que el conjunto de los números naturales. Su trabajo allanó el camino para el desarrollo de la topología y la teoría de conjuntos modernas, y su legado sigue influyendo en la matemática y la filosofía de las matemáticas.</p>",
         "link": "https://es.wikipedia.org/wiki/Georg_Cantor"
     },
+    "Millón": {
+        "title": "<h3 style='font-size: 3em;'>Millón</h3>",
+        "source": "<p style='color: #007BFF;'>RAE (sept. 2021)</p>",
+        "definition": "<p style='font-style: italic;'>Mil millares.</p>",
+        "description": "<p style='font-style: italic;'>Un millón es una cantidad numérica que representa una cifra extremadamente grande en el sistema de numeración decimal. Para comprender su magnitud, debemos recordar que un millón está compuesto por seis ceros después del número uno, es decir, 1 000 000. Esto significa que un millón es mil veces mayor que mil. Imagina una pila de mil libros y luego multiplica esa cantidad por mil nuevamente. Eso es lo que representa un millón: una cantidad masiva. Se utiliza para medir grandes cantidades de cosas, como poblaciones, dinero, objetos o cualquier cosa que sea demasiado numerosa para contar de manera práctica. Entender la noción de un millón es esencial en matemáticas y en la vida cotidiana, ya que nos ayuda a comprender y cuantificar cantidades enormes en el mundo que nos rodea.</p>",
+        "link": "https://es.wikipedia.org/wiki/Mill%C3%B3n"
+    },
+    "Escala Numérica Corta": {
+        "title": "<h3 style='font-size: 3em;'>Escala Numérica Corta</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>La Escala corta se refiere a la escala en la que cada nuevo término es mil veces mayor que el término anterior. En este sistema estadounidense, el término billion (inglés) representa mil millones.</p>",
+        "description": "<p style='font-style: italic;'>\"La Escala Numérica Corta y la Larga son dos formas diferentes de hablar sobre números gigantes. En la Escala Corta, decimos 'billion' para referirnos a mil millones, y en la Larga, decimos 'billón' para lo mismo. Es un poco como el inglés y el español, donde diferentes palabras significan lo mismo. Así que cuando escuches 'billion' en inglés, en realidad se refiere a mil millones en la Escala Larga, ¡es solo una forma diferente de nombrar números enormes!</p>",
+        "link": "https://es.wikipedia.org/wiki/Escalas_num%C3%A9ricas_larga_y_corta"
+    },
+    "Escala Numérica Larga": {
+        "title": "<h3 style='font-size: 3em;'>Escala Numérica Larga</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>La Escala larga se refiere a un sistema de nombres numéricos creado en el siglo xv por el matemático francés Nicolas Chuquet. Está basada en potencias de 1 millón, de tal forma que 1 billón = 1 millón de millones . Se utiliza en Europa continental y en la América hispanohablante, entre otros.</p>",
+        "description": "<p style='font-style: italic;'>\"La Escala Numérica Corta y la Larga son dos formas diferentes de hablar sobre números gigantes. En la Escala Corta, decimos 'billion' para referirnos a mil millones, y en la Larga, decimos 'billón' para lo mismo. Es un poco como el inglés y el español, donde diferentes palabras significan lo mismo. Así que cuando escuches 'billion' en inglés, en realidad se refiere a mil millones en la Escala Larga, ¡es solo una forma diferente de nombrar números enormes!</p>",
+        "link": "https://es.wikipedia.org/wiki/Escalas_num%C3%A9ricas_larga_y_corta"
+    },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
