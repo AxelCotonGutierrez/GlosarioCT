@@ -250,6 +250,26 @@
         "definition": "<p style='font-style: italic;'>Nicolas Chuquet ( francés: nacido c.  1445  – c.  1455 ; fallecido c.  1488  – c.  1500 ) fue un matemático francés . Inventó su propia notación para conceptos algebraicos y exponenciación . Pudo haber sido el primer matemático en reconocer el cero y los números negativos como exponentes.</p>",
         "description": "<p style='font-style: italic;'>Nicolas Chuquet, un matemático francés del siglo XV, hizo contribuciones significativas al Sistema de Numeración Decimal. Chuquet es conocido por su obra \"Triparty en la Science des Nombres,\" donde introdujo el uso de exponentes para representar potencias de diez. Esta innovación permitió una notación más compacta y eficiente para números grandes y simplificó los cálculos aritméticos. Su trabajo allanó el camino para una comprensión más profunda y un uso más amplio del sistema decimal en matemáticas y ciencia. </p>",
         "link": "https://en.wikipedia.org/wiki/Nicolas_Chuquet"
+    },"Matemáticas": {
+        "title": "<h3 style='font-size: 3em;'>Matemáticas</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Ciencia deductiva que estudia las propiedades de los entes abstractos, como números, figuras geométricas o símbolos, y sus relaciones.</p>",
+        "description": "<p style='font-style: italic;'>Las Matemáticas son como resolver acertijos con números y figuras. Son como un juego en el que usamos números y símbolos para contar cosas, medir, organizar, entender patrones y resolver problemas. Las Matemáticas nos ayudan a comprar cosas en la tienda, a medir el tiempo o a entender cuántas galletas hay en una caja. Son como una herramienta mágica que nos ayuda a resolver preguntas sobre el mundo que nos rodea.</p>",
+        "link": "https://es.wikipedia.org/wiki/Matem%C3%A1ticas"
+    },
+    "Cantidad": {
+        "title": "<h3 style='font-size: 3em;'>Cantidad</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Número que resulta de una medida u operación.</p>",
+        "description": "<p style='font-style: italic;'>La 'cantidad' es simplemente cuánto de algo tienes. Es como decir cuántas galletas tienes en tu mano o cuánta agua hay en un vaso. Es una forma de medir y describir las cosas. Por ejemplo, si tienes muchos caramelos, tienes una gran cantidad de caramelos. Si solo tienes uno, tienes una pequeña cantidad. La cantidad nos ayuda a entender si tenemos mucho o poco de algo y a comparar las cosas.</p>",
+        "link": "https://es.wikipedia.org/wiki/Cantidad"
+    },
+    "Elemento de un Conjunto": {
+        "title": "<h3 style='font-size: 3em;'>Elemento de un Conjunto</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Cada uno de los componentes de un conjunto.</p>",
+        "description": "<p style='font-style: italic;'>Un elemento de un conjunto es como una pieza en un rompecabezas. Cada pieza encaja en el conjunto y es una parte de él. Así que, en un conjunto de cosas, un elemento es solo una de esas cosas, como una pieza en un rompecabezas que forma parte del conjunto.</p>",
+        "link": "https://es.wikipedia.org/wiki/Elemento_de_un_conjunto"
     },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
