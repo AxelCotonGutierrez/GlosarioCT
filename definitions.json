@@ -306,6 +306,13 @@
         "description": "<p style='font-style: italic;'>El soroban es una versión especializada del ábaco que proviene de Japón. Es un instrumento de cálculo que utiliza cuentas para realizar operaciones matemáticas. Cada cuenta en el soroban representa un número, y puedes moverlas de un lado a otro para sumar, restar, multiplicar y dividir. Es una herramienta interesante que se ha utilizado durante mucho tiempo en Japón y otros lugares para realizar cálculos precisos de manera manual. En esencia, el soroban es como una calculadora antigua, pero muy eficiente.</p>",
         "link": "https://es.wikipedia.org/wiki/Soroban"
     },
+    "Principio de Conservación de Conjuntos": {
+        "title": "<h3 style='font-size: 3em;'>Principio de Conservación de Conjuntos</h3>",
+        "source": "<p style='color: #007BFF;'>Diccionario Matemático</p>",
+        "definition": "<p style='font-style: italic;'>Este principio establece que cuando dos conjuntos tienen la misma cantidad de elementos, esa igualdad se mantiene independientemente de cómo se coloquen los elementos dentro de cada conjunto. En otras palabras, la disposición o posición de los elementos no altera la cantidad total. Si dos conjuntos inicialmente tienen la misma cantidad de elementos, seguirán teniendo la misma cantidad sin importar cómo se distribuyan o se organicen en cada conjunto.</p>",
+        "description": "<p style='font-style: italic;'>El Principio de Conservación de Conjuntos es una regla fundamental en matemáticas que establece que, sin importar cómo se muevan, combinen o reorganicen los elementos de un conjunto, la cantidad total de elementos en ese conjunto permanece constante. Puedes pensar en ello como si tuvieras un montón de canicas en una caja: aunque las muevas de un lado a otro o las agrupes de diferentes maneras, la cantidad total de canicas siempre será la misma. Este principio es una parte fundamental de la teoría de conjuntos y se aplica a una amplia variedad de conceptos matemáticos. En pocas palabras, significa que no puedes crear ni destruir elementos en un conjunto, solo puedes redistribuirlos.</p>",
+        "link": ""
+    },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
