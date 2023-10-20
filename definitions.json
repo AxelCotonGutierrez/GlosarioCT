@@ -285,6 +285,27 @@
         "description": "<p style='font-style: italic;'>La correspondencia unívoca es como cuando tienes un par de zapatos y un solo par de calcetines para cada zapato. Cada zapato tiene un calcetín específico que encaja perfectamente, y viceversa. No hay intercambio o confusión, cada zapato tiene su pareja única</p>",
         "link": "https://es.wikipedia.org/wiki/Correspondencia_matem%C3%A1tica#Tipos_de_correspondencias"
     },
+    "Partición de un conjunto": {
+        "title": "<h3 style='font-size: 3em;'>Partición de un conjunto</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>Una partición de conjunto A es un conjunto de uno o más subconjuntos no vacíos de A: A1,A2,A3,⋯, tal manera que cada elemento de A está exactamente en un conjunto.</p>",
+        "description": "<p style='font-style: italic;'>La partición de un conjunto se parece a organizar tus juguetes en cajas. Imagina que tienes una colección de juguetes y deseas agruparlos de manera que cada juguete esté en una caja, y todas las cajas juntas contienen todos los juguetes. Cada caja representa un grupo, y dentro de cada grupo, no hay juguetes repetidos ni juguetes faltantes. En resumen, es como dividir tus juguetes en grupos para asegurarte de que cada uno esté en su lugar y no falte ninguno.</p>",
+        "link": "https://es.wikipedia.org/wiki/Partici%C3%B3n_de_un_conjunto"
+    },
+    "Ábaco": {
+        "title": "<h3 style='font-size: 3em;'>Ábaco</h3>",
+        "source": "<p style='color: #007BFF;'>Rae</p>",
+        "definition": "<p style='font-style: italic;'>Bastidor con cuerdas o alambres paralelos y en cada uno de ellos bolas móviles, usado para operaciones elementales de aritmética</p>",
+        "description": "<p style='font-style: italic;'>Un ábaco es como una herramienta antigua para contar cosas, similar a usar tus dedos. Imagina un tablero con cuentas que puedes mover de un lado a otro. Cada cuenta representa un número. Puedes usarlo para realizar cálculos sencillos, como sumar, restar, multiplicar y dividir. Es como un ayudante para hacer matemáticas, especialmente cuando no tienes una calculadora.</p>",
+        "link": "https://es.wikipedia.org/wiki/%C3%81baco"
+    },
+    "Soroban": {
+        "title": "<h3 style='font-size: 3em;'>Soroban</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>El soroban o ábaco japonés es un instrumento centenario utilizado por algunas culturas orientales para efectuar operaciones básicas de la aritmética. Su diseño se desarrolló en Japón basándose en el Suanpan chino, que fue introducido en el país en el siglo XIV. Con este elemento se logra inculcar el hábito de la deducción basado en la observación, ejercitar el hábito de la buena memoria recordando datos eficientemente, razonar de múltiples maneras de forma simultánea, desarrollar habilidad mental sobre el cálculo numérico y mejorar la psicomotricidad dactilar.</p>",
+        "description": "<p style='font-style: italic;'>El soroban es una versión especializada del ábaco que proviene de Japón. Es un instrumento de cálculo que utiliza cuentas para realizar operaciones matemáticas. Cada cuenta en el soroban representa un número, y puedes moverlas de un lado a otro para sumar, restar, multiplicar y dividir. Es una herramienta interesante que se ha utilizado durante mucho tiempo en Japón y otros lugares para realizar cálculos precisos de manera manual. En esencia, el soroban es como una calculadora antigua, pero muy eficiente.</p>",
+        "link": "https://es.wikipedia.org/wiki/Soroban"
+    },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
