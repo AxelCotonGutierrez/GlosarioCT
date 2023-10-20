@@ -271,6 +271,20 @@
         "description": "<p style='font-style: italic;'>Un elemento de un conjunto es como una pieza en un rompecabezas. Cada pieza encaja en el conjunto y es una parte de él. Así que, en un conjunto de cosas, un elemento es solo una de esas cosas, como una pieza en un rompecabezas que forma parte del conjunto.</p>",
         "link": "https://es.wikipedia.org/wiki/Elemento_de_un_conjunto"
     },
+    "Correspondencia Matemática": {
+        "title": "<h3 style='font-size: 3em;'>Correspondencia Matemática</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Relación que realmente existe o convencionalmente se establece entre los elementos de distintos conjuntos o colecciones.</p>",
+        "description": "<p style='font-style: italic;'>La correspondencia matemática es como un juego de emparejar. Imagina que tienes dos conjuntos de cosas y tu objetivo es encontrar las conexiones precisas entre los elementos de un conjunto y otro, como si fueran piezas de un rompecabezas que encajan perfectamente.</p>",
+        "link": "https://es.wikipedia.org/wiki/Correspondencia_matem%C3%A1tica"
+    },
+    "Correspondencia unívoca": {
+        "title": "<h3 style='font-size: 3em;'>Correspondencia unívoca</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Relación entre dos conjuntos por la que se hace corresponder a todo elemento del primero un solo elemento del segundo.</p>",
+        "description": "<p style='font-style: italic;'>La correspondencia unívoca es como cuando tienes un par de zapatos y un solo par de calcetines para cada zapato. Cada zapato tiene un calcetín específico que encaja perfectamente, y viceversa. No hay intercambio o confusión, cada zapato tiene su pareja única</p>",
+        "link": "https://es.wikipedia.org/wiki/Correspondencia_matem%C3%A1tica#Tipos_de_correspondencias"
+    },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
