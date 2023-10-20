@@ -313,6 +313,13 @@
         "description": "<p style='font-style: italic;'>El Principio de Conservación de Conjuntos es una regla fundamental en matemáticas que establece que, sin importar cómo se muevan, combinen o reorganicen los elementos de un conjunto, la cantidad total de elementos en ese conjunto permanece constante. Puedes pensar en ello como si tuvieras un montón de canicas en una caja: aunque las muevas de un lado a otro o las agrupes de diferentes maneras, la cantidad total de canicas siempre será la misma. Este principio es una parte fundamental de la teoría de conjuntos y se aplica a una amplia variedad de conceptos matemáticos. En pocas palabras, significa que no puedes crear ni destruir elementos en un conjunto, solo puedes redistribuirlos.</p>",
         "link": ""
     },
+    "Correspondencia Biunívoca": {
+        "title": "<h3 style='font-size: 3em;'>Correspondencia Biunívoca</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Correspondencia que existe o se establece entre los elementos de dos conjuntos cuando, además de ser unívoca, es recíproca; es decir, cuando a cada elemento del segundo conjunto corresponde, sin ambigüedad, uno del primero.</p>",
+        "description": "<p style='font-style: italic;'>La Correspondencia Biunívoca en matemáticas es una relación perfecta entre dos conjuntos, donde cada elemento en el primero tiene una única pareja correspondiente en el segundo, y viceversa. Es como encontrar el par perfecto, donde no hay elementos solitarios ni repeticiones en ninguno de los conjuntos. Esta correspondencia es recíproca y sin ambigüedades, asegurando que cada elemento tenga su pareja exclusiva.</p>",
+        "link": "https://es.wikipedia.org/wiki/Correspondencia_matem%C3%A1tica"
+    },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
