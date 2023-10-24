@@ -334,6 +334,34 @@
         "description": "<p style='font-style: italic;'>En matemáticas, una relación binaria entre dos conjuntos, digamos A y B, es un conjunto de pares ordenados que se encuentran dentro de los posibles pares que se pueden formar combinando elementos de A y B. Imagina que tienes dos grupos de cosas, A y B, y quieres saber cómo se relacionan entre sí. Una relación binaria es como una especie de \"conexión\" que te dice qué pares de elementos de A y B tienen alguna relación especial. En términos más simples, es como si estuvieras buscando coincidencias entre los elementos de A y B, y estos se recopilan en un conjunto llamado R. Esta relación, R, es una forma de describir cómo los elementos de A y B interactúan o se relacionan entre sí en el contexto matemático.</p>",
         "link": "https://es.wikipedia.org/wiki/Relaci%C3%B3n_binaria"
     },
+    "Principio de Orden Estable": {
+        "title": "<h3 style='font-size: 3em;'>Principio de Orden Estable</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>La secuencia de números a utilizar ha de ser estable y estar formada por etiquetas únicas, y poder repetirse en cualquier momento para facilitar su aprendizaje.</p>",
+        "description": "<p style='font-style: italic;'>El Principio de Orden Estable es una idea importante que se utiliza para describir cómo se organizan los números o elementos en una secuencia de manera predecible. Este principio nos dice que si tenemos un conjunto de elementos y los ordenamos de una manera específica, ese orden no cambiará con el tiempo. En otras palabras, si establecemos un cierto orden para nuestros elementos, este orden se mantendrá constante sin importar cuándo o cómo miremos esos elementos. Es como tener una lista de números o cosas y saber que siempre estarán en el mismo orden, lo que facilita su estudio y comprensión en matemáticas.</p>",
+        "link": "https://es.wikipedia.org/wiki/Contar"
+    },
+    "Principio de Cardinalidad": {
+        "title": "<h3 style='font-size: 3em;'>Principio de Cardinalidad</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>Se refiere a la adquisición de la noción por la que el último numeral del conteo es representativo del conjunto, por ser cardinal del mismo.</p>",
+        "description": "<p style='font-style: italic;'>El Principio de Cardinalidad en matemáticas se refiere a la idea fundamental de que dos conjuntos tienen la misma cantidad de elementos si es posible emparejar cada elemento de un conjunto con un elemento único del otro conjunto sin dejar ninguno sin emparejar. En otras palabras, este principio nos permite comparar conjuntos no solo por la cantidad de elementos que contienen, sino también por la igualdad de sus tamaños. Si podemos establecer una correspondencia uno a uno entre los elementos de dos conjuntos, entonces tienen la misma cardinalidad, lo que significa que contienen la misma cantidad de elementos, incluso si esos elementos son de naturaleza diferente. Este concepto es esencial en la teoría de conjuntos y otras ramas de las matemáticas para comparar tamaños y realizar análisis cuantitativos.</p>",
+        "link": "https://es.wikipedia.org/wiki/Contar"
+    },
+    "Principio de Abstracción": {
+        "title": "<h3 style='font-size: 3em;'>Principio de Abstracción</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>Este principio determina que los principios de orden estable, correspondencia uno-a-uno y cardinalidad puedan ser aplicados a cualquier conjunto de unidades, sea cual fuere el grado de heterogeneidad de sus elementos. Según este principio, el conteo puede ser aplicado a cualquier clase de objetos reales e imaginarios.</p>",
+        "description": "<p style='font-style: italic;'>Este principio establece que los fundamentos de orden estable, correspondencia uno-a-uno y cardinalidad pueden ser aplicados a cualquier conjunto de elementos, sin importar cuán diversos o heterogéneos sean dichos elementos. En otras palabras, podemos aplicar los conceptos de orden, establecer relaciones uno-a-uno y determinar el tamaño de conjuntos a una amplia gama de objetos, ya sean tangibles o abstractos. Esto significa que los principios matemáticos que rigen el ordenamiento de elementos, la asignación de elementos uno-a-uno y la medición de conjuntos son universales y pueden utilizarse para comprender y analizar objetos en el mundo real, así como conceptos imaginarios o abstractos. Este principio tiene una aplicación significativa en matemáticas y otras disciplinas, ya que amplía el alcance de estos conceptos básicos y los hace aplicables a una amplia diversidad de situaciones y contextos.</p>",
+        "link": "https://es.wikipedia.org/wiki/Contar"
+    },
+    "Principio de Irrelevancia en el Orden": {
+        "title": "<h3 style='font-size: 3em;'>Principio de Irrelevancia en el Orden</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>Se refiere a que la persona advierta que el orden del conteo es irrelevante para el resultado final. </p>",
+        "description": "<p style='font-style: italic;'>El Principio de Irrelevancia en el Orden establece que, en el contexto de las relaciones matemáticas y la comparación de conjuntos, el orden en el que se presentan los elementos no debe influir en el resultado final. En otras palabras, este principio sostiene que, al determinar relaciones de orden, correspondencias uno-a-uno o el tamaño de un conjunto, no importa cómo se dispongan o se ordenen los elementos, ya que el resultado será el mismo independientemente de su disposición.</p>",
+        "link": "https://es.wikipedia.org/wiki/Contar"
+    },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
