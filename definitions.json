@@ -27,7 +27,7 @@
         "description": "<p style='font-style: italic;'>Un \"Sistema de Numeración Decimal\" es una forma especial de contar y escribir números que utiliza diez símbolos diferentes, como los números del 0 al 9. Imagina que los números son como las palabras en un idioma que usamos para decir cuántas cosas tenemos. En este sistema, cuando contamos, llegamos a \"9\" y luego volvemos a empezar, como cuando decimos \"10\". Cada número en este sistema tiene un lugar especial que le da un valor, como las unidades, decenas o centenas, que nos ayuda a entender cuánto vale realmente. Este sistema es el que usamos en la vida cotidiana para contar y hacer matemáticas.</p>",
         "link": "https://es.wikipedia.org/wiki/Sistema_de_numeraci%C3%B3n_decimal"
     },
-    "Notación posicional": {
+    "Notación Posicional": {
         "title": "<h3 style='font-size: 3em;'>Notación posicional</h3>",
         "source": "<p style='color: #007BFF;'>Wikipedia</p>",
         "definition": "<p style='font-style: italic;'>La notación posicional es un sistema de numeración en el cual cada dígito posee un valor que depende de su posición relativa, la cual está determinada por la base, que es el número de dígitos necesarios para escribir cualquier número. Un ejemplo de numeración posicional es el habitualmente usado sistema decimal (base 10), necesitándose diez dígitos diferentes, los cuales deberán estar constituidos de un símbolo (grafema), cuyo valor en orden creciente es: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. Para los números escritos en sistemas de bases menores, se usan solo los dígitos de menor valor; para los escritos con bases mayores que 10, se utilizan letras: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, ...</p>",
@@ -104,14 +104,14 @@
         "description": "<p style='font-style: italic;'>Fibonacci fue un matemático antiguo que descubrió una serie de números especiales. Estos números se llaman la \"Sucesión de Fibonacci\" y se usan en matemáticas y en muchas otras cosas. También difundió en Europa el sistema de numeración que hoy usamos.</p>",
         "link": "https://es.wikipedia.org/wiki/Leonardo_de_Pisa"
     },
-    "Liber abaci": {
+    "Liber Abaci": {
         "title": "<h3 style='font-size: 3em;'>Liber abaci</h3>",
         "source": "<p style='color: #007BFF;'>Wikipedia</p>",
         "definition": "<p style='font-style: italic;'>Liber abaci (1202) es un libro histórico sobre aritmética escrito por Leonardo de Pisa, más conocido como Fibonacci. Su título tiene dos traducciones comunes, El libro del ábaco o El libro del cálculo; sin embargo Sigler (2002) expuso que la primera traducción es errónea: La intención del libro era describir métodos de hacer cálculos sin la ayuda del ábaco, y, como Ore (1948) confirma, durante siglos tras su publicación, los algoritmistas (los seguidores del estilo de cálculo demostrado en el Liber Abaci) estuvieron en conflicto con los abacistas (tradicionalistas que continuaron usando el ábaco en conjunción con el sistema romano de numeración). En este trabajo, Fibonacci introduce en Europa los números indoarábigos, elemento central de nuestro sistema decimal, que había aprendido cuando estudió con los árabes mientras vivía en Bugía (Argelia) con su padre, Guglielmo Bonaccio, quien quería que se convirtiera en comerciante. En aquella época Bugía era uno de los puertos más prósperos del Mediterráneo. Liber abaci fue de los primeros libros occidentales en describir los números indoarábigos, aunque el primero que los dio a conocer fue Crónica albeldense, de 976. Al estar dirigido a comerciantes y académicos, empezó a convencer al público de la superioridad del nuevo sistema numérico. La segunda versión de Liber abaci fue dedicada a Miguel Escoto en 1227. Hoy en día no hay ninguna versión del manuscrito original de 1202.</p>",
         "description": "<p style='font-style: italic;'>El \"Liber Abaci\" es un libro histórico sobre matemáticas escrito por Fibonacci. En él, presentó los números indoarábigos, que son la base de nuestro sistema numérico actual. Este libro ayudó a convencer a la gente de la utilidad de este nuevo sistema en lugar del ábaco y los números romanos. Aunque no tenemos el manuscrito original de 1202, su trabajo fue muy importante en la historia de las matemáticas.</p>",
         "link": "https://es.wikipedia.org/wiki/Liber_abaci"
     },
-    "Numeración romana": {
+    "Numeración Romana": {
         "title": "<h3 style='font-size: 3em;'>Numeración romana</h3>",
         "source": "<p style='color: #007BFF;'>Wikipedia</p>",
         "definition": "<p style='font-style: italic;'>La numeración romana es un sistema de numeración que se desarrolló en la Antigua Roma y se utilizó en todo el Imperio romano, manteniéndose con posterioridad a su desaparición y todavía utilizado en algunos ámbitos. Este sistema emplea algunas letras mayúsculas como símbolos para representar ciertos valores. Los números se escriben como combinaciones de letras. Por ejemplo, el año 2023, se escribe numéricamente como MMXXIII, en donde cada M representa mil unidades, cada X representa diez unidades y, finalmente, cada I representa una unidad más. Está basado en la numeración etrusca, la cual, a diferencia de la numeración decimal que está basada en un sistema posicional, se basa en un sistema aditivo (cada signo representa un valor que se va sumando al anterior). La numeración romana posteriormente evolucionó a un sistema sustractivo, en el cual algunos signos en lugar de sumar, restan. Por ejemplo, el 4 en la numeración etrusca se representaba como IIII (1+1+1+1), mientras que en la numeración romana moderna se representa como IV (1 restado a 5).</p>",
@@ -167,7 +167,7 @@
         "description": "<p style='font-style: italic;'>\"Cuantificar\" es un término que se usa para describir el acto de medir o determinar la cantidad o el valor numérico de algo. En otras palabras, cuando cuantificamos algo, estamos asignándole un número o una medida que representa su cantidad o magnitud. Por ejemplo, si contamos cuántos libros hay en una biblioteca, estamos cuantificando la cantidad de libros. La cuantificación es fundamental en muchas disciplinas, como las matemáticas, la ciencia, la economía y la estadística, ya que nos permite comprender y comunicar información precisa sobre cantidades y dimensiones.</p>",
         "link": "https://es.wikipedia.org/wiki/Cuantificaci%C3%B3n_(ciencia)#:~:text=En%20matem%C3%A1ticas%20y%20ciencias%20emp%C3%ADricas,fundamental%20para%20el%20m%C3%A9todo%20cient%C3%ADfico."
     },
-    "Sistema numérico": {
+    "Sistema Numérico": {
         "title": "<h3 style='font-size: 3em;'>Sistema numérico</h3>",
         "source": "<p style='color: #007BFF;'>Wikipedia</p>",
         "definition": "<p style='font-style: italic;'>En aritmética, álgebra y análisis matemático, sistema numérico es un conjunto provisto de dos operaciones que verifican ciertas condiciones relacionadas con las propiedades propiedad conmutativa, propiedad asociativa y distributiva. El conjunto de los números enteros, los números racionales o los números reales son ejemplos de sistemas numéricos, aunque los matemáticos han creado muchos otros sistemas numéricos más abstractos para diversos fines.</p>",
@@ -278,14 +278,14 @@
         "description": "<p style='font-style: italic;'>La correspondencia matemática es como un juego de emparejar. Imagina que tienes dos conjuntos de cosas y tu objetivo es encontrar las conexiones precisas entre los elementos de un conjunto y otro, como si fueran piezas de un rompecabezas que encajan perfectamente.</p>",
         "link": "https://es.wikipedia.org/wiki/Correspondencia_matem%C3%A1tica"
     },
-    "Correspondencia unívoca": {
+    "Correspondencia Unívoca": {
         "title": "<h3 style='font-size: 3em;'>Correspondencia unívoca</h3>",
         "source": "<p style='color: #007BFF;'>RAE</p>",
         "definition": "<p style='font-style: italic;'>Relación entre dos conjuntos por la que se hace corresponder a todo elemento del primero un solo elemento del segundo.</p>",
         "description": "<p style='font-style: italic;'>La correspondencia unívoca es como cuando tienes un par de zapatos y un solo par de calcetines para cada zapato. Cada zapato tiene un calcetín específico que encaja perfectamente, y viceversa. No hay intercambio o confusión, cada zapato tiene su pareja única</p>",
         "link": "https://es.wikipedia.org/wiki/Correspondencia_matem%C3%A1tica#Tipos_de_correspondencias"
     },
-    "Partición de un conjunto": {
+    "Partición de un Conjunto": {
         "title": "<h3 style='font-size: 3em;'>Partición de un conjunto</h3>",
         "source": "<p style='color: #007BFF;'>Wikipedia</p>",
         "definition": "<p style='font-style: italic;'>Una partición de conjunto A es un conjunto de uno o más subconjuntos no vacíos de A: A1,A2,A3,⋯, tal manera que cada elemento de A está exactamente en un conjunto.</p>",
@@ -319,6 +319,20 @@
         "definition": "<p style='font-style: italic;'>Correspondencia que existe o se establece entre los elementos de dos conjuntos cuando, además de ser unívoca, es recíproca; es decir, cuando a cada elemento del segundo conjunto corresponde, sin ambigüedad, uno del primero.</p>",
         "description": "<p style='font-style: italic;'>La Correspondencia Biunívoca en matemáticas es una relación perfecta entre dos conjuntos, donde cada elemento en el primero tiene una única pareja correspondiente en el segundo, y viceversa. Es como encontrar el par perfecto, donde no hay elementos solitarios ni repeticiones en ninguno de los conjuntos. Esta correspondencia es recíproca y sin ambigüedades, asegurando que cada elemento tenga su pareja exclusiva.</p>",
         "link": "https://es.wikipedia.org/wiki/Correspondencia_matem%C3%A1tica"
+    },
+    "Relación de Orden": {
+        "title": "<h3 style='font-size: 3em;'>Relación de Orden</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>En matemáticas, una relación de orden u orden parcial​ es una relación binaria que pretende formalizar la idea intuitiva de ordenación de los elementos de un conjunto, es decir, que permite comparar sus elementos. Los conjuntos dotados de un orden, llamados conjuntos ordenados, son el objeto de estudio de la teoría del orden.</p>",
+        "description": "<p style='font-style: italic;'>En matemáticas, una relación de orden, también conocida como orden parcial, es una forma de organizar elementos en un conjunto de manera que podamos compararlos entre sí. Es como tener una lista de cosas y decir cuál es más grande o más pequeña que las demás. Esto nos ayuda a clasificar y entender mejor esos elementos. Los conjuntos que tienen este tipo de orden se llaman conjuntos ordenados, y estudiar cómo funcionan y se relacionan los elementos en estos conjuntos es lo que llamamos teoría del orden. En resumen, una relación de orden es una herramienta que nos permite poner en fila y comparar cosas en matemáticas.</p>",
+        "link": "https://es.wikipedia.org/wiki/Relaci%C3%B3n_de_orden"
+    },
+    "Relación Binaria": {
+        "title": "<h3 style='font-size: 3em;'>Relación Binaria</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>Se llama relación binaria entre dos conjuntos 𝐴 y 𝐵 a cualquier conjunto 𝑅 de pares ordenados tal que 𝑅⊆𝐴×𝐵. Decimos en este caso que 𝑅 es una relación entre 𝐴 y 𝐵.</p>",
+        "description": "<p style='font-style: italic;'>En matemáticas, una relación binaria entre dos conjuntos, digamos A y B, es un conjunto de pares ordenados que se encuentran dentro de los posibles pares que se pueden formar combinando elementos de A y B. Imagina que tienes dos grupos de cosas, A y B, y quieres saber cómo se relacionan entre sí. Una relación binaria es como una especie de \"conexión\" que te dice qué pares de elementos de A y B tienen alguna relación especial. En términos más simples, es como si estuvieras buscando coincidencias entre los elementos de A y B, y estos se recopilan en un conjunto llamado R. Esta relación, R, es una forma de describir cómo los elementos de A y B interactúan o se relacionan entre sí en el contexto matemático.</p>",
+        "link": "https://es.wikipedia.org/wiki/Relaci%C3%B3n_binaria"
     },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
