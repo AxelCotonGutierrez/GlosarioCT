@@ -362,6 +362,27 @@
         "description": "<p style='font-style: italic;'>El Principio de Irrelevancia en el Orden establece que, en el contexto de las relaciones matemáticas y la comparación de conjuntos, el orden en el que se presentan los elementos no debe influir en el resultado final. En otras palabras, este principio sostiene que, al determinar relaciones de orden, correspondencias uno-a-uno o el tamaño de un conjunto, no importa cómo se dispongan o se ordenen los elementos, ya que el resultado será el mismo independientemente de su disposición.</p>",
         "link": "https://es.wikipedia.org/wiki/Contar"
     },
+    "Número Ordinal": {
+        "title": "<h3 style='font-size: 3em;'>Número Ordinal</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Número que expresa ideas de orden o sucesión; p. ej., primero, segundo, tercero.</p>",
+        "description": "<p style='font-style: italic;'>Un número ordinal es una forma de representar la posición o el orden de un elemento en una serie o secuencia. Por ejemplo, en la serie de números ordinales, \"primero\" indica la posición número uno, \"segundo\" la posición número dos, y así sucesivamente. Los números ordinales se usan para contar el lugar de algo en una lista, como los competidores en una carrera o los días de la semana.</p>",
+        "link": "https://es.wikipedia.org/wiki/N%C3%BAmero_ordinal_(matem%C3%A1tica)"
+    },
+    "Principio de Ordenamiento": {
+        "title": "<h3 style='font-size: 3em;'>Principio de Ordenamiento</h3>",
+        "source": "<p style='color: #007BFF;'>Diccionario Matemático</p>",
+        "definition": "<p style='font-style: italic;'>El Principio de Ordenamiento es un concepto matemático que establece la posibilidad de organizar o disponer los elementos de un conjunto en una secuencia específica basada en un criterio de orden. Este principio es fundamental en la teoría de conjuntos y matemáticas, y permite la clasificación y comparación de elementos según reglas predefinidas, como el orden numérico, alfabético o cualquier otro criterio de orden. El Principio de Ordenamiento es esencial para la comprensión de conceptos como números ordinales, secuencias y series, y desempeña un papel crucial en diversas áreas de las matemáticas y la teoría de conjuntos.</p>",
+        "description": "<p style='font-style: italic;'>El Principio de Ordenamiento es una regla importante en matemáticas que nos permite organizar los elementos de un conjunto en una secuencia o fila, de manera que podamos compararlos y establecer un orden. Es como cuando ordenamos los números de menor a mayor o de mayor a menor. Este principio nos ayuda a entender cómo organizar datos y objetos de una manera lógica y estructurada, lo que es fundamental en matemáticas y en muchas otras áreas de estudio.</p>",
+        "link": "https://es.wikipedia.org/wiki/Conjunto_bien_ordenado"
+    },
+    "Principio de Correspondencia Uno a Uno": {
+        "title": "<h3 style='font-size: 3em;'>Principio de Correspondencia Uno a Uno</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>Se refiere a que la persona advierta que el orden del conteo es irrelevante para el resultado final. </p>",
+        "description": "<p style='font-style: italic;'>El Principio de Correspondencia Uno a Uno es una regla en matemáticas que nos dice que, cuando comparamos dos conjuntos, podemos establecer una relación entre los elementos de manera que cada elemento de un conjunto tenga una pareja única en el otro conjunto y viceversa. Esto es como emparejar calcetines: cada calcetín tiene su pareja correspondiente. Este principio nos ayuda a entender cómo los elementos de diferentes conjuntos se relacionan de manera igualitaria, lo que es útil en matemáticas y en muchos otros aspectos de la vida.</p>",
+        "link": "https://es.wikipedia.org/wiki/Contar"
+    },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
