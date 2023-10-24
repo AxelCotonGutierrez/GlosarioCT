@@ -411,6 +411,76 @@
         "description": "<p style='font-style: italic;'>El Principio de Generalización en matemáticas es como aprender una regla que nos permite usar los números en diferentes situaciones. Por ejemplo, no solo sirven para decir quién es el primero o el segundo en una fila, también los usamos para las posiciones en una carrera. Es como aprender una habilidad especial para contar y ordenar las cosas en muchos casos diferentes.</p>",
         "link": "https://es.wikipedia.org/wiki/N%C3%BAmero_ordinal_(matem%C3%A1tica)"
     },
+    "Primero": {
+        "title": "<h3 style='font-size: 3em;'>Primero</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Dicho de una persona o de una cosa: Que precede a las demás de su especie en orden, tiempo, lugar, situación, clase o jerarquía.</p>",
+        "description": "<p style='font-style: italic;'>Primero es el número que usamos para hablar de la cosa que está en el lugar número uno, es decir, la que está al principio o al frente de una serie o fila. Es como cuando decimos que el ganador de una carrera es el \"primero\" en llegar a la meta.</p>",
+        "link": "https://es.wikipedia.org/wiki/Uno"
+    },
+    "Segundo": {
+        "title": "<h3 style='font-size: 3em;'>Segundo</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Que ocupa en una serie el lugar número dos.</p>",
+        "description": "<p style='font-style: italic;'>Segundo es el número que usamos para referirnos a la cosa que está en el lugar número dos, es decir, la que sigue a la primera en una serie o fila. Es como cuando decimos que el corredor que llega después del primero en una carrera es el \"segundo\" en cruzar la meta.</p>",
+        "link": "https://es.wikipedia.org/wiki/Dos"
+    },
+    "Tercero": {
+        "title": "<h3 style='font-size: 3em;'>Tercero</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Que ocupa en una serie el lugar número tres.</p>",
+        "description": "<p style='font-style: italic;'>Tercero es el número que utilizamos para describir la cosa que está en el lugar número tres en una serie o fila. Es lo que sigue después del primero y el segundo. Cuando contamos, después de decir \"uno\" y \"dos\", llegamos al \"tercero\". Por ejemplo, si tienes tres amigos, el que está en la tercera posición es el \"tercero\" de tus amigos.</p>",
+        "link": "https://es.wikipedia.org/wiki/Tres"
+    },
+    "Cuarto": {
+        "title": "<h3 style='font-size: 3em;'>Cuarto</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Que ocupa en una serie el lugar número cuatro.</p>",
+        "description": "<p style='font-style: italic;'>Cuarto es el número que utilizamos para describir la cosa que está en el lugar número cuatro en una serie o fila. Es lo que sigue después del primero, el segundo y el tercero. Cuando contamos, después de decir \"uno\", \"dos\" y \"tres\", llegamos al \"cuarto\". Por ejemplo, si tienes cuatro hermanos, el que está en la cuarta posición es el \"cuarto\" de tus hermanos.</p>",
+        "link": "https://es.wikipedia.org/wiki/Cuatro"
+    },
+    "Quinto": {
+        "title": "<h3 style='font-size: 3em;'>Quinto</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Que ocupa en una serie el lugar número cinco.</p>",
+        "description": "<p style='font-style: italic;'>Quinto es el número que utilizamos para describir la cosa que está en el lugar número cinco en una serie o fila. Es lo que sigue después del primero, el segundo, el tercero y el cuarto. Cuando contamos, después de decir \"uno\", \"dos\", \"tres\", \"cuatro\", llegamos al \"quinto\". Por ejemplo, si tienes cinco amigos en una fila, el amigo que está en la quinta posición es el \"quinto\" amigo.</p>",
+        "link": "https://es.wikipedia.org/wiki/Cinco"
+    },
+    "Sexto": {
+        "title": "<h3 style='font-size: 3em;'>Sexto</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Que ocupa en una serie el lugar número seis.</p>",
+        "description": "<p style='font-style: italic;'>Sexto es el número que usamos para describir la cosa que está en el lugar número seis en una serie o fila. Cuando contamos, después de decir \"uno\", \"dos\", \"tres\", \"cuatro\", \"cinco\", llegamos al \"sexto\". Por ejemplo, si tienes seis caramelos en una fila, el caramelo que está en la sexta posición es el \"sexto\" caramelo.</p>",
+        "link": "https://es.wikipedia.org/wiki/Seis"
+    },
+    "Séptimo": {
+        "title": "<h3 style='font-size: 3em;'>Séptimo</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Que ocupa en una serie el lugar número siete.</p>",
+        "description": "<p style='font-style: italic;'>Séptimo es el número que usamos para describir la cosa que está en el lugar número siete en una serie o fila. Cuando contamos, después de decir \"uno\", \"dos\", \"tres\", \"cuatro\", \"cinco\", \"seis\", llegamos al \"séptimo\". Por ejemplo, si tienes siete libros en una fila, el libro que está en la séptima posición es el \"séptimo\" libro.</p>",
+        "link": "https://es.wikipedia.org/wiki/Siete"
+    },
+    "Octavo": {
+        "title": "<h3 style='font-size: 3em;'>Octavo</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Que ocupa en una serie el lugar número ocho.</p>",
+        "description": "<p style='font-style: italic;'>Octavo es el número que usamos para describir la cosa que está en el lugar número ocho en una serie o fila. Después de contar \"uno\", \"dos\", \"tres\", \"cuatro\", \"cinco\", \"seis\", \"siete\", llegamos al \"octavo\". Por ejemplo, si tienes ocho pelotas en una fila, la pelota que está en la octava posición es la \"octava\" pelota.</p>",
+        "link": "https://es.wikipedia.org/wiki/Ocho"
+    },
+    "Noveno": {
+        "title": "<h3 style='font-size: 3em;'>Noveno</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Que ocupa en una serie el lugar número nueve.</p>",
+        "description": "<p style='font-style: italic;'>Noveno es el número que utilizamos para describir la cosa que está en el lugar número nueve en una serie o fila. Después de contar \"uno\", \"dos\", \"tres\", \"cuatro\", \"cinco\", \"seis\", \"siete\", \"ocho\", llegamos al \"noveno\". Por ejemplo, si tienes nueve libros en una fila, el libro que está en la novena posición es el \"noveno\" libro.</p>",
+        "link": "https://es.wikipedia.org/wiki/Nueve"
+    },
+    "Décimo": {
+        "title": "<h3 style='font-size: 3em;'>Décimo</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Que ocupa en una serie el lugar número diez.</p>",
+        "description": "<p style='font-style: italic;'>Décimo es el número que usamos para describir la cosa que está en el lugar número diez en una serie o fila. Después de contar \"uno\", \"dos\", \"tres\", \"cuatro\", \"cinco\", \"seis\", \"siete\", \"ocho\", \"nueve\", llegamos al \"décimo\". Por ejemplo, si tienes diez estudiantes en una fila, el estudiante que está en la décima posición es el \"décimo\" estudiante.</p>",
+        "link": "https://es.wikipedia.org/wiki/Diez"
+    },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
