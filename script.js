@@ -16,12 +16,15 @@ fetch('definitions.json')
 
         searchButton.addEventListener("click", () => {
             const searchTerm = searchInput.value.trim().toLowerCase();
-
-            // Busca definiciones que comiencen con las mismas letras que el término de búsqueda
+        
+            // Busca definiciones cuyo título contenga el término de búsqueda
             const matchingDefinitions = Object.keys(definitions)
-                .filter(term => term.toLowerCase().startsWith(searchTerm))
+                .filter(term => {
+                    const definition = definitions[term];
+                    return definition.title.toLowerCase().includes(searchTerm);
+                })
                 .sort(); // Ordena los resultados alfabéticamente
-
+        
             if (matchingDefinitions.length > 0) {
                 const resultsHTML = matchingDefinitions.map(term => {
                     const definition = definitions[term];
