@@ -404,6 +404,13 @@
         "description": "<p style='font-style: italic;'>El Principio de Etiquetación en matemáticas se trata de darle a cada elemento de una serie un número especial que indica su posición. Esto es como cuando decimos \"primero\", \"segundo\", \"tercero\", etc. para mostrar el orden en que las cosas suceden. Es como ponerle una etiqueta a cada elemento para que sepas en qué lugar está en la serie. Este principio te ayuda a entender cómo ordenar cosas y saber cuál viene antes y cuál después, algo que es útil en matemáticas y en la vida cotidiana.</p>",
         "link": "https://es.wikipedia.org/wiki/N%C3%BAmero_ordinal_(matem%C3%A1tica)"
     },
+    "Principio de Generalización": {
+        "title": "<h3 style='font-size: 3em;'>Principio de Generalización</h3>",
+        "source": "<p style='color: #007BFF;'>Diccionario Matemático</p>",
+        "definition": "<p style='font-style: italic;'>El Principio de Generalización en matemáticas es esencial para la comprensión de los números ordinales. A medida que los estudiantes avanzan en su estudio de los números ordinales, deben ser capaces de aplicar este conocimiento en diversos contextos y situaciones. Esto significa que los números ordinales no se limitan a describir la posición de estudiantes en una fila, sino que también se pueden usar para indicar los pasos en una receta o los lugares en una competencia deportiva. La generalización permite a los estudiantes aplicar su comprensión de los números ordinales de manera más amplia y versátil.</p>",
+        "description": "<p style='font-style: italic;'>El Principio de Generalización en matemáticas es como aprender una regla que nos permite usar los números en diferentes situaciones. Por ejemplo, no solo sirven para decir quién es el primero o el segundo en una fila, también los usamos para las posiciones en una carrera. Es como aprender una habilidad especial para contar y ordenar las cosas en muchos casos diferentes.</p>",
+        "link": "https://es.wikipedia.org/wiki/N%C3%BAmero_ordinal_(matem%C3%A1tica)"
+    },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
