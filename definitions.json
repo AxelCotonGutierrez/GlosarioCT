@@ -481,6 +481,27 @@
         "description": "<p style='font-style: italic;'>Décimo es el número que usamos para describir la cosa que está en el lugar número diez en una serie o fila. Después de contar \"uno\", \"dos\", \"tres\", \"cuatro\", \"cinco\", \"seis\", \"siete\", \"ocho\", \"nueve\", llegamos al \"décimo\". Por ejemplo, si tienes diez estudiantes en una fila, el estudiante que está en la décima posición es el \"décimo\" estudiante.</p>",
         "link": "https://es.wikipedia.org/wiki/Diez"
     },
+    "Valor Intrínseco de un Dígito o Cifra": {
+        "title": "<h3 style='font-size: 3em;'>Valor Intrínseco de un Dígito o Cifra</h3>",
+        "source": "<p style='color: #007BFF;'>Diccionario Matemático</p>",
+        "definition": "<p style='font-style: italic;'>El Valor Intrínseco de una cifra es la cantidad que expresa aisladamente. Una excepción es la cifra 0, que expresa la ausencia de cantidad.</p>",
+        "description": "<p style='font-style: italic;'>El Valor Intrínseco de una cifra es la cantidad que representa por sí sola en un número. Por ejemplo, el número \"5\" nos dice que hay cinco cosas, pero el número \"0\" es especial, ya que nos indica la ausencia de cantidad, es decir, que no hay nada en absoluto.</p>",
+        "link": "https://es.wikipedia.org/wiki/Cifra_(matem%C3%A1tica)"
+    },
+    "Valor Posicional de una Cifra o Dígito": {
+        "title": "<h3 style='font-size: 3em;'>Valor Posicional de una Cifra o Dígito</h3>",
+        "source": "<p style='color: #007BFF;'>Diccionario Matemático</p>",
+        "definition": "<p style='font-style: italic;'>El Valor Posicional de una cifra es el valor que toma la cifra en función de la posición que ocupa en el número.</p>",
+        "description": "<p style='font-style: italic;'>El Valor Posicional de una cifra es el valor que esa cifra tiene dependiendo de dónde se encuentra en un número. Por ejemplo, en el número 45, el \"4\" está en la posición de las decenas, por lo que su valor es 40, y el \"5\" está en la posición de las unidades, por lo que su valor es 5. Así que, el lugar que ocupa una cifra en un número determina su Valor Posicional y cuánto contribuye al valor total del número.</p>",
+        "link": "https://es.wikipedia.org/wiki/Cifra_(matem%C3%A1tica)"
+    },
+    "Orden de una Cifra o Dígito": {
+        "title": "<h3 style='font-size: 3em;'>Orden de una Cifra o Dígito</h3>",
+        "source": "<p style='color: #007BFF;'>Diccionario Matemático</p>",
+        "definition": "<p style='font-style: italic;'>La posición que ocupa una cifra en un número se llama Orden. El valor posicional de una cifra se obtiene multiplicando por las respectivas potencias del 10, esto es, 10, 100, 1000,...</p>",
+        "description": "<p style='font-style: italic;'>Cada cifra en un número tiene un lugar especial, que se llama \"orden\". El Valor Posicional de una cifra es cuánto vale en función de ese lugar en el número. Para obtener este valor, multiplicamos la cifra por las potencias de 10, como 10, 100, 1000, dependiendo de su orden en el número. Por ejemplo, en el número 345, el \"3\" está en el lugar de las centenas, por lo que su valor posicional es 3 x 100 = 300, el \"4\" está en el lugar de las decenas, por lo que su valor posicional es 4 x 10 = 40, y el \"5\" está en el lugar de las unidades, por lo que su valor posicional es 5 x 1 = 5. Sumando estos valores, obtenemos el valor total del número.</p>",
+        "link": "https://es.wikipedia.org/wiki/Cifra_(matem%C3%A1tica)"
+    },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
