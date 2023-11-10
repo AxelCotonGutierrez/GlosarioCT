@@ -97,7 +97,7 @@
         "description": "<p style='font-style: italic;'>Al-Juarismi fue un matemático antiguo que ayudó a inventar formas de resolver problemas matemáticos difíciles. También trabajó en astronomía y geografía, mejorando mapas y tablas astronómicas. Su legado más famoso es haber introducido los números arábigos en Occidente, que usamos hoy en día para contar.</p>",
         "link": "https://es.wikipedia.org/wiki/Al-Juarismi"
     },
-    "Fibonacci": {
+    "Fibonacci, Leornado de Pisa": {
         "title": "<h3 style='font-size: 3em;'>Fibonacci</h3>",
         "source": "<p style='color: #007BFF;'>Wikipedia</p>",
         "definition": "<p style='font-style: italic;'>Leonardo de pisa (Pisa, c. 1173 - ib., post. 1241), a veces también llamado Leonardo Pisano, Leonardo Bigollo Pisano (Leonardo el viajero de Pisa) o simplemente Fibonacci, fue un matemático italiano de la República de Pisa, considerado \"el matemático occidental de mayor talento de la Edad Media\". Difundió en Europa la utilidad práctica del sistema de numeración indo-arábigo frente a la numeración romana, y fue el primer europeo en describir la sucesión numérica que precisamente lleva su nombre.</p>",
@@ -188,7 +188,7 @@
         "description": "<p style='font-style: italic;'>Ahmes, un escriba egipcio que vivió hace más de 3,600 años, dejó una huella indeleble en la historia de las matemáticas. Su legado más notable es el \"Papiro Rhind\", un antiguo manuscrito que contiene una amplia gama de problemas y técnicas matemáticas egipcias. Ahmes nos revela su dominio en áreas como la aritmética, la geometría y las fracciones, proporcionando soluciones detalladas que arrojan luz sobre la forma en que los antiguos egipcios aplicaban las matemáticas en su vida cotidiana. Sus contribuciones incluyen métodos para calcular áreas y volúmenes, así como técnicas de multiplicación y división avanzadas para su época. Su trabajo es una ventana fascinante a las habilidades matemáticas de una civilización antigua y su influencia perdura en la historia de las matemáticas.</p>",
         "link": "https://es.wikipedia.org/wiki/Ahmes_(escriba)"
     },
-    "Papiro Rhind": {
+    "Papiro Rhind o Papiro Ahmes": {
         "title": "<h3 style='font-size: 3em;'>Papiro Rhind</h3>",
         "source": "<p style='color: #007BFF;'>Wikipedia</p>",
         "definition": "<p style='font-style: italic;'>El papiro de Ahmes, más conocido como papiro matemático Rhind o simplemente papiro Rhind, es un documento de carácter didáctico que contiene diversos problemas matemáticos. Está redactado en escritura hierática y mide unos seis metros de longitud por 35 cm de anchura. Se encuentra en buen estado de conservación. El texto, obra del escriba Ahmes, bajo el reinado de Apofis I, es copia de un documento del siglo xix a. C. de época de Amenemhat III.</p>",
