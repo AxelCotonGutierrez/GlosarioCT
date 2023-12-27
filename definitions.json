@@ -502,6 +502,140 @@
         "description": "<p style='font-style: italic;'>Cada cifra en un número tiene un lugar especial, que se llama \"orden\". El Valor Posicional de una cifra es cuánto vale en función de ese lugar en el número. Para obtener este valor, multiplicamos la cifra por las potencias de 10, como 10, 100, 1000, dependiendo de su orden en el número. Por ejemplo, en el número 345, el \"3\" está en el lugar de las centenas, por lo que su valor posicional es 3 x 100 = 300, el \"4\" está en el lugar de las decenas, por lo que su valor posicional es 4 x 10 = 40, y el \"5\" está en el lugar de las unidades, por lo que su valor posicional es 5 x 1 = 5. Sumando estos valores, obtenemos el valor total del número.</p>",
         "link": "https://es.wikipedia.org/wiki/Cifra_(matem%C3%A1tica)"
     },
+    
+    "Figura Geométrica": {
+        "title": "<h3 style='font-size: 3em;'>Figura Geométrica</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>Las figuras geométricas son el objeto de estudio de la geometría, rama de las matemáticas que se dedica a analizar las proporciones de las medidas de las figuras en el espacio o en el plano.</p>",
+        "description": "<p style='font-style: italic;'>Las figuras geométricas son como las formas que vemos a nuestro alrededor. Por ejemplo, un cuadrado tiene cuatro lados iguales, como las ventanas en una casa. Un triángulo tiene tres lados, como las porciones de una pizza. La geometría nos ayuda a entender cuánto miden estas formas y cómo se relacionan entre sí.</p>",
+        "link": "https://es.wikipedia.org/wiki/Figura_geom%C3%A9trica"
+    },
+    "Geometría": {
+        "title": "<h3 style='font-size: 3em;'>Geometría</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Estudio de las propiedades y de las magnitudes de las figuras en el plano o en el espacio.</p>",
+        "description": "<p style='font-style: italic;'>La geometría es como un juego donde exploramos y entendemos las formas que vemos en el papel o en el espacio. Descubrimos cuánto miden y cómo se conectan entre sí. Es como resolver acertijos sobre las figuras a nuestro alrededor, como cuadrados, triángulos y otras formas.</p>",
+        "link": "https://es.wikipedia.org/wiki/Geometr%C3%ADa"
+    },
+    "Cuadrado": {
+        "title": "<h3 style='font-size: 3em;'>Cuadrado</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Dicho de una figura plana: Cerrada por cuatro líneas rectas iguales que forman otros tantos ángulos rectos.</p>",
+        "description": "<p style='font-style: italic;'>Un cuadrado es una figura plana que tiene cuatro lados iguales y está cerrada como una cerca. Cada esquina del cuadrado forma un ángulo de 90 grados, como las esquinas de un libro o de una hoja de papel cuadrada.</p>",
+        "link": "https://es.wikipedia.org/wiki/Cuadrado"
+    },
+    "Polígono, Figura Plana": {
+        "title": "<h3 style='font-size: 3em;'>Polígono, Figura Plana</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Porción de plano limitada por líneas rectas.</p>",
+        "description": "<p style='font-style: italic;'>Un polígono en geometría es como un dibujo en el que conectamos varios puntos con líneas rectas para formar una figura en una hoja de papel. Puede ser como un dibujo con varios lados. La forma que creamos al unir estos segmentos encierra un espacio en la hoja, como cuando dibujamos un cuadrado o un triángulo.</p>",
+        "link": "https://es.wikipedia.org/wiki/Pol%C3%ADgono"
+    },
+    "Plano (geometría)": {
+        "title": "<h3 style='font-size: 3em;'>Plano (Geometría)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Superficie que contiene la recta que pasa por dos puntos cualesquiera de esta.</p>",
+        "description": "<p style='font-style: italic;'>En geometría, un plano es como una hoja de papel gigante que no se puede doblar ni curvar. Es como el espacio donde dibujamos puntos y líneas, y es uno de los conceptos principales en geometría, al igual que el punto y la línea.</p>",
+        "link": "https://es.wikipedia.org/wiki/Plano_(geometr%C3%ADa)"
+    },
+    "Triángulo, Trígono o Trigonoide": {
+        "title": "<h3 style='font-size: 3em;'>Triángulo, Trígono o Trigonoide</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Polígono de tres ángulos y tres lados.</p>",
+        "description": "<p style='font-style: italic;'>En geometría plana, un triángulo es como un dibujo con tres lados. Los puntos donde se encuentran los lados se llaman las esquinas del triángulo. Es como hacer un dibujo con tres líneas que se tocan en tres puntos diferentes.</p>",
+        "link": "https://es.wikipedia.org/wiki/Tri%C3%A1ngulo"
+    },
+    "Círculo": {
+        "title": "<h3 style='font-size: 3em;'>Círculo</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Área o superficie plana contenida dentro de una circunferencia.</p>",
+        "description": "<p style='font-style: italic;'>Imagina un círculo como una mancha redonda que haces en una hoja de papel. Esa mancha está marcada por una línea llamada circunferencia. Además, puedes medir el espacio dentro de la mancha, y eso es lo que llamamos el área del círculo. Es una forma especial en geometría que tiene una línea alrededor y un espacio dentro.</p>",
+        "link": "https://es.wikipedia.org/wiki/C%C3%ADrculo"
+    },
+    "Circunferencia": {
+        "title": "<h3 style='font-size: 3em;'>Circunferencia</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Curva plana y cerrada cuyos puntos son equidistantes de otro situado en su interior, llamado centro.</p>",
+        "description": "<p style='font-style: italic;'>Piensa en una circunferencia como una curva redonda que dibujas en una hoja de papel. Todos los puntos de esta curva están a la misma distancia del centro, como si estuvieras midiendo desde el medio hasta cualquier punto en el borde. Es una forma especial que se ve como un anillo y todos sus puntos están igualmente lejos del centro.</p>",
+        "link": "https://es.wikipedia.org/wiki/Circunferencia"
+    },
+    "Segmento": {
+        "title": "<h3 style='font-size: 3em;'>Segmento</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Parte de una recta comprendida entre dos puntos.</p>",
+        "description": "<p style='font-style: italic;'>Un segmento es como una parte de una línea que va desde un punto hasta otro. Es como si eligieras dos lugares en una línea y marcaras la parte entre ellos. Puedes imaginártelo como un pedazo de camino que conecta dos puntos específicos.</p>",
+        "link": "https://es.wikipedia.org/wiki/Segmento"
+    },
+    "Lado (Geometría)": {
+        "title": "<h3 style='font-size: 3em;'>Lado (Geometría)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Cada una de las líneas que forman o limitan un polígono.</p>",
+        "description": "<p style='font-style: italic;'>Puedes pensar en un lado como una línea que dibujas alrededor de una figura, como si estuvieras delineando sus bordes. Cuando haces un dibujo con muchas líneas para formar una figura, cada una de esas líneas se llama lado. Son como los límites que definen la forma del dibujo.</p>",
+        "link": "https://es.wikipedia.org/wiki/Segmento"
+    },
+    "Proporcionalidad": {
+        "title": "<h3 style='font-size: 3em;'>Proporcionalidad</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Conformidad o proporción de unas partes con el todo o de cosas relacionadas entre sí.</p>",
+        "description": "<p style='font-style: italic;'>La proporcionalidad es como una relación especial entre cosas que puedes medir. Imagina que estás comparando dos cosas, y siempre hay una relación constante entre ellas. Es como si midieras algo, y sin importar cuánto midas, siempre hay una conexión constante entre las cantidades. Esa conexión constante es lo que llamamos proporcionalidad.</p>",
+        "link": "https://es.wikipedia.org/wiki/Proporcionalidad"
+    },
+    "Proporción.": {
+        "title": "<h3 style='font-size: 3em;'>Proporción.</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Igualdad de dos razones.</p>",
+        "description": "<p style='font-style: italic;'>La proporción es como una comparación especial entre dos cosas. Es como decir que dos razones son iguales. Si comparas dos cantidades y descubres que la relación entre ellas es siempre la misma, entonces estamos hablando de proporciones, que son como las conexiones constantes entre esas dos razones.</p>",
+        "link": "https://es.wikipedia.org/wiki/Proporcionalidad"
+    },
+    "Paralelismo (Matemática)": {
+        "title": "<h3 style='font-size: 3em;'>Paralelismo (Matemática)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Cualidad de paralelo.</p>",
+        "description": "<p style='font-style: italic;'>El paralelismo es como la cualidad de ser paralelo. Imagina dos líneas que nunca se encuentran, siempre corren una al lado de la otra y nunca se tocan. Esa cualidad de mantenerse siempre a la misma distancia una de la otra es lo que llamamos paralelismo.</p>",
+        "link": "https://es.wikipedia.org/wiki/Paralelismo_(matem%C3%A1tica)"
+    },
+    "Paralelo, Paralela": {
+        "title": "<h3 style='font-size: 3em;'>Paraleloa, Paralelo</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Dicho de dos o más líneas o superficies: Que mantienen la misma distancia entre sí en todos sus puntos.</p>",
+        "description": "<p style='font-style: italic;'>Cuando decimos que dos o más líneas o superficies son paralelas, significa que siempre están a la misma distancia una de la otra en todos sus puntos. Puedes imaginártelo como si fueran raíles de tren que nunca se tocan, manteniendo esa distancia constante a lo largo de su recorrido.</p>",
+        "link": "https://es.wikipedia.org/wiki/Paralelismo_(matem%C3%A1tica)"
+    },
+    "Perpendicularidad": {
+        "title": "<h3 style='font-size: 3em;'>Perpendicularidad</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Cualidad de perpendicular.</p>",
+        "description": "<p style='font-style: italic;'>La perpendicularidad es como la cualidad de ser perpendicular. Piensa en dos líneas que se cruzan formando un ángulo de 90 grados. Esa cualidad de cruzarse en ángulo recto es lo que llamamos perpendicularidad.</p>",
+        "link": "https://es.wikipedia.org/wiki/Perpendicularidad"
+    },
+    "Perpendicular": {
+        "title": "<h3 style='font-size: 3em;'>Perpendicular</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Dicho de una línea o de un plano: Que forma ángulo recto con otra línea o con otro plano.</p>",
+        "description": "<p style='font-style: italic;'>Cuando hablamos de una línea o un plano como perpendicular, nos referimos a que se encuentra en ángulo recto con otra línea o plano. Esto significa que se cruzan formando un ángulo de 90 grados, como dos líneas que se encuentran para formar una esquina perfecta.</p>",
+        "link": "https://es.wikipedia.org/wiki/Perpendicularidad"
+    },
+    "Ángulo": {
+        "title": "<h3 style='font-size: 3em;'>Ángulo</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Figura geométrica formada bien por dos líneas planas que concurren en un punto, bien por dos semiplanos en el espacio que parten de una misma recta, o bien por tres o más planos en el espacio que se cortan en un punto.</p>",
+        "description": "<p style='font-style: italic;'>Un ángulo es como una figura geométrica formada de diferentes maneras. Puede ser creado por dos líneas que se encuentran en un punto, como la esquina de un libro. También, en el espacio, puede formarse por dos áreas que parten de una misma línea, o incluso por tres o más áreas que se cortan en un punto. En resumen, un ángulo es la región entre estas líneas o planos que se encuentran o se cruzan.</p>",
+        "link": "https://es.wikipedia.org/wiki/%C3%81ngulo"
+    },
+    "Ángulo recto": {
+        "title": "<h3 style='font-size: 3em;'>Ángulo recto</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Ángulo formado por dos líneas o dos planos que se cortan perpendicularmente y que equivale a 90°.</p>",
+        "description": "<p style='font-style: italic;'>Un ángulo recto es como una esquina perfecta formada por dos líneas o dos planos que se cruzan de manera perpendicular. Esto significa que se encuentran en un punto y forman un ángulo de 90 grados, como el rincón de una hoja de papel. Es una medida específica que nos indica que las líneas o planos se cortan en un ángulo de 90 grados.</p>",
+        "link": "https://es.wikipedia.org/wiki/%C3%81ngulo_recto"
+    },
+    "Grado Sexagesimal": {
+        "title": "<h3 style='font-size: 3em;'>Grado Sexagesimal</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>Un grado sexagesimal (símbolo °) es el ángulo central subtendido por un arco cuya longitud es igual a la tricentésima sexagésima (1/360) parte de una circunferencia. Es la nonagésima (1/90) parte de un ángulo recto.</p>",
+        "description": "<p style='font-style: italic;'>Un grado sexagesimal es una medida de ángulo que utilizamos para medir giros o rotaciones. Imagina una circunferencia completa, como un círculo. Un grado sexagesimal es el ángulo formado por un arco cuya longitud es 1/360 parte de esa circunferencia completa. En otras palabras, un grado sexagesimal es la nonagésima (1/90) parte de un ángulo recto, que es un ángulo perfectamente cuadrado de 90 grados. Utilizamos el símbolo ° para representar grados sexagesimales.</p>",
+        "link": "https://es.wikipedia.org/wiki/Grado_sexagesimal"
+    },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
