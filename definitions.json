@@ -727,6 +727,13 @@
         "description": "<p style='font-style: italic;'>Arquímedes de Siracusa, nacido alrededor del 287 a.C. en Siracusa, Sicilia, y fallecido alrededor del 212 a.C. en la misma ciudad, fue un destacado físico, ingeniero, inventor, astrónomo y matemático griego. Aunque se conocen pocos detalles sobre su vida, su legado científico es significativo. Arquímedes contribuyó de manera fundamental a la física, especialmente en hidrostática, estática y el principio de la palanca. Su genialidad también se refleja en la invención de máquinas innovadoras, como armas de asedio y el famoso tornillo de Arquímedes. Su mente brillante abarcó una amplia gama de disciplinas, y sus contribuciones a la ciencia han dejado una marca perdurable en la historia, siendo considerado uno de los científicos más importantes de la Antigüedad. Además, se le atribuyen experimentos, como el uso de espejos para incendiar barcos enemigos, aunque la veracidad de estas historias ha sido objeto de debate.</p>",
         "link": "https://es.wikipedia.org/wiki/Arqu%C3%ADmedes"
     },
+    "Elementos de Euclides": {
+        "title": "<h3 style='font-size: 3em;'>Elementos de Euclides</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>Los Elementos de Euclides (en griego: Στοιχεῖα, stoicheia, y conocido como geometría euclidiana; en griego: Ευκλειδης Γεωμετρια) es un tratado matemático y geométrico que se compone de trece libros, escrito por el matemático y geómetra griego Euclides, cerca del 177 a. C., en Alejandría. A través de estos libros el autor ofrece un tratamiento definitivo de la geometría de dos dimensiones (el plano) y tres dimensiones (el espacio).</p>",
+        "description": "<p style='font-style: italic;'>Los Elementos de Euclides, escrito alrededor del 300 a.C. en Alejandría, es un tratado matemático y geométrico compuesto por trece libros. Este influyente trabajo fue creado por el matemático y geómetra griego Euclides. A través de sus páginas, Euclides presenta un tratamiento exhaustivo de la geometría en dos dimensiones (el plano) y tres dimensiones (el espacio). Los Elementos abordan conceptos fundamentales de la geometría euclidiana, estableciendo definiciones, postulados y proposiciones. Este tratado se convirtió en un manual de referencia esencial y una base para el estudio de las matemáticas durante siglos, influyendo significativamente en el desarrollo de esta disciplina.</p>",
+        "link": "https://es.wikipedia.org/wiki/Elementos_de_Euclides"
+    },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
