@@ -636,6 +636,83 @@
         "description": "<p style='font-style: italic;'>Un grado sexagesimal es una medida de ángulo que utilizamos para medir giros o rotaciones. Imagina una circunferencia completa, como un círculo. Un grado sexagesimal es el ángulo formado por un arco cuya longitud es 1/360 parte de esa circunferencia completa. En otras palabras, un grado sexagesimal es la nonagésima (1/90) parte de un ángulo recto, que es un ángulo perfectamente cuadrado de 90 grados. Utilizamos el símbolo ° para representar grados sexagesimales.</p>",
         "link": "https://es.wikipedia.org/wiki/Grado_sexagesimal"
     },
+    "Simetría": {
+        "title": "<h3 style='font-size: 3em;'>Simetría</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Correspondencia exacta en la disposición regular de las partes o puntos de un cuerpo o figura con relación a un centro, un eje o un plano.</p>",
+        "description": "<p style='font-style: italic;'>La simetría es como mirarte en un espejo. Si divides tu rostro en dos partes, la mitad izquierda se parece exactamente a la mitad derecha. Cada ojo, oreja y rasgo facial tiene una correspondencia exacta en el otro lado. La simetría es como esa correspondencia precisa que observas cuando te reflejas en un espejo, pero aplicada a la disposición de las partes o puntos en una figura o un objeto.</p>",
+        "link": "https://es.wikipedia.org/wiki/Simetr%C3%ADa"
+    },
+    "Vértice (Geometría)": {
+        "title": "<h3 style='font-size: 3em;'>Vértice (Geometría)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Punto en que concurren los dos lados de un ángulo.</p>",
+        "description": "<p style='font-style: italic;'>Un vértice es como el punto donde se encuentran o concurren los dos lados de un ángulo. Puedes pensar en él como el \"punto de reunión\" de los dos segmentos que forman el ángulo. Por ejemplo, si tienes un ángulo formado por dos líneas, el vértice sería el lugar donde esas líneas se encuentran. Es como el punto central del ángulo.</p>",
+        "link": "https://es.wikipedia.org/wiki/V%C3%A9rtice_(geometr%C3%ADa)"
+    },
+    "Triángulo Equilátero": {
+        "title": "<h3 style='font-size: 3em;'>Triángulo Equilátero</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>En geometría, un triángulo equilátero es un polígono regular, es decir, tiene sus tres lados iguales.</p>",
+        "description": "<p style='font-style: italic;'>En geometría, un triángulo equilátero es un tipo especial de triángulo que tiene sus tres lados de igual longitud. Es como un juego de tres palitos que son todos exactamente del mismo tamaño. Al ser un polígono regular, significa que no solo sus lados son iguales, sino que también sus ángulos internos son idénticos</p>",
+        "link": "https://es.wikipedia.org/wiki/Tri%C3%A1ngulo_equil%C3%A1tero"
+    },
+    "Polígono Regular": {
+        "title": "<h3 style='font-size: 3em;'>Polígono Regular</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>En geometría plana, se denomina polígono regular a un polígono cuyos lados y ángulos interiores son iguales entre sí. </p>",
+        "description": "<p style='font-style: italic;'>En geometría plana, un polígono regular es una figura con todos sus lados y ángulos internos idénticos. Un ejemplo claro es el triángulo equilátero, donde cada lado mide lo mismo y cada ángulo interno es de 60 grados. Otro ejemplo es el cuadrado, con lados iguales y ángulos internos de 90 grados. En resumen, en un polígono regular, la simetría se extiende tanto a la longitud de los lados como a la medida de los ángulos, creando patrones uniformes y equilibrados en la figura.</p>",
+        "link": "https://es.wikipedia.org/wiki/Pol%C3%ADgono_regular"
+    },
+    "Triángulo Isósceles": {
+        "title": "<h3 style='font-size: 3em;'>Triángulo Isósceles</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Triángulo que tiene iguales dos ángulos y dos lados.</p>",
+        "description": "<p style='font-style: italic;'>Un triángulo isósceles es un tipo de triángulo que tiene dos lados de igual longitud y, como resultado, dos ángulos adyacentes iguales. Esto significa que las dos esquinas opuestas a los lados iguales también tienen la misma medida angular. Por ejemplo, en un triángulo isósceles, podrías tener dos lados de 5 unidades cada uno y los ángulos opuestos a esos lados serían iguales. La propiedad distintiva de este triángulo es su simetría en relación con la longitud de los lados y la medida de los ángulos.</p>",
+        "link": "https://es.wikipedia.org/wiki/Tri%C3%A1ngulo#Clasificaci%C3%B3n_de_los_tri%C3%A1ngulos"
+    },
+    "Triángulo Escaleno": {
+        "title": "<h3 style='font-size: 3em;'>Triángulo Escaleno</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Triángulo que tiene los tres lados desiguales.</p>",
+        "description": "<p style='font-style: italic;'>Un triángulo escaleno es un tipo de triángulo que tiene los tres lados de longitudes diferentes. En otras palabras, en un triángulo escaleno, no hay lados que sean iguales entre sí. Por ejemplo, podrías tener un triángulo con lados de longitudes 4, 7 y 9 unidades. La característica distintiva de un triángulo escaleno es su falta de simetría en cuanto a longitudes de lados, lo que lo diferencia de los triángulos isósceles y equiláteros.</p>",
+        "link": "https://es.wikipedia.org/wiki/Tri%C3%A1ngulo#Clasificaci%C3%B3n_de_los_tri%C3%A1ngulos"
+    },
+    "Ingeniería": {
+        "title": "<h3 style='font-size: 3em;'>Ingeniería</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Conjunto de conocimientos orientados a la invención y utilización de técnicas para el aprovechamiento de los recursos naturales o para la actividad industrial.</p>",
+        "description": "<p style='font-style: italic;'>La ingeniería es un conjunto de conocimientos y habilidades dedicado a la invención y aplicación de técnicas para aprovechar eficientemente los recursos naturales y llevar a cabo actividades industriales. Los ingenieros aplican principios científicos y matemáticos para diseñar, desarrollar, implementar y mejorar sistemas, productos y procesos que contribuyan al progreso y bienestar de la sociedad. La ingeniería abarca diversas disciplinas, desde la ingeniería civil y mecánica hasta la electrónica y la informática, y desempeña un papel crucial en la creación y mejora de infraestructuras, dispositivos, tecnologías y soluciones para resolver problemas complejos en el mundo actual.</p>",
+        "link": "https://es.wikipedia.org/wiki/Ingenier%C3%ADa"
+    },
+    "Arquitectura": {
+        "title": "<h3 style='font-size: 3em;'>Arquitectura</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Arte de proyectar y construir edificios.</p>",
+        "description": "<p style='font-style: italic;'>La arquitectura es el arte y la disciplina dedicada a proyectar y construir edificios. Los arquitectos aplican principios estéticos y funcionales para crear espacios que satisfagan necesidades humanas y estéticas, considerando aspectos como la utilidad, la seguridad, la durabilidad y la belleza. Además de abordar cuestiones técnicas, los arquitectos también tienen en cuenta el contexto cultural y social, así como las consideraciones ambientales, para desarrollar diseños que armonicen con su entorno. La arquitectura abarca una amplia gama de estilos y enfoques, desde edificios residenciales hasta estructuras comerciales, culturales y gubernamentales, contribuyendo a la configuración y la expresión de la identidad de las comunidades y sociedades a lo largo del tiempo.</p>",
+        "link": "https://es.wikipedia.org/wiki/Arquitectura"
+    },
+    "Radio (Geometría)": {
+        "title": "<h3 style='font-size: 3em;'>Radio (Geometría)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Segmento lineal que une un punto cualquiera de la circunferencia o de la superficie de una esfera con su centro.</p>",
+        "description": "<p style='font-style: italic;'>Un radio es un segmento lineal que conecta cualquier punto en la circunferencia o superficie de una esfera con su centro. Imagina una esfera, como una pelota, y selecciona cualquier punto en su superficie. El radio sería la línea que conecta ese punto específico con el centro de la esfera. En el caso de una circunferencia (que es la cara de la esfera vista desde arriba), el radio sería la línea que va desde el centro hasta cualquier punto en el borde de la circunferencia. En resumen, el radio es esencialmente la distancia entre el centro y cualquier punto en la esfera o en la circunferencia.</p>",
+        "link": "https://es.wikipedia.org/wiki/Radio_(geometr%C3%ADa)"
+    },
+    "Perímetro": {
+        "title": "<h3 style='font-size: 3em;'>Perímetro</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Medida del contorno de una figura.</p>",
+        "description": "<p style='font-style: italic;'>El perímetro es la medida del contorno de una figura. En otras palabras, es la suma de las longitudes de todos los lados de una figura geométrica. Por ejemplo, en un cuadrado, el perímetro sería la suma de los cuatro lados. En un triángulo, sería la suma de los tres lados. La medida del perímetro es importante en geometría para entender y comparar las dimensiones totales de diferentes figuras.</p>",
+        "link": "https://es.wikipedia.org/wiki/Per%C3%ADmetro"
+    },
+    "Longitud de la Circunferencia": {
+        "title": "<h3 style='font-size: 3em;'>Longitud de la Circunferencia</h3>",
+        "source": "<p style='color: #007BFF;'>Diccionario Matemático</p>",
+        "definition": "<p style='font-style: italic;'>La longitud de una circunferencia es, aproximadamente, 3,1416 veces su diámetro. Es el perímetro de la Circunferencia.</p>",
+        "description": "<p style='font-style: italic;'>La longitud de una circunferencia es como el camino que recorres alrededor de un círculo. Imagina que tienes una cuerda y la estiras alrededor del círculo desde un punto hasta que vuelves al mismo punto. La longitud de esa cuerda es lo que llamamos la longitud de la circunferencia. Ahora, si midieras la distancia de un lado del círculo al otro pasando por el centro (lo llamamos diámetro), podrías multiplicar ese diámetro por un número especial llamado 'pi', que es como un truco mágico matemático (aproximadamente 3.1416). Y, ¡sorpresa!, obtendrías la longitud de la cuerda. Así que, calcular la longitud de la circunferencia es como un juego matemático: tomas el diámetro, lo multiplicas por 'pi', ¡y encuentras cuánto mide todo el camino alrededor del círculo!</p>",
+        "link": "https://es.wikipedia.org/wiki/Per%C3%ADmetro"
+    },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
