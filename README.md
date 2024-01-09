@@ -7,7 +7,7 @@ Dentro del blog: https://axelcotongutierrez.github.io/learningmathematicas/
 
 Soroban online para practicar con distintos niveles de dificultad,
 
-Puedes probar el juego en esta url:
+Puedes probar la aplicación en esta url:
 
 https://axelcotongutierrez.github.io/GlosarioCT/
 
@@ -25,7 +25,7 @@ Presentamos un glosario científico-tecnológico que proporciona dos definicione
 
 - Alineado con el mundo real: La capacidad de comprender y comunicar conceptos técnicos de manera sencilla es una habilidad valiosa en el mundo real. Los glosarios que incluyen definiciones coloquiales ayudan a los estudiantes a adquirir esta habilidad de comunicación efectiva.
 
-´Desarrollo de habilidades críticas: Al comparar y contrastar las definiciones formal y coloquial, los estudiantes pueden desarrollar habilidades críticas de análisis y discernimiento. Pueden evaluar las diferencias y similitudes entre ambas definiciones.
+- Desarrollo de habilidades críticas: Al comparar y contrastar las definiciones formal y coloquial, los estudiantes pueden desarrollar habilidades críticas de análisis y discernimiento. Pueden evaluar las diferencias y similitudes entre ambas definiciones.
 
 - Ahorro de tiempo: Al contar con definiciones claras y enlaces a fuentes adicionales, los estudiantes pueden ahorrar tiempo en su proceso de aprendizaje. Encuentran respuestas más rápido y de manera más efectiva.
 
