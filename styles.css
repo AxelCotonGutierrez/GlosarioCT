@@ -1,23 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
 
 
-* {
-  margin: 0;
-  padding: 0;
-  font-family: 'Nunito';
-}
 
 body {
-  text-align: center;
-  color: #0c4fe1;
-  height: 100%; 
+    font-family:  'Nunito';
+    text-align: center;
 }
 
 h1 {
-  color: #EABE3F;
-  padding: 50px;
-  font-size: 40px;
-}
+    color: #EABE3F;
+    padding: 50px;
+    font-size: 40px;
+  }
 
 #search-container {
     margin: 20px auto;
@@ -31,15 +25,12 @@ h1 {
 }
 
 #search-button {
-    background-color: #4285f4;
-    border: 2px solid #000;
+    background-color: #007BFF;
     color: #fff;
+    border: none;
     padding: 10px 20px;
-    font-size: 16px;
-    border-radius: 5px;
     cursor: pointer;
-    margin-top: 20px;
-  }
+}
 
 #definition-result {
     margin: 20px auto;
