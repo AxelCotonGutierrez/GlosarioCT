@@ -734,7 +734,7 @@
         "description": "<p style='font-style: italic;'>Los Elementos de Euclides, escrito alrededor del 300 a.C. en Alejandría, es un tratado matemático y geométrico compuesto por trece libros. Este influyente trabajo fue creado por el matemático y geómetra griego Euclides. A través de sus páginas, Euclides presenta un tratamiento exhaustivo de la geometría en dos dimensiones (el plano) y tres dimensiones (el espacio). Los Elementos abordan conceptos fundamentales de la geometría euclidiana, estableciendo definiciones, postulados y proposiciones. Este tratado se convirtió en un manual de referencia esencial y una base para el estudio de las matemáticas durante siglos, influyendo significativamente en el desarrollo de esta disciplina.</p>",
         "link": "https://es.wikipedia.org/wiki/Elementos_de_Euclides"
     },
-    "Cuerpo (Bilología)": {
+    "Cuerpo (Biología)": {
         "title": "<h3 style='font-size: 3em;'>Cuerpo (Bilología)</h3>",
         "source": "<p style='color: #007BFF;'>RAE</p>",
         "definition": "<p style='font-style: italic;'>Conjunto de los sistemas orgánicos que constituyen un ser vivo.</p>",
@@ -824,6 +824,83 @@
         "definition": "<p style='font-style: italic;'>Extremidad inferior de las personas. Muslo de los cuadrúpedos y aves.</p>",
         "description": "<p style='font-style: italic;'>La pierna es como la increíble extremidad que se encuentra en la parte inferior de nuestro cuerpo, desde la cadera hasta el pie. Nos ayuda a caminar, correr y saltar, siendo esencial para movernos y explorar el mundo que nos rodea. En los animales, como cuadrúpedos y aves, la pierna también puede referirse al muslo, la parte de la extremidad que está más cerca del cuerpo y que les permite moverse de manera ágil. Así que, ya sea dando pasos firmes o permitiendo que los animales realicen elegantes movimientos, la pierna es como nuestra compañera de aventuras, llevándonos a nuevos lugares y experiencias emocionantes. ¡Es como tener nuestro propio par de alas en el suelo!</p>",
         "link": "https://es.wikipedia.org/wiki/Pierna"
+    },
+       "Abdomen (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Abdomen (Anatomía)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Región del tronco de los animales vertebrados que contiene los órganos principales del aparato digestivo y del genitourinario, y que en los mamíferos queda limitada superiormente por el diafragma.</p>",
+        "description": "<p style='font-style: italic;'>El abdomen es como la zona especial en la parte media de nuestro cuerpo, y también en los animales vertebrados, donde se encuentran órganos importantes del sistema digestivo y genitourinario. Imagina que es como una bolsa mágica que guarda nuestros órganos internos. En mamíferos, como nosotros, el abdomen está rodeado por arriba por algo llamado diafragma, que actúa como una especie de techo protector. Esta región es como el área central donde ocurren cosas esenciales para nuestro cuerpo, como la digestión y otras funciones importantes. ¡Es como el centro de operaciones que mantiene nuestro cuerpo en marcha!</p>",
+        "link": "https://es.wikipedia.org/wiki/Abdomen"
+    },
+     "Boca (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Boca (Anatomía)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>En una persona o en un animal, abertura anterior del tubo digestivo, situada en la cabeza y que da entrada a la cavidad por donde conecta con el aparato respiratorio. Cavidad en la cual están colocados la lengua y los dientes.</p>",
+        "description": "<p style='font-style: italic;'>La boca es la abertura anterior del tubo digestivo en la cabeza de las personas y los animales, sirviendo como puerta de entrada para los alimentos. Esta cavidad alberga tanto la lengua como los dientes, elementos fundamentales en el proceso de masticación y saborización de los alimentos. Además de su función digestiva, la boca también establece una conexión con el aparato respiratorio, permitiendo la entrada y salida de aire. En resumen, la boca es una estructura esencial donde convergen procesos vitales relacionados con la alimentación y la respiración, desempeñando un papel crucial en la salud y el bienestar.</p>",
+        "link": "https://es.wikipedia.org/wiki/Boca_humana"
+    },
+    "Nariz (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Nariz (Anatomía)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Órgano prominente del rostro humano, entre la frente y la boca, con dos orificios, que forma parte del aparato respiratorio. arte de la cabeza de muchos animales vertebrados, poco o nada saliente por lo común, que tiene la misma situación y función que la nariz humana.</p>",
+        "description": "<p style='font-style: italic;'>La nariz es un órgano destacado en el rostro humano, situado entre la frente y la boca, caracterizado por dos orificios, y forma parte esencial del aparato respiratorio. Este órgano desempeña un papel crucial al permitir la entrada y salida de aire durante la respiración. En muchos animales vertebrados, la nariz, ubicada en la parte superior de la cabeza, puede ser poco prominente, pero comparte la misma función respiratoria que la nariz humana. Así, tanto en humanos como en otros animales, la nariz se presenta como un componente vital para el proceso respiratorio y cumple funciones específicas en la percepción del olfato.</p>",
+        "link": "https://es.wikipedia.org/wiki/Nariz"
+    },
+    "Oreja (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Oreja (Anatomía)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Cartílago que en el ser humano y en muchos animales forma la parte exterior del órgano del oído.</p>",
+        "description": "<p style='font-style: italic;'>La oreja es una estructura formada por cartílago que constituye la parte externa del órgano del oído tanto en el ser humano como en muchos animales. Esta parte del cuerpo desempeña un papel crucial en la captación de sonidos y su transmisión al sistema auditivo interno. En los seres humanos, la oreja no solo contribuye a la audición, sino que también añade una dimensión estética al rostro. El cartílago de la oreja proporciona su forma única y flexible, permitiendo que este órgano cumpla con sus funciones auditivas de manera eficiente. Así, la oreja se presenta como una estructura multifuncional que no solo enriquece nuestra percepción auditiva, sino que también contribuye a la singularidad y expresión estética de la cabeza.</p>",
+        "link": "https://es.wikipedia.org/wiki/Pabell%C3%B3n_auricular"
+    },
+    "Ceja (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Ceja (Anatomía)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Parte de la cara, prominente, curvilínea y cubierta de pelo, situada sobre la cuenca del ojo.</p>",
+        "description": "<p style='font-style: italic;'>La ceja es una parte prominente, curvilínea y cubierta de pelo que se encuentra sobre la cuenca del ojo en la cara. Además de su función estética, las cejas desempeñan un papel en la protección de los ojos al evitar que el sudor o el agua caigan directamente sobre ellos. Estas características curvilíneas y pobladas de pelo contribuyen a la expresividad facial, permitiendo que las cejas reflejen emociones y realcen la belleza natural de la región de los ojos. En resumen, las cejas son elementos distintivos que añaden tanto protección como expresividad al rostro humano.</p>",
+        "link": "https://es.wikipedia.org/wiki/Ceja"
+    },
+    "Cabello, Pelo (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Cabello, Pelo (Anatomía)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Conjunto de los pelos de la cabeza.</p>",
+        "description": "<p style='font-style: italic;'>El pelo, también conocido como cabello, se refiere al conjunto de filamentos que crecen en la cabeza. Estos filamentos, llamados cabellos, forman la melena o cabello de una persona. Más allá de su función práctica de proteger el cuero cabelludo, el pelo también juega un papel importante en la expresión personal y la estética. La diversidad de estilos, texturas y colores de pelo permite que cada individuo exprese su singularidad y estilo personal. Así, el pelo no solo cumple con funciones físicas como la protección, sino que también se convierte en una parte destacada de la identidad y la expresión personal.</p>",
+        "link": "https://es.wikipedia.org/wiki/Pelo"
+    },
+    "Ojo (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Ojo (Anatomía)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Órgano de la vista en el ser humano y en los animales. Parte visible del ojo en la cara.</p>",
+        "description": "<p style='font-style: italic;'>El ojo es el órgano encargado de la visión tanto en el ser humano como en los animales. En la cara, la parte visible del ojo se presenta como una estructura compleja y expresiva. Esta parte visible, conocida como globo ocular, es responsable de captar la luz y transmitir información visual al cerebro. Además de su función esencial en la percepción visual, el ojo contribuye significativamente a la expresión facial y a la comunicación emocional. Así, el ojo no solo cumple con su función vital en el sentido de la vista, sino que también añade profundidad y expresividad a la cara, siendo un elemento distintivo en la comunicación humana y animal.</p>",
+        "link": "https://es.wikipedia.org/wiki/Ojo"
+    },
+    "Labio (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Labio (Anatomía)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Reborde exterior carnoso y móvil de la boca de los mamíferos.</p>",
+        "description": "<p style='font-style: italic;'>El labio es el reborde exterior, carnoso y móvil que rodea la boca en los mamíferos. Esta estructura no solo delimita la apertura de la boca, sino que también juega un papel crucial en funciones como el habla, la alimentación y la expresión facial. Los labios son flexibles y pueden adoptar diversas formas, permitiendo una amplia gama de movimientos necesarios para pronunciar palabras, saborear alimentos y expresar emociones. Además de su función práctica, los labios también contribuyen a la estética facial, siendo una característica distintiva en la apariencia de cada individuo. Así, los labios no solo desempeñan un papel funcional en actividades cotidianas, sino que también añaden expresividad y singularidad a la cara de los mamíferos.</p>",
+        "link": "https://es.wikipedia.org/wiki/Labio"
+    },
+    "Lengua (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Lengua (Anatomía)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Órgano muscular situado en la cavidad de la boca de los vertebrados y que sirve para gustar y deglutir, así como para modular sonidos.</p>",
+        "description": "<p style='font-style: italic;'>La lengua es un órgano muscular ubicado en la cavidad de la boca de los vertebrados. Su función abarca diversas actividades vitales, como el gusto, la deglución y la modulación de sonidos. La lengua es esencial para la percepción de sabores, permitiendo a los vertebrados disfrutar y distinguir diferentes alimentos. Además, desempeña un papel fundamental en la deglución, facilitando el paso de alimentos y líquidos hacia el sistema digestivo. Además de estas funciones, la lengua también contribuye al habla al modular y articular sonidos. Su capacidad para adoptar diversas formas y movimientos la convierte en un órgano versátil y vital en la vida diaria. En resumen, la lengua es un componente multifuncional que facilita tanto las actividades sensoriales como las funcionales en el contexto de la cavidad bucal.</p>",
+        "link": "https://es.wikipedia.org/wiki/Lengua_(anatom%C3%ADa)"
+    },
+    "Diente (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Diente (Anatomía)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Cuerpo duro que, engastado en las mandíbulas del hombre y de muchos animales, queda descubierto en parte, para servir como órgano de masticación o de defensa.</p>",
+        "description": "<p style='font-style: italic;'>El diente es una estructura dura que se encuentra incrustada en las mandíbulas del hombre y muchos animales, y que sobresale parcialmente para desempeñar funciones tanto de masticación como de defensa. La parte visible del diente, conocida como corona, se utiliza para triturar alimentos durante el proceso de masticación. Además de su función en la alimentación, los dientes también pueden tener un papel en la defensa, ya que algunos animales utilizan sus dientes para protegerse o cazar. La composición resistente del diente, principalmente de esmalte, dentina y pulpa, lo convierte en una herramienta especializada para diversas tareas. Así, los dientes no solo son esenciales para el proceso de alimentación, sino que también cumplen roles específicos en la adaptación y supervivencia de los animales que los poseen.</p>",
+        "link": "https://es.wikipedia.org/wiki/Diente"
+    },
+    "Frente (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Frente (Anatomía)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Parte superior de la cara, comprendida entre una y otra sien, y desde encima de los ojos hasta que empieza la vuelta del cráneo.</p>",
+        "description": "<p style='font-style: italic;'>La frente es la parte superior de la cara, situada entre una y otra sien, y se extiende desde encima de los ojos hasta el inicio de la curva del cráneo. Esta región facial es fundamental en la configuración estética y anatómica del rostro. Además de su papel estructural, la frente también contribuye a la expresividad facial y a la comunicación no verbal. En términos de anatomía, la frente proporciona soporte a los músculos faciales y al cráneo, desempeñando un papel en la movilidad y expresividad de la región facial. Así, la frente no solo es una parte esencial en la apariencia facial, sino que también cumple con funciones importantes en la biomecánica y comunicación humanas.</p>",
+        "link": "https://es.wikipedia.org/wiki/Frente_(anatom%C3%ADa)"
     },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
