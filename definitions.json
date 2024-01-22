@@ -734,6 +734,97 @@
         "description": "<p style='font-style: italic;'>Los Elementos de Euclides, escrito alrededor del 300 a.C. en Alejandría, es un tratado matemático y geométrico compuesto por trece libros. Este influyente trabajo fue creado por el matemático y geómetra griego Euclides. A través de sus páginas, Euclides presenta un tratamiento exhaustivo de la geometría en dos dimensiones (el plano) y tres dimensiones (el espacio). Los Elementos abordan conceptos fundamentales de la geometría euclidiana, estableciendo definiciones, postulados y proposiciones. Este tratado se convirtió en un manual de referencia esencial y una base para el estudio de las matemáticas durante siglos, influyendo significativamente en el desarrollo de esta disciplina.</p>",
         "link": "https://es.wikipedia.org/wiki/Elementos_de_Euclides"
     },
+    "Cuerpo (Bilología)": {
+        "title": "<h3 style='font-size: 3em;'>Cuerpo (Bilología)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Conjunto de los sistemas orgánicos que constituyen un ser vivo.</p>",
+        "description": "<p style='font-style: italic;'>Un \"cuerpo\" en seres vivos es la parte física que los forma. En el caso de los humanos, incluye cosas como los brazos, las piernas, la cabeza, y más. A veces, en ciertos casos, partes externas, como el cabello, no se consideran como parte integral del cuerpo, aunque estén unidas. Por ejemplo, podríamos ver el cabello más como una capa extra que como parte del cuerpo en sí. En general, no solemos decir que las plantas tienen un cuerpo. </p>",
+        "link": "https://es.wikipedia.org/wiki/Cuerpo_(anatom%C3%ADa)"
+    },
+    "Cuerpo humano (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Cuerpo humano</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>El cuerpo humano es la estructura física y material del ser humano. Está formado por gran cantidad de células que trabajan juntas para realizar diferentes funciones necesarias para mantener la vida. Las células se agrupan para formar tejidos y órganos. </p>",
+        "description": "<p style='font-style: italic;'>El cuerpo humano es como un edificio muy especial que está hecho de muchas piezas pequeñas llamadas células. Estas células trabajan juntas para hacer cosas importantes que nos mantienen vivos, como respirar, mover los brazos y piernas, y comer. Además, las células se agrupan para formar tejidos (como si fueran pedacitos de tela) y órganos (como el corazón o los pulmones). Así que, básicamente, nuestro cuerpo es como un equipo increíble de pequeños constructores que trabajan en conjunto para que podamos vivir y hacer todas las cosas divertidas que nos gustan. ¡Es asombroso!</p>",
+        "link": "https://es.wikipedia.org/wiki/Cuerpo_humano"
+    },
+    "Cabeza (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Cabeza (Biología)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Parte superior del cuerpo humano y superior o anterior de muchos animales, en la que están situados el cerebro y los principales órganos sensoriales.</p>",
+        "description": "<p style='font-style: italic;'>La cabeza es la parte de arriba del cuerpo humano (y de muchos animales también). En ella se encuentra el cerebro, que es como la computadora principal que nos ayuda a pensar y entender el mundo que nos rodea. También están ahí los órganos sensoriales, como los ojos para ver, las orejas para escuchar, y la nariz para oler. Entonces, básicamente, la cabeza es como la \"oficina principal\" de nuestro cuerpo, donde ocurren muchas cosas importantes. ¡Es genial!</p>",
+        "link": "https://es.wikipedia.org/wiki/Cabeza"
+    },
+    "Cuello (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Cuello</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Parte del cuerpo que une la cabeza con el tronco.</p>",
+        "description": "<p style='font-style: italic;'>El cuello es como el puente que conecta la cabeza con el resto del cuerpo. Imagina que la cabeza es como el capitán de un barco y el tronco es el barco en sí. El cuello sería como el puente que permite que el capitán se comunique y dirija el barco. Así que, el cuello es esa parte importante que une la cabeza con el tronco, permitiendo que todo funcione en conjunto. ¡Es como el enlace perfecto entre la mente y el cuerpo!</p>",
+        "link": "https://es.wikipedia.org/wiki/Cuello"
+    },
+    "Tronco (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Tronco (Anatomía)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Cuerpo humano o de cualquier animal, prescindiendo de la cabeza y las extremidades.</p>",
+        "description": "<p style='font-style: italic;'>El tronco es como el cuerpo principal de una persona o cualquier animal, pero sin contar la cabeza y las piernas o brazos. Si piensas en el cuerpo como un helado, la cabeza sería la parte de arriba con el sabor delicioso, y el tronco sería la parte grande y central que sostiene todo. Así que, el tronco es como el centro del cuerpo, donde ocurren muchas cosas importantes.</p>",
+        "link": "https://es.wikipedia.org/wiki/Tronco_(anatom%C3%ADa)"
+    },
+    "Codo (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Codo (Anatomía)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Parte posterior y prominente de la articulación del brazo con el antebrazo.</p>",
+        "description": "<p style='font-style: italic;'>El codo es la parte de atrás y un poco abultada de la articulación que conecta el brazo con el antebrazo. Si te imaginas que tu brazo es como un juguete articulado, el codo sería la parte que permite que dobles el brazo como si estuvieras saludando o sosteniendo algo. Así que, el codo es como el centro mágico que nos ayuda a doblar y mover nuestro brazo de diferentes maneras ¡y es muy útil cuando queremos hacer cosas divertidas!</p>",
+        "link": "https://es.wikipedia.org/wiki/Articulaci%C3%B3n_del_codo"
+    },
+    "Anatomía": {
+        "title": "<h3 style='font-size: 3em;'>Anatomía</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Ciencia que estudia la estructura y forma de los seres vivos y las relaciones entre las diversas partes que los constituyen.</p>",
+        "description": "<p style='font-style: italic;'>La anatomía es como un detective del cuerpo. Es una ciencia que se dedica a estudiar cómo están hechos los seres vivos por dentro y cómo todas sus partes se conectan entre sí. Imagina que el cuerpo es como un rompecabezas gigante, y la anatomía nos ayuda a entender cómo encajan todas las piezas y cómo trabajan juntas. Es como un mapa que nos ayuda a descubrir todos los secretos de cómo funcionan los cuerpos de las personas y los animales. ¡Es como ser un científico explorador del cuerpo humano!</p>",
+        "link": "https://es.wikipedia.org/wiki/Anatom%C3%ADa"
+    },
+    "Rodilla (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Rodilla (Anatomía)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Zona donde se une el muslo con la parte inferior de la pierna.</p>",
+        "description": "<p style='font-style: italic;'>La rodilla es como la junta mágica que une la parte de arriba de la pierna (llamada muslo) con la parte de abajo (la pierna misma). Si imaginas tu pierna como una puerta que se puede abrir y cerrar, la rodilla sería como las bisagras que permiten que la puerta se doble y se enderece. Así que, la rodilla es esa parte especial que nos ayuda a doblar y enderezar la pierna, ¡es como la superhéroe que nos permite movernos y correr!</p>",
+        "link": "https://es.wikipedia.org/wiki/Articulaci%C3%B3n_de_la_rodilla"
+    },
+    "Pie (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Pie (Anatomía)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Extremidad de cada uno de los dos miembros inferiores del cuerpo humano. En los animales, parte análoga al pie humano.</p>",
+        "description": "<p style='font-style: italic;'>Los pies son como nuestras herramientas mágicas para movernos y explorar el mundo. Son las extremidades que encontramos en la parte inferior de nuestras piernas. Si imaginas tus piernas como las patas de un súper robot, los pies serían las piezas especiales que nos permiten caminar, correr y saltar. Además, en los animales, hay partes similares a los pies que les ayudan a moverse. Así que, los pies son como nuestros compañeros de aventuras, ¡nos llevan a todos los lugares divertidos que queremos explorar!</p>",
+        "link": "https://es.wikipedia.org/wiki/Pie"
+    },
+    "Pecho (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Pecho (Anatomía)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Parte del cuerpo humano, que se extiende desde el cuello hasta el vientre, y en cuya cavidad se contienen el corazón y los pulmones.  Parte exterior delantera del cuerpo, desde el cuello hasta el vientre. Parte anterior del tronco de los cuadrúpedos entre el cuello y las patas anteriores. Cada una de las mamas de la mujer.</p>",
+        "description": "<p style='font-style: italic;'>El pecho es como la parte central y especial de nuestro cuerpo. Si piensas en tu cuerpo como un libro, el pecho sería como la página principal que guarda cosas muy importantes. Se extiende desde el cuello hasta el vientre, y dentro de él, ¡guarda el corazón y los pulmones, que son como los héroes que nos mantienen vivos y respirando! Además, en la parte de afuera, el pecho es como la capa del superhéroe, desde el cuello hasta el vientre. Y no solo eso, también es la parte delantera de los animales de cuatro patas entre el cuello y las patas delanteras. Y para las chicas, el pecho también es el lugar donde se encuentran las mamas, que son parte importante de lo que hace tan especial a cada mujer. Así que, el pecho es como una sección muy importante de nuestro libro de vida, con muchas cosas increíbles en su interior y por fuera. ¡Es como un tesoro en nuestro cuerpo!</p>",
+        "link": "https://es.wikipedia.org/wiki/Pecho"
+    },
+    "Brazo (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Brazo (Anatomía)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Miembro del cuerpo que comprende desde el hombro a la extremidad de la mano. Cada una de las patas delanteras de los cuadrúpedos.</p>",
+        "description": "<p style='font-style: italic;'>El brazo es como el asombroso ayudante que se extiende desde el hombro hasta la mano, permitiéndonos agarrar, saludar y realizar toda clase de movimientos divertidos. Es como la parte mágica que nos conecta con el mundo y nos ayuda a interactuar. Además, en el mundo animal, las patas delanteras de cuadrúpedos, como perros o gatos, también se llaman brazos. Entonces, ya sea que estemos saludando a un amigo, sosteniendo algo emocionante o viendo a un adorable animal mover sus brazos, esta parte del cuerpo es como una herramienta increíble que nos permite hacer un montón de cosas emocionantes y divertidas. ¡Es como tener nuestro propio súper brazo mágico!</p>",
+        "link": "https://es.wikipedia.org/wiki/Brazo"
+    },
+    "Mano (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Mano (Anatomía)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Parte del cuerpo humano unida a la extremidad del antebrazo y que comprende desde la muñeca inclusive hasta la punta de los dedos. En algunos animales, extremidad cuyo dedo pulgar puede oponerse a los otros. En los animales cuadrúpedos, cualquiera de los dos pies delanteros.</p>",
+        "description": "<p style='font-style: italic;'>La mano es como la maravillosa herramienta que se encuentra unida al extremo del antebrazo y se extiende desde la muñeca hasta la punta de los dedos. Es la parte de nuestro cuerpo que nos permite agarrar, tocar, crear y expresarnos. En algunos animales, la mano es como la extremidad que incluye un dedo pulgar que puede oponerse a los otros, permitiéndoles agarrar cosas de manera hábil. En animales de cuatro patas, como perros o gatos, las manos son equivalentes a sus pies delanteros, que utilizan para explorar y jugar. Así que, ya sea dibujando, saludando o explorando, nuestras manos son como herramientas mágicas que nos ayudan a interactuar con el mundo que nos rodea. ¡Son como verdaderos superpoderes en la palma de nuestras manos!</p>",
+        "link": "https://es.wikipedia.org/wiki/Mano"
+    },
+    "Pierna (Anatomía)": {
+        "title": "<h3 style='font-size: 3em;'>Pierna (Anatomía)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Extremidad inferior de las personas. Muslo de los cuadrúpedos y aves.</p>",
+        "description": "<p style='font-style: italic;'>La pierna es como la increíble extremidad que se encuentra en la parte inferior de nuestro cuerpo, desde la cadera hasta el pie. Nos ayuda a caminar, correr y saltar, siendo esencial para movernos y explorar el mundo que nos rodea. En los animales, como cuadrúpedos y aves, la pierna también puede referirse al muslo, la parte de la extremidad que está más cerca del cuerpo y que les permite moverse de manera ágil. Así que, ya sea dando pasos firmes o permitiendo que los animales realicen elegantes movimientos, la pierna es como nuestra compañera de aventuras, llevándonos a nuevos lugares y experiencias emocionantes. ¡Es como tener nuestro propio par de alas en el suelo!</p>",
+        "link": "https://es.wikipedia.org/wiki/Pierna"
+    },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
