@@ -902,6 +902,97 @@
         "description": "<p style='font-style: italic;'>La frente es la parte superior de la cara, situada entre una y otra sien, y se extiende desde encima de los ojos hasta el inicio de la curva del cráneo. Esta región facial es fundamental en la configuración estética y anatómica del rostro. Además de su papel estructural, la frente también contribuye a la expresividad facial y a la comunicación no verbal. En términos de anatomía, la frente proporciona soporte a los músculos faciales y al cráneo, desempeñando un papel en la movilidad y expresividad de la región facial. Así, la frente no solo es una parte esencial en la apariencia facial, sino que también cumple con funciones importantes en la biomecánica y comunicación humanas.</p>",
         "link": "https://es.wikipedia.org/wiki/Frente_(anatom%C3%ADa)"
     },
+    "Día (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Día (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Período de 24 horas, que corresponde aproximadamente al tiempo en que la Tierra da una vuelta completa sobre su eje.</p>",
+        "description": "<p style='font-style: italic;'>Un día es un periodo de 24 horas que representa aproximadamente el tiempo que la Tierra tarda en completar una rotación sobre su eje. Imagina que te quedas en un lugar fijo y observas cómo el sol aparece en el cielo, sube hasta alcanzar su punto más alto, y luego desciende hasta desaparecer. Ese ciclo completo, desde la salida hasta la puesta del sol, constituye un día. Por ejemplo, desde que te levantas por la mañana hasta que vuelves a acostarte por la noche, experimentas un día completo. Lo mismo ocurre con tus actividades diarias, como las clases en la escuela, el tiempo de ver televisión o cualquier otra rutina que sigas durante este lapso de tiempo.</p>",
+        "link": "https://es.wikipedia.org/wiki/D%C3%ADa"
+    },
+    "Semana (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Semana</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Serie de siete días naturales consecutivos, del lunes al domingo.</p>",
+        "description": "<p style='font-style: italic;'>Una semana es una serie de siete días naturales consecutivos, que comienza generalmente el lunes y finaliza el domingo. Durante estos siete días, experimentamos distintos momentos, actividades y cambios en nuestras rutinas. Por ejemplo, desde el inicio de la semana cuando retomamos nuestras responsabilidades hasta el final de la misma cuando disfrutamos del fin de semana, todo este periodo conforma una semana. Es una manera de organizar y medir el tiempo en ciclos regulares que nos ayuda a planificar nuestras actividades y compromisos.</p>",
+        "link": "https://es.wikipedia.org/wiki/Semana"
+    },
+    "Lunes": {
+        "title": "<h3 style='font-size: 3em;'>Lunes</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Primer día de la semana.</p>",
+        "description": "<p style='font-style: italic;'>Lunes es el primer día de la semana. Es el día que marca el comienzo de la mayoría de las rutinas y actividades semanales. Después del descanso del fin de semana, el lunes es cuando muchas personas vuelven al trabajo o a la escuela. Es un día que nos brinda la oportunidad de iniciar nuevas metas y proyectos. Por ejemplo, los lunes a menudo son vistos como una oportunidad para establecer nuevos objetivos de la semana y comenzar con energía renovada.</p>",
+        "link": "https://es.wikipedia.org/wiki/Lunes"
+    },
+    "Martes": {
+        "title": "<h3 style='font-size: 3em;'>Martes</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Segundo día de la semana.</p>",
+        "description": "<p style='font-style: italic;'>Martes es el segundo día de la semana. Después del inicio del lunes, seguimos avanzando en la semana y nos acercamos al ecuador. A menudo, el martes se percibe como un día en el que ya estamos inmersos en nuestras actividades y tareas semanales. Es un momento para consolidar el progreso y enfrentar desafíos. Por ejemplo, en muchos lugares, las reuniones y compromisos laborales se intensifican durante el martes. Aunque no tiene la expectativa fresca del inicio de la semana, el martes ofrece la oportunidad de mantener el impulso y continuar con nuestras metas.</p>",
+        "link": "https://es.wikipedia.org/wiki/Martes"
+    },
+    "Miércoles": {
+        "title": "<h3 style='font-size: 3em;'>Miércoles</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Tercer día de la semana.</p>",
+        "description": "<p style='font-style: italic;'>Miércoles es el tercer día de la semana. En el centro de la semana, se presenta como un punto de equilibrio entre el inicio y el final. A menudo se considera un día para reflexionar sobre lo que se ha logrado hasta ahora y planificar para el resto de la semana. También es conocido como el \"ecuador\" de la semana laboral. Por ejemplo, algunas personas aprovechan el miércoles para realizar reuniones importantes o abordar proyectos clave. A medida que avanzamos hacia el jueves y el viernes, el miércoles actúa como un punto estratégico para evaluar nuestro progreso y ajustar nuestras metas.</p>",
+        "link": "https://es.wikipedia.org/wiki/Mi%C3%A9rcoles"
+    },
+    "Jueves": {
+        "title": "<h3 style='font-size: 3em;'>Jueves</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Cuarto día de la semana.</p>",
+        "description": "<p style='font-style: italic;'>Jueves es el cuarto día de la semana. A medida que nos acercamos al final de la semana laboral, el jueves suele ser un día en el que la anticipación por el fin de semana comienza a crecer. Es un momento para completar tareas pendientes y finalizar proyectos antes del viernes. Por ejemplo, algunas personas planifican reuniones estratégicas los jueves para asegurarse de que todo esté en orden antes del cierre de la semana. Aunque no es el último día, el jueves tiene una importancia clave al prepararnos para el cierre de la semana laboral y la llegada del fin de semana.</p>",
+        "link": "https://es.wikipedia.org/wiki/Jueves"
+    },
+    "Viernes": {
+        "title": "<h3 style='font-size: 3em;'>Viernes</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Quinto día de la semana, que es festivo para el islamismo.</p>",
+        "description": "<p style='font-style: italic;'>Viernes es el quinto día de la semana y tiene una relevancia especial para el islamismo, ya que es considerado un día festivo en esta religión. Además de ser parte de la semana laboral convencional, el viernes es un día de congregación para la oración comunitaria en la religión islámica, conocida como el salat al-jumu'ah o la oración del viernes. Los musulmanes se reúnen en la mezquita para participar en esta oración especial que simboliza la comunidad y la unidad espiritual. Para muchos, el viernes también marca el comienzo del fin de semana, siendo un momento para relajarse, pasar tiempo con la familia y participar en actividades recreativas.</p>",
+        "link": "https://es.wikipedia.org/wiki/Viernes"
+    },
+    "Sábado": {
+        "title": "<h3 style='font-size: 3em;'>Sábado</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Sexto día de la semana, que es festivo para el judaísmo y otras confesiones religiosas.</p>",
+        "description": "<p style='font-style: italic;'>Sábado es el sexto día de la semana y tiene significado especial para el judaísmo, así como para algunas otras confesiones religiosas. En el judaísmo, el sábado es conocido como el Shabat, un día sagrado de descanso y adoración. Durante el Shabat, los judíos se abstienen de realizar trabajos y se dedican a la oración, el estudio y el tiempo en familia. Además, otras confesiones religiosas también pueden observar el sábado como un día sagrado con prácticas similares de descanso y adoración. Para la mayoría de las personas, el sábado suele ser el último día de la semana laboral convencional y, al mismo tiempo, un día para disfrutar de actividades recreativas y tiempo libre.</p>",
+        "link": "https://es.wikipedia.org/wiki/S%C3%A1bado"
+    },
+    "Domingo": {
+        "title": "<h3 style='font-size: 3em;'>Domingo</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Séptimo día de la semana, que es festivo para el cristianismo y, en general, en el mundo occidental.</p>",
+        "description": "<p style='font-style: italic;'>Domingo es el séptimo día de la semana y tiene un significado especial en el cristianismo, así como en general en el mundo occidental. En la tradición cristiana, el domingo se considera el día del Señor y es un día de descanso y adoración. Para muchos cristianos, es un momento para asistir a servicios religiosos, reflexionar espiritualmente y pasar tiempo en comunidad. Además, en gran parte del mundo occidental, el domingo es generalmente un día libre de trabajo y escuela, lo que lo convierte en un día propicio para actividades familiares, deportes, ocio y descanso. Es un día que marca el final de la semana y el comienzo de una nueva, brindando la oportunidad de recargar energías antes de enfrentar los desafíos de la semana siguiente.</p>",
+        "link": "https://es.wikipedia.org/wiki/Domingo"
+    },
+    "Calendario": {
+        "title": "<h3 style='font-size: 3em;'>Calendario</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Sistema de representación del paso de los días, agrupados en unidades superiores, como semanas, meses, años, etc.</p>",
+        "description": "<p style='font-style: italic;'>El calendario es un sistema de representación del paso del tiempo que organiza los días en unidades superiores, como semanas, meses y años. Sirve como una herramienta fundamental para medir el tiempo y organizar eventos de manera estructurada. En un calendario, los días están agrupados en semanas, cada una compuesta por siete días, y estas semanas se organizan en meses. A su vez, los meses forman parte de unidades mayores, como años. Este sistema permite a las personas planificar actividades, eventos y celebraciones, además de seguir ciclos como las estaciones del año. El calendario es esencial para la organización de la sociedad y proporciona un marco temporal que facilita la coordinación de actividades a nivel individual y colectivo.</p>",
+        "link": "https://es.wikipedia.org/wiki/Calendario"
+    },
+    "Calendario Lunar (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Calendario Lunar (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>Un calendario lunar es un calendario basado en los ciclos mensuales de las fases de la Luna (meses sinódicos, lunaciones), a diferencia de los calendarios solares, cuyos ciclos anuales se basan únicamente directamente en el año solar. En el calendario lunar, cada lunación corresponde a un «mes lunar»; es decir, a cada período comprendido entre dos momentos en que la luna se halla exactamente en la misma fase (sea esta creciente o menguante) se le llama «mes lunar». Cada mes lunar corresponde a 29,53 días solares.</p>",
+        "description": "<p style='font-style: italic;'>Un calendario lunar es como un calendario regular, pero se centra en los ciclos de la Luna en lugar de en el sol. En lugar de medir el tiempo en años solares, como nuestro calendario habitual, el calendario lunar sigue los cambios mensuales de la Luna. Cada \"mes lunar\" corresponde al tiempo que tarda la Luna en pasar por todas sus fases, ya sea creciente o menguante, y esto toma alrededor de 29,53 días. Así que, en lugar de meses de 30 o 31 días como estamos acostumbrados, en el calendario lunar, cada mes es un poco más corto, coincidiendo con los cambios de la Luna en el cielo.</p>",
+        "link": "https://es.wikipedia.org/wiki/Calendario_lunar"
+    },
+    "Calendario Solar (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Calendario Solar (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>El calendario solar es aquel calendario cuyos días indican la posición de la Tierra en su movimiento de traslación en torno al Sol.1 Los calendarios solares, que dividen el tiempo según los movimientos aparentes del sol, también están en fase con las estaciones durante el año. Se adaptan así a las necesidades de los agricultores, cuyas actividades agrícolas exigen la sincronización de los cultivos con las estaciones: período de siembra, gestión de las reservas de alimentos entre dos cosechas. Los calendarios elaborados de esta forma poseen un año de 365 días, que se amplia normalmente agregando un día extra en los años bisiestos.</p>",
+        "description": "<p style='font-style: italic;'>Un calendario solar es aquel que sigue los movimientos aparentes de la Tierra en su órbita alrededor del Sol. Estos calendarios están diseñados para estar en sincronía con las estaciones del año, adaptándose a las necesidades agrícolas al conectar el tiempo con los cambios climáticos. A diferencia de un calendario lunar, que se basa en los ciclos de la Luna, el calendario solar organiza el año en función de la posición de la Tierra en relación con el Sol. Normalmente, estos calendarios contienen 365 días en un año, y se añade un día extra en los años bisiestos para mantener la alineación con el ciclo solar.</p>",
+        "link": "https://es.wikipedia.org/wiki/Calendario_solar"
+    },
+    "Epagómenos": {
+        "title": "<h3 style='font-size: 3em;'>Epagómenos</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>Epagómenos era el nombre griego de los cinco días añadidos al ciclo de 360 jornadas para completar el año solar de 365 días.</p>",
+        "description": "<p style='font-style: italic;'>Epagómenos era el término griego utilizado para referirse a los cinco días adicionales que se añadían al ciclo de 360 jornadas con el fin de completar el año solar de 365 días. Estos días adicionales eran reconocidos en varias culturas antiguas y se introducían para ajustar el calendario a la duración real del año solar. Este ajuste era esencial para garantizar que el calendario reflejara con precisión las estaciones y los eventos relacionados con el ciclo solar. Los epagómenos eran días intercalares que se insertaban al final del año regular de 12 meses para sincronizar el calendario con la órbita de la Tierra alrededor del Sol.</p>",
+        "link": "https://es.wikipedia.org/wiki/Epag%C3%B3menos"
+    },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
