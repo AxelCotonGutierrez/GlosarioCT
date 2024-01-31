@@ -993,6 +993,174 @@
         "description": "<p style='font-style: italic;'>Epagómenos era el término griego utilizado para referirse a los cinco días adicionales que se añadían al ciclo de 360 jornadas con el fin de completar el año solar de 365 días. Estos días adicionales eran reconocidos en varias culturas antiguas y se introducían para ajustar el calendario a la duración real del año solar. Este ajuste era esencial para garantizar que el calendario reflejara con precisión las estaciones y los eventos relacionados con el ciclo solar. Los epagómenos eran días intercalares que se insertaban al final del año regular de 12 meses para sincronizar el calendario con la órbita de la Tierra alrededor del Sol.</p>",
         "link": "https://es.wikipedia.org/wiki/Epag%C3%B3menos"
     },
+    "Color (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Color (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Sensación producida por los rayos luminosos que impresionan los órganos visuales y que depende de la longitud de onda.</p>",
+        "description": "<p style='font-style: italic;'>El color es la sensación que sentimos cuando nuestros ojos ven la luz de maneras diferentes. Esto ocurre porque la luz está compuesta por diferentes \"ondas\", y cada tipo de onda nos hace ver un color distinto. Por ejemplo, cuando vemos un cielo azul, es porque la luz del sol se esparce de una manera que nos hace percibir ese color.</p>",
+        "link": "https://es.wikipedia.org/wiki/Color"
+    },
+    "Tono, Tonalidad, Matiz (Color) (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Tono, Tonalidad, Matiz (Color) (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Grado de coloración.</p>",
+        "description": "<p style='font-style: italic;'>El tono de un color se refiere al grado de coloración que tiene. En otras palabras, es cuánto de un color específico está presente en lo que estamos viendo. Por ejemplo, si decimos que una pintura tiene un tono rojo intenso, significa que ese rojo es muy fuerte y dominante en la pintura. En cambio, si hablamos de un tono más suave, sería como decir que el color tiene menos intensidad o está más mezclado con otros colores.</p>",
+        "link": "https://es.wikipedia.org/wiki/Tono_(color)"
+    },
+    "Colores Primarios (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Colores Primarios (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>Se considera color primario, antes llamado color primitivo, al color que no se puede obtener mediante la mezcla de ningún otro color.</p>",
+        "description": "<p style='font-style: italic;'>Color Primario: Un color primario es aquel que no se puede crear mezclando otros colores. Son como los colores \"originales\" que se utilizan para hacer todos los demás. Por ejemplo, el rojo, el azul y el amarillo son colores primarios. Si intentamos mezclar otros colores para obtener rojo, por ejemplo, no lo lograremos; el rojo es un color primario por sí mismo. Estos colores son como los \"básicos\" que se usan para hacer todos los demás colores que vemos.</p>",
+        "link": "https://es.wikipedia.org/wiki/Color_primario"
+    },
+    "Rojo (Color) (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Rojo (Color) (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Dicho de un color: Semejante al de la sangre o al del tomate maduro, y que ocupa el primer lugar en el espectro luminoso.</p>",
+        "description": "<p style='font-style: italic;'>Cuando decimos que algo tiene un color rojo, nos referimos a un tono similar al de la sangre o al de un tomate maduro. Este color ocupa el primer lugar en el espectro luminoso, que es como una lista de colores que vemos en la luz. Imagina la intensidad del rojo en una manzana bien madura, o en la sangre que corre por nuestras venas; ese tono intenso y llamativo es lo que significa cuando decimos que algo es de color rojo.</p>",
+        "link": "https://es.wikipedia.org/wiki/Rojo"
+    },
+    "Azul (Color) (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Azul (Color) (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Dicho de un color: Semejante al del cielo sin nubes y el mar en un día soleado, y que ocupa el quinto lugar en el espectro luminoso.</p>",
+        "description": "<p style='font-style: italic;'>Cuando hablamos de un color azul, nos referimos a un tono similar al del cielo sin nubes y al del mar en un día soleado. Este color se encuentra en el quinto lugar en el espectro luminoso, que es como una lista de colores que podemos ver en la luz. Imagina la serenidad del cielo despejado o la profundidad del océano en un día soleado; ese tono fresco y tranquilo es lo que significa cuando decimos que algo es de color azul.</p>",
+        "link": "https://es.wikipedia.org/wiki/Azul"
+    },
+    "Amarillo (Color) (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Amarillo (Color) (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Dicho de un color: Semejante al del oro o al de la yema de huevo, y que ocupa el tercer lugar en el espectro luminoso.</p>",
+        "description": "<p style='font-style: italic;'>Cuando hablamos de un color amarillo, nos referimos a un tono parecido al del oro o al de la yema de huevo. Este color ocupa el tercer lugar en el espectro luminoso, que es como una lista de colores que podemos ver en la luz. Imagina el brillo cálido del oro o el color vibrante de la yema de huevo; ese tono luminoso y brillante es lo que significa cuando decimos que algo es de color amarillo.</p>",
+        "link": "https://es.wikipedia.org/wiki/Amarillo"
+    },
+    "Color Secundario (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Color Secundario (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>Los colores secundarios son colores que se obtienen mezclando en partes iguales dos de los tres colores primarios.</p>",
+        "description": "<p style='font-style: italic;'>Los colores secundarios son aquellos que conseguimos al mezclar en partes iguales dos de los tres colores primarios. Es como si estuviéramos jugando con los colores básicos, como el rojo, el azul y el amarillo. Si tomamos un poco de rojo y lo mezclamos con una cantidad igual de azul, obtendremos un nuevo color llamado púrpura. Lo mismo ocurre si combinamos el amarillo con el rojo, creando así un color naranja. Estos colores secundarios son como nuevos amigos que surgen cuando los colores primarios se juntan y se mezclan de manera especial.</p>",
+        "link": "https://es.wikipedia.org/wiki/Color_secundario"
+    },
+    "Verde (Color) (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Verde (Color) (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Dicho de un color: Semejante al de la hierba fresca o al de la esmeralda, y que ocupa el cuarto lugar en el espectro luminoso.</p>",
+        "description": "<p style='font-style: italic;'>Cuando hablamos de un color verde, nos referimos a un tono parecido al de la hierba fresca o al de la esmeralda. Este color se encuentra en el cuarto lugar en el espectro luminoso, que es como una lista de colores que vemos en la luz. Imagina la intensidad del verde de la hierba o el brillo profundo de una esmeralda; ese tono fresco y natural es lo que significa cuando decimos que algo es de color verde.</p>",
+        "link": "https://es.wikipedia.org/wiki/Verde"
+    },
+    "Naranja (Color) (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Naranja (Color) (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Dicho de un color: Semejante al de la naranja madura, y que ocupa el segundo lugar en el espectro luminoso.</p>",
+        "description": "<p style='font-style: italic;'>Cuando hablamos de un color naranja, nos referimos a un tono similar al de la naranja madura. Este color ocupa el segundo lugar en el espectro luminoso, que es como una lista de colores que podemos ver en la luz. Imagina el vibrante y cálido tono de una naranja bien madura; ese color brillante y alegre es lo que significa cuando decimos que algo es de color naranja.</p>",
+        "link": "https://es.wikipedia.org/wiki/Naranja_(color)"
+    },
+    "Violeta o Azul Púrpura (Color) (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Violeta o Azul Púrpura (Color) (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Dicho de un color: Morado claro, semejante al de la violeta, y que ocupa el séptimo y último lugar en el espectro luminoso.</p>",
+        "description": "<p style='font-style: italic;'>Cuando hablamos de un color violeta, nos referimos a un tono similar al morado claro, semejante al de la flor violeta. Este color ocupa el séptimo y último lugar en el espectro luminoso, que es como una lista de colores que vemos en la luz. Imagina la suavidad del morado claro, como el color de una violeta; ese tono delicado y encantador es lo que significa cuando decimos que algo es de color violeta.</p>",
+        "link": "https://es.wikipedia.org/wiki/Violeta_(color)"
+    },
+    "Blanco (Color) (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Blanco (Color) (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Dicho de un color: Semejante al de la nieve o la leche, y que corresponde al de la luz solar, no descompuesta en los varios colores del espectro. </p>",
+        "description": "<p style='font-style: italic;'>Cuando nos referimos al color blanco, hablamos de una tonalidad similar a la que observamos en la nieve o la leche. Este color se relaciona con la luz solar en su forma más pura, sin descomponerse en los diversos colores que conforman el espectro. Imagina la luz del sol brillando intensamente, como si todos los colores estuvieran juntos y formaran este resplandeciente blanco. Así, el blanco es como la unión armoniosa de todos los colores, creando una luminosidad nítida y pura que asociamos con la luz solar sin descomponerse en el espectro de colores.</p>",
+        "link": "https://es.wikipedia.org/wiki/Blanco"
+    },
+    "Negro (Color) (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Negro (Color) (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Dicho de un color: Semejante al del carbón o al de la oscuridad total.</p>",
+        "description": "<p style='font-style: italic;'>Cuando nos referimos al color negro, hablamos de una tonalidad similar a la del carbón o a la oscuridad total. Este color es como la profundidad y oscuridad que experimentamos cuando todo está completamente apagado. Imagina la intensidad del negro en el carbón o en la total oscuridad de la noche; ese es el tono que representa el color negro. Es como si fuera la ausencia de luz, creando una sensación de oscuridad profunda que asociamos con la intensidad del carbón o la completa ausencia de luz en la oscuridad total.</p>",
+        "link": "https://es.wikipedia.org/wiki/Negro_(color)"
+    },
+    "Espectro (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Espectro (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Distribución de la intensidad de una radiación en función de una magnitud característica, como la longitud de onda, la energía o la temperatura.</p>",
+        "description": "<p style='font-style: italic;'>Cuando hablamos de espectro, nos referimos a la distribución de la intensidad de una radiación en función de una característica específica, como la longitud de onda, la energía o la temperatura. Es como si estuviéramos viendo cómo se reparten las diferentes fuerzas o intensidades de algo, como la luz, según diferentes características. Imagina que estamos descomponiendo la luz en sus partes, observando cómo se distribuye la intensidad de cada color en función de la longitud de onda. En otras palabras, el espectro nos ayuda a entender cómo se distribuye la fuerza o intensidad de algo en relación con ciertas características específicas.</p>",
+        "link": "https://es.wikipedia.org/wiki/Espectro"
+    },
+    "Espectro Electromagnético (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Espectro Electromagnético (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>En física, se denomina espectro electromagnético al conjunto de todos los tipos de radiación que se desplazan en ondas, es decir, al conjunto de todas las ondas electromagnéticas. </p>",
+        "description": "<p style='font-style: italic;'>En física, el término \"espectro electromagnético\" se refiere al conjunto completo de todos los tipos de radiación que se desplazan en forma de ondas, es decir, a todas las ondas electromagnéticas existentes. Esto abarca desde ondas de radio de baja frecuencia hasta rayos gamma de alta energía. El espectro electromagnético incluye diversas formas de radiación, como la luz visible, las microondas, los rayos X y muchas otras, cada una con características específicas de longitud de onda y energía. En esencia, el espectro electromagnético representa toda la diversidad de ondas electromagnéticas presentes en el universo.</p>",
+        "link": "https://es.wikipedia.org/wiki/Espectro_electromagn%C3%A9tico"
+    },
+    "Espectro Visible (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Espectro Visible (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>Se llama espectro visible a la región del espectro electromagnético que el ojo humano es capaz de percibir. </p>",
+        "description": "<p style='font-style: italic;'>En física, se denomina espectro visible a la región específica del espectro electromagnético que el ojo humano tiene la capacidad de percibir. Esta porción del espectro abarca las longitudes de onda de la luz que van desde aproximadamente 380 a 750 nanómetros, lo cual engloba los colores del arcoíris: violeta, índigo, azul, verde, amarillo, naranja y rojo. A diferencia de otras formas de radiación electromagnética que no son detectables por el ojo humano, como las microondas o los rayos X, el espectro visible es aquella parte que se traduce en colores visibles para nosotros, formando la experiencia visual que percibimos en nuestro entorno cotidiano.</p>",
+        "link": "https://es.wikipedia.org/wiki/Espectro_visible"
+    },
+    "Luz (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Luz (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Agente físico que hace visibles los objetos.</p>",
+        "description": "<p style='font-style: italic;'>En física, el término \"luz\" se refiere a un agente físico que tiene la capacidad de hacer visibles los objetos. Este fenómeno se produce cuando la radiación electromagnética, dentro de la porción del espectro visible, incide sobre los objetos y es reflejada o emitida, permitiendo que nuestros ojos detecten esta energía luminosa y perciban el entorno. La luz juega un papel fundamental en nuestra capacidad para ver y reconocer el mundo que nos rodea, siendo esencial para la formación de imágenes visuales y la apreciación de los colores y formas. En resumen, la luz actúa como un medio mediante el cual los objetos se vuelven perceptibles a nuestros sentidos visuales.</p>",
+        "link": "https://es.wikipedia.org/wiki/Luz"
+    },
+    "Física": {
+        "title": "<h3 style='font-size: 3em;'>Física</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Ciencia que estudia las propiedades de la materia y de la energía, y las relaciones entre ambas.</p>",
+        "description": "<p style='font-style: italic;'>La física es la ciencia que se dedica al estudio de las propiedades de la materia y de la energía, así como a comprender las relaciones que existen entre ambas. Este campo abarca una amplia variedad de fenómenos, desde las partículas subatómicas hasta la mecánica de los cuerpos celestes. La física busca describir y explicar el comportamiento de la naturaleza a través de leyes y principios fundamentales. Al explorar desde lo más pequeño hasta lo más grande en el universo, la física proporciona un marco teórico que contribuye a nuestra comprensión profunda de cómo funciona el mundo que nos rodea.</p>",
+        "link": "https://es.wikipedia.org/wiki/F%C3%ADsica"
+    },
+    "Color Intermedio o Color Terciario (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Color Intermedio o Color Terciario (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Un color intermedio es aquel que se obtiene mediante la mezcla de dos colores definidos. Usualmente es sinónimo de color terciario, en este sentido, se consigue al mezclar partes iguales de un color primario y un color secundario.</p>",
+        "description": "<p style='font-style: italic;'>Un color intermedio es aquel que se forma al mezclar dos colores definidos. Comúnmente conocido como color terciario, se logra combinando en partes iguales un color primario y un color secundario. Por ejemplo, al mezclar partes iguales de rojo (color primario) y verde (color secundario), obtenemos un color intermedio conocido como marrón. Esta combinación crea una amplia variedad de tonalidades que se sitúan entre los colores originales, ofreciendo una paleta más rica y diversa en la representación visual.</p>",
+        "link": "https://es.wikipedia.org/wiki/Color_intermedio"
+    },
+    "Rosa (Color) (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Rosa (Color) (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Dicho de un color: Rojo muy pálido, como el de la rosa común.</p>",
+        "description": "<p style='font-style: italic;'>Cuando hablamos del color rosa, nos referimos a un tono de rojo muy pálido, similar al color de la rosa común. Este color se caracteriza por su suavidad y claridad, evocando la delicadeza de los pétalos de una rosa. La tonalidad rosa se logra al reducir la intensidad del rojo, creando un matiz más suave y a menudo asociado con la ternura y la feminidad. En resumen, el color rosa es como un rojo suave, recordándonos la belleza sutil de las rosas que encontramos en la naturaleza.</p>",
+        "link": "https://es.wikipedia.org/wiki/Rosa_(color)"
+    },
+    "Marrón (Color) (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Marrón (Color) (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Dicho de un color: Semejante al de la cáscara de la castaña o el pelaje de la ardilla.</p>",
+        "description": "<p style='font-style: italic;'>Cuando nos referimos al color marrón, hablamos de una tonalidad semejante a la cáscara de la castaña o al pelaje de la ardilla. Este color se caracteriza por su apariencia cálida y terrosa, recordándonos los tonos naturales presentes en elementos como las nueces o el pelaje de algunos animales. La tonalidad marrón se obtiene típicamente al mezclar partes iguales de un color primario (como el rojo) y un color secundario (como el verde), creando así una paleta de tonos intermedios que reflejan la riqueza de la naturaleza.</p>",
+        "link": "https://es.wikipedia.org/wiki/Marr%C3%B3n"
+    },
+    "Gris (Color) (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Gris (Color) (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Dicho de un color: Semejante al de la ceniza o el acero, y que resulta de mezclar el blanco y el negro. </p>",
+        "description": "<p style='font-style: italic;'>Cuando nos referimos al color gris, hablamos de una tonalidad semejante al color de la ceniza o el acero. Este color se caracteriza por su aspecto neutro y apagado. La tonalidad gris se logra mediante la mezcla de blanco y negro en proporciones variadas. Es como si estuviéramos combinando la luminosidad del blanco con la oscuridad del negro, creando un color que se encuentra en el punto intermedio entre la claridad y la oscuridad. En resumen, el gris es una tonalidad versátil que refleja la mezcla equilibrada de luminosidad y sombras.</p>",
+        "link": "https://es.wikipedia.org/wiki/Gris"
+    },
+    "Longitud de Onda (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Longitud de Onda (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Distancia entre dos puntos correspondientes a una misma fase en dos ondas consecutivas.</p>",
+        "description": "<p style='font-style: italic;'> En física, la longitud de onda se define como la distancia entre dos puntos que corresponden a una misma fase en dos ondas consecutivas. Es decir, es la medida entre dos puntos idénticos en patrones sucesivos de una onda. Por ejemplo, si estamos hablando de una onda de luz, la longitud de onda sería la distancia entre dos crestas (puntos más altos) o dos valles (puntos más bajos) consecutivos en la onda. En términos más simples, la longitud de onda nos dice cuánto espacio ocupa un ciclo completo de una onda, proporcionando una medida clave en el estudio de fenómenos ondulatorios como la luz o el sonido.</p>",
+        "link": "https://es.wikipedia.org/wiki/Longitud_de_onda"
+    },
+    "Color No Espectral (Color) (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Color No Espectral (Color) (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>Los colores no espectrales serían los no relacionados con una longitud de onda determinada</p>",
+        "description": "<p style='font-style: italic;'>Los colores no espectrales son aquellos que no están directamente relacionados con una longitud de onda específica en el espectro de luz visible. A diferencia de los colores del arcoíris, que corresponden a longitudes de onda específicas, los colores no espectrales son el resultado de combinaciones complejas de varios colores en el espectro. Por ejemplo, el magenta y el cian son considerados colores no espectrales, ya que no se asocian directamente con longitudes de onda únicas, sino que se forman a través de la mezcla de colores espectrales como el rojo y el azul. Estos colores no espectrales amplían la paleta de colores disponibles y se utilizan ampliamente en diversas aplicaciones, como la impresión a color.</p>",
+        "link": "https://es.wikipedia.org/wiki/Tono_(color)"
+    },
+    "Coloración Estructural (Física)": {
+        "title": "<h3 style='font-size: 3em;'>Coloración Estructural (Física)</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>Coloración estructural es la producción de color por superficies con estructuras microscópicas, a veces llamadas esquemocromos, lo suficientemente finas para interferir con la luz visible, a veces en combinación con pigmentos.</p>",
+        "description": "<p style='font-style: italic;'>La coloración estructural se refiere a la generación de color por parte de superficies que poseen estructuras microscópicas, a menudo denominadas esquemocromos. Estas estructuras son lo suficientemente finas como para interferir con la luz visible. En ocasiones, este fenómeno se combina con la presencia de pigmentos para lograr efectos cromáticos específicos. Un ejemplo común de coloración estructural se encuentra en las alas de algunas mariposas, donde las delicadas estructuras microscópicas interactúan con la luz para producir colores vibrantes sin depender de pigmentos tradicionales. Este fenómeno destaca la influencia de las estructuras en la manipulación de la luz para crear efectos visuales cautivadores en el reino natural.</p>",
+        "link": "https://es.wikipedia.org/wiki/Coloraci%C3%B3n_estructural"
+    },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
