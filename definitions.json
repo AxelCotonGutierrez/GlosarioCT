@@ -1224,14 +1224,14 @@
         "description": "<p style='font-style: italic;'>La manzana es una fruta deliciosa y saludable, que crece en los árboles de manzano. Su forma redonda y piel delgada puede ser de diversos colores, desde verde claro hasta rojizo. Rica en fibra, vitaminas y antioxidantes, las manzanas son excelentes para la salud digestiva y el sistema inmunológico. Su sabor puede variar entre ácido y dulce, y en su centro se encuentran pequeñas semillas marrones dentro de una cáscara dura. Comer una manzana al día no solo es delicioso, sino que también es una excelente manera de mantenerse saludable y disfrutar de sus beneficios nutritivos.</p>",
         "link": "https://es.wikipedia.org/wiki/Manzana"
     },
-    "Árbol (Biología)": {
+    "Árbol (Botánica)": {
         "title": "<h3 style='font-size: 3em;'>Árbol (Biología)</h3>",
         "source": "<p style='color: #007BFF;'>RAE</p>",
         "definition": "<p style='font-style: italic;'>Planta de tallo leñoso y elevado, que se ramifica a cierta altura del suelo.</p>",
         "description": "<p style='font-style: italic;'>Un árbol es una planta impresionante con un tallo fuerte y leñoso que se alza alto sobre el suelo y se ramifica en diferentes direcciones a cierta altura. Imagina un gigante verde que se alza hacia el cielo con sus ramas extendidas como brazos protectores. Los árboles son como los gigantes del reino vegetal, proporcionando sombra fresca en verano, refugio para los animales y oxígeno para todos nosotros. Su tronco resistente y robusto les permite crecer durante muchos años, y sus ramas y hojas dan vida a los bosques y paisajes naturales. Desde los majestuosos robles hasta los frondosos árboles frutales, cada uno tiene su propia belleza y importancia en el ecosistema. Los árboles son como los pilares que sostienen la vida en la Tierra, y debemos cuidarlos y protegerlos para asegurar un futuro saludable para nuestro planeta.</p>",
         "link": "https://es.wikipedia.org/wiki/%C3%81rbol"
     },
-    "Manzano (Biología)": {
+    "Manzano (Botánica)": {
         "title": "<h3 style='font-size: 3em;'>Manzano (Biología)</h3>",
         "source": "<p style='color: #007BFF;'>RAE</p>",
         "definition": "<p style='font-style: italic;'>Árbol de la familia de las rosáceas, de tronco generalmente tortuoso, ramas gruesas y copa ancha poco regular, hojas sencillas, ovaladas, puntiagudas, dentadas, blancas, verdes por el haz, grises y algo vellosas por el envés, flores en umbela, sonrosadas por fuera y olorosas, y cuyo fruto es la manzana.</p>",
@@ -1245,7 +1245,7 @@
         "description": "<p style='font-style: italic;'>El plátano es una fruta deliciosa y nutritiva que proviene de la planta de plataneras. Se presenta en forma de una baya alargada, de unos diez a quince centímetros de longitud, ligeramente curvada y con una cáscara lisa y de color amarillo cuando está maduro. Esta fruta es una excelente fuente de energía, gracias a su contenido de carbohidratos, y también proporciona fibra, vitaminas y minerales esenciales para nuestra salud. Además de ser versátil en la cocina, el plátano es conocido por su dulzura natural y su conveniencia como un snack rápido y fácil de llevar. Incorporar plátanos en nuestra dieta diaria no solo nos brinda un delicioso sabor, sino también una variedad de beneficios para la salud.</p>",
         "link": "https://es.wikipedia.org/wiki/Banana"
     },
-    "Platanera (Biología)": {
+    "Platanera (Botánica)": {
         "title": "<h3 style='font-size: 3em;'>Platanera (Biología)</h3>",
         "source": "<p style='color: #007BFF;'>RAE</p>",
         "definition": "<p style='font-style: italic;'>Planta herbácea de grandes dimensiones perteneciente a la familia de las musáceas. Alcanza una altura de 2 a 3 m y un fuste de unos 20 cm de diámetro, formado por las vainas de las hojas, enrolladas apretadamente unas sobre otras y terminadas en un amplio limbo, de unos 2 m de longitud y unos 30 cm de anchura, redondeadas en su ápice. El conjunto de estas hojas forma el penacho o copa de la planta.</p>",
@@ -1266,7 +1266,7 @@
         "description": "<p style='font-style: italic;'>La naranja es un fruto delicioso y nutritivo que proviene del naranjo. Tiene una forma globosa, con un diámetro que varía entre seis y ocho centímetros. Su corteza es rugosa y puede presentar colores que van desde el rojo hasta el amarillo, al igual que su pulpa, la cual está dividida en gajos. Esta pulpa es jugosa, comestible y tiene un sabor agridulce que la hace muy agradable al paladar. Además de ser una fuente de hidratación, las naranjas están llenas de vitamina C, antioxidantes y fibra, lo que las convierte en una excelente opción para fortalecer el sistema inmunológico, mejorar la digestión y mantenernos saludables.</p>",
         "link": "https://es.wikipedia.org/wiki/Naranja_(fruta)"
     },
-    "Naranjo (Biología)": {
+    "Naranjo (Botánica)": {
         "title": "<h3 style='font-size: 3em;'>Naranjo (Biología)</h3>",
         "source": "<p style='color: #007BFF;'>RAE</p>",
         "definition": "<p style='font-style: italic;'>Árbol de la familia de las rutáceas, de cuatro a seis metros de altura, siempre verde, florido y con fruto, tronco liso y ramoso; copa abierta, hojas alternas, ovaladas, duras, lustrosas, pecioladas y de un hermoso color verde. Es originario de Asia y se cultiva mucho en España. Su flor es el azahar y su fruto la naranja.</p>",
@@ -1280,7 +1280,7 @@
         "description": "<p style='font-style: italic;'>La pera es el delicioso fruto que proviene del peral, un árbol de la familia de las Rosáceas. Este fruto tiene una forma redondeada y alargada, con una cáscara fina y lisa que puede variar en color desde el verde hasta el amarillo dorado, dependiendo de la variedad y del grado de maduración. La pulpa de la pera es jugosa y dulce, con una textura suave y delicada. Las peras son una excelente fuente de fibra, vitaminas y minerales, y son conocidas por sus beneficios para la salud digestiva y cardiovascular. Se pueden disfrutar frescas como un bocado refrescante y saludable, o también se pueden utilizar en una variedad de recetas, desde ensaladas hasta postres horneados.</p>",
         "link": "https://es.wikipedia.org/wiki/Pera"
     },
-    "Peral (Biología)": {
+    "Peral (Botánica)": {
         "title": "<h3 style='font-size: 3em;'>Peral (Biología)</h3>",
         "source": "<p style='color: #007BFF;'>RAE</p>",
         "definition": "<p style='font-style: italic;'>Árbol de la familia de las rosáceas, cuya altura varía entre tres y catorce metros según las distintas variedades. Tiene tronco recto y liso, copa bien poblada, hojas pecioladas, lampiñas, aovadas y puntiagudas, flores blancas en corimbos terminales, y por fruto la pera.</p>",
@@ -1294,7 +1294,7 @@
         "description": "<p style='font-style: italic;'> La fresa es el delicioso fruto que proviene de la fresera, una planta herbácea de la familia de las Rosáceas. Este fruto tiene una forma redondeada y pequeña, con una textura suave y brillante. Su color puede variar desde un rojo intenso hasta tonos más claros, dependiendo de la variedad y del grado de maduración. Las fresas están cubiertas por pequeñas semillas doradas incrustadas en su superficie, que le dan un aspecto distintivo. Su sabor es dulce y refrescante, con un ligero toque ácido que las hace irresistibles. Las fresas son una excelente fuente de vitamina C, antioxidantes y fibra, y son conocidas por sus beneficios para la salud cardiovascular y la piel. Se pueden disfrutar solas, con crema, en ensaladas de frutas, o como ingrediente en una amplia variedad de postres y platos dulces.</p>",
         "link": "https://es.wikipedia.org/wiki/Fragaria"
     },
-    "Fresa, Fresera (Biología)": {
+    "Fresa, Fresera (Botánica)": {
         "title": "<h3 style='font-size: 3em;'>Fresa, Fresera (Biología)</h3>",
         "source": "<p style='color: #007BFF;'>RAE</p>",
         "definition": "<p style='font-style: italic;'>Planta de la familia de las rosáceas, con tallos rastreros, nudosos y con estolones, hojas pecioladas, vellosas, blanquecinas por el envés, divididas en tres segmentos aovados y con dientes gruesos en el margen; flores pedunculadas, blancas o amarillentas, solitarias o en corimbos poco nutridos, y fruto casi redondo, algo apuntado, de un centímetro de largo, rojo, suculento y fragante.</p>",
@@ -1308,7 +1308,7 @@
         "description": "<p style='font-style: italic;'>La uva es una fruta deliciosa y jugosa que proviene de la vid, una planta trepadora de la familia de las Vitáceas. Cada uva es una baya o grano más o menos redondo, que puede variar en tamaño y color según la variedad. Estas bayas se agrupan en racimos, que cuelgan de los tallos de la vid. Las uvas son conocidas por su dulzura natural y su frescura, y vienen en una amplia gama de colores, incluyendo el verde, el rojo, el morado y el negro. Son una excelente fuente de antioxidantes, vitaminas y minerales, y se pueden disfrutar tanto frescas como en forma de jugo, vino, mermelada o pasas. Las uvas son un alimento versátil y nutritivo que se disfruta en todo el mundo.</p>",
         "link": "https://es.wikipedia.org/wiki/Uva"
     },
-    "Vid (Biología)": {
+    "Vid (Botánica)": {
         "title": "<h3 style='font-size: 3em;'>Vid (Biología)</h3>",
         "source": "<p style='color: #007BFF;'>RAE</p>",
         "definition": "<p style='font-style: italic;'>Planta vivaz y trepadora de la familia de las vitáceas, con tronco retorcido, vástagos muy largos, flexibles y nudosos, cuyo fruto es la uva.</p>",
@@ -1321,6 +1321,55 @@
         "definition": "<p style='font-style: italic;'>Fruto de la sandía.</p>",
         "description": "<p style='font-style: italic;'>La sandía es una fruta refrescante y jugosa que crece en una planta trepadora llamada sandía, de la familia de las Cucurbitáceas. Este fruto es grande y redondeado, con una cáscara exterior gruesa y verde con rayas más claras o oscuras. Su pulpa interna es de un color rojo intenso o rosado, aunque también hay variedades con pulpa amarilla o naranja. La sandía es conocida por su alto contenido de agua, lo que la hace extremadamente refrescante, especialmente en climas cálidos. Además, es una excelente fuente de vitaminas y minerales, como la vitamina C y el potasio. Se consume principalmente cruda, en rodajas o trozos, como una deliciosa y saludable opción para calmar la sed y satisfacer el hambre en los días calurosos de verano.</p>",
         "link": "https://es.wikipedia.org/wiki/Citrullus_lanatus"
+    },
+    "Sandía (Botánica)": {
+        "title": "<h3 style='font-size: 3em;'>Sandía (Biología)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Planta herbácea anual, de la familia de las cucurbitáceas, con tallo velloso, flexible, rastrero, de tres a cuatro metros de largo, hojas partidas en segmentos redondeados y de color verde oscuro, flores amarillas, fruto casi esférico, tan grande que a veces pesa 20 kg, de corteza verde uniforme o jaspeada y pulpa encarnada, granujienta, aguanosa y dulce, entre la que se encuentran, formando líneas concéntricas, muchas pepitas negras y aplastadas. Es planta muy cultivada en España.</p>",
+        "description": "<p style='font-style: italic;'> La sandía es una planta herbácea anual perteneciente a la familia de las cucurbitáceas. Se caracteriza por tener un tallo velloso, flexible y rastrero, que puede alcanzar longitudes de tres a cuatro metros. Sus hojas están divididas en segmentos redondeados de color verde oscuro. Produce flores de color amarillo brillante. El fruto de la sandía es casi esférico y puede llegar a ser extremadamente grande, a veces pesando hasta 20 kg. Su corteza es de color verde uniforme o jaspeada. La pulpa interna de la sandía es encarnada, granujienta, aguanosa y dulce, con muchas pepitas negras y aplastadas dispuestas en líneas concéntricas. La sandía es una planta ampliamente cultivada en España y en otras regiones cálidas del mundo, apreciada por su refrescante sabor y sus cualidades nutritivas.</p>",
+        "link": "https://es.wikipedia.org/wiki/Citrullus_lanatus"
+    },
+    "Melón (Nutrición) (Biología)": {
+        "title": "<h3 style='font-size: 3em;'>Melón (Nutrición) (Biología)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Fruto del melón.</p>",
+        "description": "<p style='font-style: italic;'>El melón es una fruta jugosa y dulce que crece en la planta de melón, perteneciente a la familia de las Cucurbitáceas. Este fruto tiene una forma redondeada u ovalada, con una cáscara exterior de textura rugosa y color que puede variar desde el verde claro hasta el amarillo, pasando por diferentes tonos de naranja. Su pulpa interna es de color blanco, amarillo o naranja, dependiendo de la variedad, y está llena de jugo y sabor dulce. Los melones suelen tener una cavidad central llena de semillas, las cuales se pueden retirar antes de consumir la fruta. Son una excelente fuente de vitaminas A y C, así como de potasio y fibra dietética. Se consumen frescos como postre o como parte de ensaladas de frutas, y también se utilizan en la preparación de batidos, sorbetes y otros postres. El melón es una fruta muy apreciada en climas cálidos por su refrescante sabor y su alto contenido de agua.</p>",
+        "link": "https://es.wikipedia.org/wiki/Cucumis_melo"
+    },
+    "Melón (Botánica)": {
+        "title": "<h3 style='font-size: 3em;'>Melón (Botánica)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Planta herbácea anual, de la familia de las cucurbitáceas, con tallos tendidos, ramosos, ásperos, con zarcillos, y de tres a cuatro metros de longitud, hojas pecioladas, partidas en cinco lóbulos obtusos, flores solitarias de corola amarilla, y fruto elipsoidal de 20 a 30 cm de largo, con cáscara blanca, amarilla, verde o manchada de estos colores, carne olorosa, abundante, dulce, blanda, aguanosa, que deja en el interior un hueco donde hay muchas pepitas de corteza amarilla y almendra blanca. Es originaria de Oriente y muy estimada.</p>",
+        "description": "<p style='font-style: italic;'>El melón es una planta herbácea anual perteneciente a la familia de las cucurbitáceas. Se caracteriza por tener tallos tendidos, ramosos, ásperos y con zarcillos, que pueden alcanzar longitudes de tres a cuatro metros. Sus hojas son pecioladas y están divididas en cinco lóbulos obtusos. Produce flores solitarias de corola amarilla. El fruto del melón es elipsoidal y puede medir entre 20 y 30 cm de largo. Su cáscara puede ser blanca, amarilla, verde o manchada con estos colores. La pulpa del melón es olorosa, abundante, dulce, blanda y aguanosa, dejando en su interior un hueco donde se encuentran numerosas pepitas de corteza amarilla y almendra blanca. Originario de Oriente, el melón es una planta muy estimada y ampliamente cultivada en diferentes regiones del mundo debido a su delicioso sabor y su valor nutricional.</p>",
+        "link": "https://es.wikipedia.org/wiki/Cucumis_melo"
+    },
+    "Kiwi (Nutrición) (Biología)": {
+        "title": "<h3 style='font-size: 3em;'>Kiwi (Nutrición) (Biología)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Fruto comestible del kiwi, de piel ligeramente vellosa y pulpa de color verde.</p>",
+        "description": "<p style='font-style: italic;'>El kiwi es una deliciosa fruta comestible que proviene de la planta del kiwi, conocida científicamente como Actinidia deliciosa. Esta fruta tiene una piel ligeramente vellosa y una pulpa de color verde brillante. Su sabor es dulce y refrescante, con un ligero toque ácido. El kiwi es una excelente fuente de vitamina C, vitamina K, potasio y fibra dietética. Se consume principalmente fresco, cortado en rodajas o cucharadas, aunque también se puede utilizar en ensaladas de frutas, batidos, postres y otros platos. Es apreciado no solo por su sabor único, sino también por sus beneficios para la salud, ya que ayuda a fortalecer el sistema inmunológico, mejorar la digestión y mantener la salud del corazón.</p>",
+        "link": "https://es.wikipedia.org/wiki/Kiwi"
+    },
+    "Kiwi (Botánica)": {
+        "title": "<h3 style='font-size: 3em;'>Kiwi (Botánica)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Arbusto trepador originario de China, de hojas alternas y redondeadas y flores blancas o amarillas, con cinco pétalos.</p>",
+        "description": "<p style='font-style: italic;'>El kiwi es un arbusto trepador que tiene su origen en China. Pertenece a la especie Actinidia deliciosa. Se caracteriza por tener hojas alternas y redondeadas. Sus flores son pequeñas y pueden ser blancas o amarillas, con cinco pétalos. Este arbusto es conocido por su vigoroso crecimiento y su capacidad para trepar sobre estructuras de soporte, como pérgolas o vallas. Es cultivado principalmente por su deliciosa fruta, el kiwi, pero también puede ser apreciado como planta ornamental por la belleza de sus flores y follaje.</p>",
+        "link": "https://es.wikipedia.org/wiki/Actinidia_deliciosa"
+    },
+    "Piña (Nutrición) (Biología)": {
+        "title": "<h3 style='font-size: 3em;'>Piña (Nutrición) (Biología)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Fruto del ananás.</p>",
+        "description": "<p style='font-style: italic;'>La piña es el fruto del ananás, una planta tropical de la familia de las Bromeliáceas, conocida científicamente como Ananas comosus. Este fruto es famoso por su sabor dulce y refrescante, así como por su aroma exótico. La piña tiene una cáscara áspera y espinosa en el exterior, que varía en color desde el verde al amarillo dorado cuando está madura. Su pulpa interior es jugosa, de color amarillo brillante, y está salpicada de pequeñas fibras. La piña es una excelente fuente de vitamina C, manganeso y otras vitaminas y minerales. Se puede consumir fresca, en rodajas o trozos, sola o como parte de ensaladas de frutas, batidos, cócteles y platos de cocina. Es una fruta muy versátil y deliciosa que se disfruta en todo el mundo.</p>",
+        "link": "https://es.wikipedia.org/wiki/Ananas_comosus"
+    },
+    "Ananás (Botánica)": {
+        "title": "<h3 style='font-size: 3em;'>Ananás (Botánica)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Planta vivaz, de la familia de las bromeliáceas, que crece hasta unos 70 cm de altura, con hojas glaucas, ensiformes, rígidas, de bordes espinosos y rematados en punta muy aguda; flores de color morado y fruto grande en forma de piña, carnoso, amarillento, muy fragante, suculento y terminado por un penacho de hojas.</p>",
+        "description": "<p style='font-style: italic;'>El ananás es una planta vivaz perteneciente a la familia de las bromeliáceas, conocida científicamente como Ananas comosus. Esta planta puede crecer hasta unos 70 cm de altura y se caracteriza por sus hojas glaucas, ensiformes y rígidas, que tienen bordes espinosos y terminan en una punta muy aguda. Produce flores de color morado. El fruto del ananás es grande y tiene forma de piña, con una cáscara exterior carnosa y amarillenta. La piña es muy fragante y suculenta, y está terminada por un penacho de hojas en la parte superior. Es apreciada en todo el mundo por su sabor dulce y refrescante, así como por su versatilidad en la cocina. Se consume fresca, en jugos, ensaladas, postres y como ingrediente en una variedad de platos salados.</p>",
+        "link": "https://es.wikipedia.org/wiki/Ananas_comosus"
     },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
