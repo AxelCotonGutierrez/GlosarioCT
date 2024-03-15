@@ -1161,6 +1161,83 @@
         "description": "<p style='font-style: italic;'>La coloración estructural se refiere a la generación de color por parte de superficies que poseen estructuras microscópicas, a menudo denominadas esquemocromos. Estas estructuras son lo suficientemente finas como para interferir con la luz visible. En ocasiones, este fenómeno se combina con la presencia de pigmentos para lograr efectos cromáticos específicos. Un ejemplo común de coloración estructural se encuentra en las alas de algunas mariposas, donde las delicadas estructuras microscópicas interactúan con la luz para producir colores vibrantes sin depender de pigmentos tradicionales. Este fenómeno destaca la influencia de las estructuras en la manipulación de la luz para crear efectos visuales cautivadores en el reino natural.</p>",
         "link": "https://es.wikipedia.org/wiki/Coloraci%C3%B3n_estructural"
     },
+    "Fruta (Nutrición) (Biología)": {
+        "title": "<h3 style='font-size: 3em;'>Fruta (Biología)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Fruto comestible de ciertas plantas cultivadas; p. ej., la pera, la guinda, la fresa, etc.</p>",
+        "description": "<p style='font-style: italic;'>Las frutas son las partes de ciertas plantas que podemos comer. Son deliciosas y vienen en diferentes formas, colores y sabores. Algunas son dulces, como las manzanas, y otras son ácidas, como las naranjas. Las frutas son importantes para nuestra salud porque nos dan vitaminas y nutrientes que necesitamos para crecer fuertes y sanos. Por ejemplo, la vitamina C que encontramos en las naranjas nos ayuda a mantenernos saludables. Así que recuerda incluir frutas en tu dieta diaria para estar lleno de energía y vitalidad.</p>",
+        "link": "https://es.wikipedia.org/wiki/Fruta"
+    },
+    "Dieta Alimentaria (Nutrición) (Biología)": {
+        "title": "<h3 style='font-size: 3em;'>Dieta Alimentaria (Biología)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Conjunto de sustancias que regularmente se ingieren como alimento.</p>",
+        "description": "<p style='font-style: italic;'>La dieta es todo lo que comemos regularmente para alimentarnos y mantenernos saludables. Es como un menú de alimentos que consumimos cada día. Imagina que tu cuerpo es como un carro y la comida es su combustible. Necesitas una dieta equilibrada para que tu carro (cuerpo) funcione de manera óptima. Esto significa comer una variedad de alimentos que nos proporcionen energía, vitaminas y minerales necesarios para crecer y mantenernos fuertes. Por ejemplo, tu dieta puede incluir frutas, verduras, proteínas como carne o legumbres, carbohidratos como arroz o pan, y grasas saludables como aceite de oliva. Al seguir una dieta adecuada, tu cuerpo estará bien nutrido y te sentirás lleno de energía para enfrentar el día a día.</p>",
+        "link": "https://es.wikipedia.org/wiki/Dieta_(alimentaci%C3%B3n)"
+    },
+    "Dieta Mediterránea (Nutrición) (Biología)": {
+        "title": "<h3 style='font-size: 3em;'>Dieta Mediterránea (Biología)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Régimen alimenticio de los países de la cuenca del mar Mediterráneo basado preferentemente en cereales, legumbres, hortalizas, aceite de oliva y vino.</p>",
+        "description": "<p style='font-style: italic;'>La dieta mediterránea es un estilo de alimentación típico de los países que rodean al mar Mediterráneo, como España, Italia, Grecia y otros. Se caracteriza por incluir principalmente alimentos como cereales, legumbres, hortalizas, aceite de oliva y vino con moderación. Es como un viaje culinario por los sabores y aromas del Mediterráneo. Por ejemplo, puedes disfrutar de deliciosas ensaladas con aceite de oliva, pan integral con hummus de garbanzos, pescado fresco al horno con verduras, y frutas frescas de postre. La dieta mediterránea es famosa por sus beneficios para la salud, ya que está llena de ingredientes naturales y nutritivos que mantienen nuestro cuerpo fuerte y saludable. Así que, al seguir la dieta mediterránea, no solo disfrutas de comidas deliciosas, sino que también cuidas de tu salud de una manera deliciosa.</p>",
+        "link": "https://es.wikipedia.org/wiki/Dieta_mediterr%C3%A1nea"
+    },
+    "Vitamina (Nutrición) (Biología)": {
+        "title": "<h3 style='font-size: 3em;'>Vitamina (Biología)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Cada una de las sustancias orgánicas que existen en los alimentos y que, en cantidades pequeñísimas, son necesarias para el perfecto equilibrio de las diferentes funciones vitales. Existen varios tipos, designados con las letras A, B, C, etc.</p>",
+        "description": "<p style='font-style: italic;'>Las vitaminas son como pequeñas píldoras mágicas que se encuentran en los alimentos y que nuestro cuerpo necesita en cantidades muy pequeñas para mantenerse sano y funcionar correctamente. Son como los superhéroes de la comida, ¡pequeñas pero poderosas! Imagina que tu cuerpo es una máquina muy compleja y las vitaminas son las piezas clave que la hacen funcionar sin problemas. Cada tipo de vitamina tiene su propia función especial. Por ejemplo, la vitamina C es famosa por mantenernos alejados de los resfriados y fortalecer nuestro sistema inmunológico. Puedes encontrar vitamina C en alimentos como las naranjas, fresas y kiwis. </p>",
+        "link": "https://es.wikipedia.org/wiki/Vitamina"
+    },
+    "Nutrición (Biología)": {
+        "title": "<h3 style='font-size: 3em;'>Nutrición (Biología)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Acción y efecto de nutrir. Disciplina que estudia la relación entre alimentación y salud. </p>",
+        "description": "<p style='font-style: italic;'>La nutrición es la ciencia que se encarga de estudiar cómo los alimentos que comemos afectan nuestra salud y bienestar. Es como un mapa que nos guía para elegir los alimentos adecuados que nuestro cuerpo necesita para crecer y mantenerse saludable. La nutrición nos enseña a entender cómo los diferentes alimentos nos proporcionan energía, vitaminas, minerales y otros nutrientes importantes. Por ejemplo, nos dice que necesitamos comer frutas y verduras todos los días para mantenernos fuertes y protegidos contra enfermedades. También nos ayuda a comprender cómo equilibrar nuestra dieta con proteínas, carbohidratos y grasas saludables. En resumen, la nutrición es como el manual de instrucciones para alimentarnos de manera adecuada y disfrutar de una vida larga y saludable.</p>",
+        "link": "https://es.wikipedia.org/wiki/Nutrici%C3%B3n"
+    },
+    "Salud (Biología)": {
+        "title": "<h3 style='font-size: 3em;'>Salud (Biología)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Estado en que el ser orgánico ejerce normalmente todas sus funciones. Condición física y psíquica en que se encuentra un organismo en un momento determinado.</p>",
+        "description": "<p style='font-style: italic;'>La salud es como un superpoder que nos permite realizar todas nuestras actividades diarias sin problemas. Cuando estamos saludables, nuestro cuerpo funciona como un reloj, realizando todas sus funciones correctamente. No solo se trata de estar físicamente bien, sino también de sentirnos bien emocionalmente. La salud es como tener un escudo protector que nos ayuda a mantenernos fuertes y felices. Por ejemplo, cuando estamos sanos, podemos correr, saltar, jugar y aprender sin limitaciones. Además, la salud incluye no solo nuestro cuerpo, sino también nuestra mente. Es importante sentirse bien emocionalmente para disfrutar plenamente de la vida. Así que, cuidemos nuestra salud comiendo bien, haciendo ejercicio y manteniendo una actitud positiva hacia la vida.</p>",
+        "link": "https://es.wikipedia.org/wiki/Salud"
+    },
+    "Mineral (Nutrición) (Biología)": {
+        "title": "<h3 style='font-size: 3em;'>Mineral (Nutrición) (Biología)</h3>",
+        "source": "<p style='color: #007BFF;'>Wikipedia</p>",
+        "definition": "<p style='font-style: italic;'>En el contexto de la nutrición, un mineral es un elemento químico requerido por los organismos como un nutriente esencial para realizar las funciones necesarias para la vida.</p>",
+        "description": "<p style='font-style: italic;'>En la nutrición, un mineral es como un pequeño tesoro que nuestro cuerpo necesita para mantenerse fuerte y saludable. Son elementos químicos que se encuentran en los alimentos y que nuestro cuerpo necesita en cantidades pequeñas pero importantes para funcionar correctamente. Imagina que tu cuerpo es una máquina compleja y los minerales son las piezas esenciales que la mantienen en marcha. Por ejemplo, el calcio es un mineral que necesitamos para tener huesos y dientes fuertes, mientras que el hierro es necesario para transportar oxígeno en la sangre. Los minerales se encuentran en alimentos como las verduras de hoja verde, los lácteos, las legumbres y los frutos secos. Así que, asegúrate de incluir una variedad de alimentos ricos en minerales en tu dieta para mantener tu cuerpo en óptimas condiciones.</p>",
+        "link": "https://es.wikipedia.org/wiki/Mineral_(nutriente)"
+    },
+    "Fibra (Nutrición) (Biología)": {
+        "title": "<h3 style='font-size: 3em;'>Fibra (Nutrición) (Biología)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Componente de ciertos alimentos, de naturaleza fibrosa, que les confiere propiedades digestivas salutíferas.</p>",
+        "description": "<p style='font-style: italic;'>La fibra es como el escobillón mágico que ayuda a limpiar nuestro sistema digestivo y mantenerlo en buena forma. Es un componente especial que se encuentra en algunos alimentos y que tiene una textura fibrosa. Imagina que tu sistema digestivo es como una autopista por la que pasan todos los alimentos que comes. La fibra es como el guardián de esa autopista, asegurándose de que todo funcione sin problemas. Ayuda a que los alimentos pasen fácilmente por el sistema digestivo y a prevenir problemas como el estreñimiento. Además, la fibra también es buena para controlar los niveles de azúcar en la sangre y el colesterol. Puedes encontrar fibra en alimentos como frutas, verduras, cereales integrales, legumbres y frutos secos. </p>",
+        "link": "https://es.wikipedia.org/wiki/Fibra_alimentaria"
+    },
+    "Manzana (Nutrición) (Biología)": {
+        "title": "<h3 style='font-size: 3em;'>Manzana (Nutrición) (Biología)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Fruto del manzano, de forma globosa algo hundida por los extremos del eje, de epicarpio delgado, liso y de color verde claro, amarillo pálido o encarnado, mesocarpio con sabor acídulo o ligeramente azucarado, y semillas pequeñas, de color de caoba, encerradas en un endocarpio coriáceo.</p>",
+        "description": "<p style='font-style: italic;'>La manzana es una fruta deliciosa y saludable, que crece en los árboles de manzano. Su forma redonda y piel delgada puede ser de diversos colores, desde verde claro hasta rojizo. Rica en fibra, vitaminas y antioxidantes, las manzanas son excelentes para la salud digestiva y el sistema inmunológico. Su sabor puede variar entre ácido y dulce, y en su centro se encuentran pequeñas semillas marrones dentro de una cáscara dura. Comer una manzana al día no solo es delicioso, sino que también es una excelente manera de mantenerse saludable y disfrutar de sus beneficios nutritivos.</p>",
+        "link": "https://es.wikipedia.org/wiki/Manzana"
+    },
+    "Árbol (Biología)": {
+        "title": "<h3 style='font-size: 3em;'>Árbol (Biología)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Planta de tallo leñoso y elevado, que se ramifica a cierta altura del suelo.</p>",
+        "description": "<p style='font-style: italic;'>Un árbol es una planta impresionante con un tallo fuerte y leñoso que se alza alto sobre el suelo y se ramifica en diferentes direcciones a cierta altura. Imagina un gigante verde que se alza hacia el cielo con sus ramas extendidas como brazos protectores. Los árboles son como los gigantes del reino vegetal, proporcionando sombra fresca en verano, refugio para los animales y oxígeno para todos nosotros. Su tronco resistente y robusto les permite crecer durante muchos años, y sus ramas y hojas dan vida a los bosques y paisajes naturales. Desde los majestuosos robles hasta los frondosos árboles frutales, cada uno tiene su propia belleza y importancia en el ecosistema. Los árboles son como los pilares que sostienen la vida en la Tierra, y debemos cuidarlos y protegerlos para asegurar un futuro saludable para nuestro planeta.</p>",
+        "link": "https://es.wikipedia.org/wiki/%C3%81rbol"
+    },
+    "Manzano (Biología)": {
+        "title": "<h3 style='font-size: 3em;'>Manzano (Biología)</h3>",
+        "source": "<p style='color: #007BFF;'>RAE</p>",
+        "definition": "<p style='font-style: italic;'>Árbol de la familia de las rosáceas, de tronco generalmente tortuoso, ramas gruesas y copa ancha poco regular, hojas sencillas, ovaladas, puntiagudas, dentadas, blancas, verdes por el haz, grises y algo vellosas por el envés, flores en umbela, sonrosadas por fuera y olorosas, y cuyo fruto es la manzana.</p>",
+        "description": "<p style='font-style: italic;'>El manzano es un árbol perteneciente a la familia de las rosáceas, caracterizado por su tronco a menudo retorcido, ramas gruesas y una copa amplia y poco regular. Sus hojas son simples, ovaladas y puntiagudas, con bordes dentados, de color verde en el haz y algo vellosas y grises en el envés. Produce flores agrupadas en umbelas, de tonos rosados en el exterior y con un aroma agradable. El fruto que da este árbol es la manzana, una deliciosa y saludable fruta que viene en una variedad de colores y sabores, siendo un tesoro nutritivo que disfrutamos en diversas preparaciones culinarias.</p>",
+        "link": "https://es.wikipedia.org/wiki/Malus_domestica"
+    },
     "Millar": {
         "title": "<h3 style='font-size: 3em;'>Millar</h3>",
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
