@@ -10,9 +10,10 @@ document.addEventListener('DOMContentLoaded', () => {
         const definition = document.getElementById('concept-definition').value.replace(/"/g, '\\"');
         const description = document.getElementById('concept-description').value.replace(/"/g, '\\"');
         const link = document.getElementById('concept-link').value.replace(/"/g, '\\"'); // Obtener el valor del enlace
+        const video = document.getElementById('concept-video').value.replace(/"/g, '\\"'); // Obtener el valor del vídeo
 
         if (!title || !source || !definition || !description) {
-            alert('Por favor, complete todos los campos.');
+            alert('Por favor, complete todos los campos obligatorios.');
             return;
         }
 
@@ -23,7 +24,8 @@ document.addEventListener('DOMContentLoaded', () => {
         "source": "<p style='color: #007BFF;'>${source}</p>",
         "definition": "<p style='font-style: italic;'>${definition}</p>",
         "description": "<p style='font-style: italic;'>${description}</p>",
-        "link": "${link}"
+        "link": "${link}",
+        "video": "${video}"
     }
 }`;
 

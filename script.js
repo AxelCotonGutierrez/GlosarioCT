@@ -35,8 +35,12 @@ fetch('definitions.json')
                         <p>${definition.definition}</p>
                         <p><strong style='color: #007BFF;'>Coloquialmente:</strong> ${definition.description}</p>
                         ${definition.link ? `<p><a href="${definition.link}" target="_blank">Enlace a más información</a></p>` : ""}
+                        ${definition.video ? `
+                            <div class="video-container">
+                                <iframe width="560" height="315" src="${definition.video}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>` : ""}
                     </div>
-                `;
+                    `;
                 }).join("");
                 definitionResult.innerHTML = resultsHTML;
             } else {
@@ -47,4 +51,5 @@ fetch('definitions.json')
     .catch(error => {
         console.error('Error al cargar las definiciones:', error);
     });
+
 
