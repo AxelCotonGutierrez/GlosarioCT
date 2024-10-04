@@ -12,7 +12,8 @@
         "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
         "definition": "<p style='font-style: italic;'>Poner números a una serie de objetos o a sus partes.</p>",
         "description": "<p style='font-style: italic;'>\"Numerar\" en el contexto matemático significa asignar números a elementos en una secuencia ordenada para identificarlos individualmente y llevar un registro de su posición. Es como etiquetar o marcar objetos en una serie o secuencia con números para saber cuál es cuál y en qué lugar se encuentran en esa secuencia. Por ejemplo, si tienes una serie de libros en una biblioteca y les asignas números en orden, estás numerando los libros para saber cuál es el primero, cuál es el segundo, y así sucesivamente. Esto ayuda a organizar y distinguir los elementos de una lista o serie.</p>",
-        "link": "https://es.wikipedia.org/wiki/Enumeraci%C3%B3n"
+        "link": "https://es.wikipedia.org/wiki/Enumeraci%C3%B3n",
+        "video": "https://www.youtube.com/embed/tVxBvfBTPv8?si=ZZg8fCtcampMtkIU"
     },
     "Número": {
         "title": "<h3 style='font-size: 3em;'>Número</h3>",
