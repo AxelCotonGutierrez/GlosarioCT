@@ -9,7 +9,7 @@
     },
     "Numerar": {
         "title": "<h3 style='font-size: 3em;'>Numerar</h3>",
-        "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
+        "source": "<p style='color: #007BFF;'>RAE:</p>",
         "definition": "<p style='font-style: italic;'>Poner números a una serie de objetos o a sus partes.</p>",
         "description": "<p style='font-style: italic;'>\"Numerar\" en el contexto matemático significa asignar números a elementos en una secuencia ordenada para identificarlos individualmente y llevar un registro de su posición. Es como etiquetar o marcar objetos en una serie o secuencia con números para saber cuál es cuál y en qué lugar se encuentran en esa secuencia. Por ejemplo, si tienes una serie de libros en una biblioteca y les asignas números en orden, estás numerando los libros para saber cuál es el primero, cuál es el segundo, y así sucesivamente. Esto ayuda a organizar y distinguir los elementos de una lista o serie.</p>",
         "link": "https://es.wikipedia.org/wiki/Enumeraci%C3%B3n",
@@ -17,7 +17,7 @@
     },
     "Número": {
         "title": "<h3 style='font-size: 3em;'>Número</h3>",
-        "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
+        "source": "<p style='color: #007BFF;'>RAE:</p>",
         "definition": "<p style='font-style: italic;'>Expresión compuesta por cifras que permite designar una cantidad en relación con su unidad.</p>",
         "description": "<p style='font-style: italic;'>Un número es una etiqueta que usamos para contar cosas o medir cantidades. Por ejemplo, cuando decimos \"uno, dos, tres\", estamos usando números para contar objetos, como galletas o flores. Los números nos ayudan a decir cuántas cosas hay y a compararlas. También pueden representar la posición de algo en una lista, como el número de un asiento en un cine. Básicamente, los números son como herramientas que usamos en la vida diaria para entender y describir la cantidad y el orden de las cosas.</p>",
         "link": "https://es.wikipedia.org/wiki/N%C3%BAmero",
@@ -28,7 +28,8 @@
         "source": "<p style='color: #007BFF;'>Wikipedia</p>",
         "definition": "<p style='font-style: italic;'>El sistema de numeración decimal, es un sistema de numeración posicional en el que las cantidades se representan utilizando como base aritmética el número diez. El conjunto de símbolos utilizado (sistema de numeración arábiga) se compone de diez cifras: cero (0), uno (1), dos (2), tres (3), cuatro (4), cinco (5), seis (6), siete (7), ocho (8) y nueve (9).</p>",
         "description": "<p style='font-style: italic;'>Un \"Sistema de Numeración Decimal\" es una forma especial de contar y escribir números que utiliza diez símbolos diferentes, como los números del 0 al 9. Imagina que los números son como las palabras en un idioma que usamos para decir cuántas cosas tenemos. En este sistema, cuando contamos, llegamos a \"9\" y luego volvemos a empezar, como cuando decimos \"10\". Cada número en este sistema tiene un lugar especial que le da un valor, como las unidades, decenas o centenas, que nos ayuda a entender cuánto vale realmente. Este sistema es el que usamos en la vida cotidiana para contar y hacer matemáticas.</p>",
-        "link": "https://es.wikipedia.org/wiki/Sistema_de_numeraci%C3%B3n_decimal"
+        "link": "https://es.wikipedia.org/wiki/Sistema_de_numeraci%C3%B3n_decimal",
+        "video": "https://www.youtube.com/embed/-I_3EKkGZLo?si=zN8cJ9Zrs6Ftp0rV"
     },
     "Notación Posicional": {
         "title": "<h3 style='font-size: 3em;'>Notación posicional</h3>",
