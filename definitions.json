@@ -32,11 +32,12 @@
         "video": "https://www.youtube.com/embed/-I_3EKkGZLo?si=zN8cJ9Zrs6Ftp0rV"
     },
     "Notación Posicional": {
-        "title": "<h3 style='font-size: 3em;'>Notación posicional</h3>",
+        "title": "<h3 style='font-size: 3em;'>Notación Posicional</h3>",
         "source": "<p style='color: #007BFF;'>Wikipedia</p>",
         "definition": "<p style='font-style: italic;'>La notación posicional es un sistema de numeración en el cual cada dígito posee un valor que depende de su posición relativa, la cual está determinada por la base, que es el número de dígitos necesarios para escribir cualquier número. Un ejemplo de numeración posicional es el habitualmente usado sistema decimal (base 10), necesitándose diez dígitos diferentes, los cuales deberán estar constituidos de un símbolo (grafema), cuyo valor en orden creciente es: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. Para los números escritos en sistemas de bases menores, se usan solo los dígitos de menor valor; para los escritos con bases mayores que 10, se utilizan letras: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, ...</p>",
         "description": "<p style='font-style: italic;'>La \"Notación Posicional\" es como un lenguaje especial que usamos para escribir números de manera ordenada y comprensible. Imagina que los números son como palabras en una oración, y cada número tiene un lugar específico en esa oración. La posición de un número en ese lugar le da su valor, igual que las palabras en una oración tienen significados según su posición. Por ejemplo, en el número \"123\", el \"1\" está en el lugar de las centenas, el \"2\" en el lugar de las decenas y el \"3\" en el lugar de las unidades. Esta notación hace que los números sean fáciles de leer y entender, como las palabras en una historia.</p>",
-        "link": "https://es.wikipedia.org/wiki/Notaci%C3%B3n_posicional"
+        "link": "https://es.wikipedia.org/wiki/Notaci%C3%B3n_posicional",
+        "video": "https://www.youtube.com/embed/tKMD4ibOQiI?si=RCeNYSvFGiQjtbrm"
     },
     "Infinito": {
         "title": "<h3 style='font-size: 3em;'>Infinito</h3>",
