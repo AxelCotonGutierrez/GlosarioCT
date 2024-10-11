@@ -41,10 +41,11 @@
     },
     "Infinito": {
         "title": "<h3 style='font-size: 3em;'>Infinito</h3>",
-        "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
+        "source": "<p style='color: #007BFF;'>RAE:</p>",
         "definition": "<p style='font-style: italic;'>En lógica y matemáticas, se refiere a una magnitud que no tiene límites ni fin, como la secuencia de números naturales (1, 2, 3, ...) que nunca termina. También se utiliza en un sentido más general para describir algo que es ilimitado o inagotable en su extensión o duración.</p>",
         "description": "<p style='font-style: italic;'>\"Infinito\" es como un concepto mágico que significa que algo nunca se acaba. Imagina que tienes una cuerda muy larga que nunca termina, no importa cuánto la estires. Eso es como el infinito. En matemáticas, usamos \"infinito\" para decir que algo continúa para siempre, como los números que nunca paran de aumentar (1, 2, 3, ... ¡y así sucesivamente para siempre!). Es un poco como el cielo estrellado en una noche sin fin: ¡siempre hay más números y estrellas por descubrir!</p>",
-        "link": "https://es.wikipedia.org/wiki/Infinito"
+        "link": "https://es.wikipedia.org/wiki/Infinito",
+        "video": "https://www.youtube.com/embed/yp_6x2M5ftg?si=J89mAg_sHCQfZGtt"
     },
     "Conjunto": {
         "title": "<h3 style='font-size: 3em;'>Conjunto</h3>",
