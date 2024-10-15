@@ -49,10 +49,11 @@
     },
     "Conjunto": {
         "title": "<h3 style='font-size: 3em;'>Conjunto</h3>",
-        "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
+        "source": "<p style='color: #007BFF;'>RAE:</p>",
         "definition": "<p style='font-style: italic;'>Colección de elementos o números reunidos de acuerdo con una regla o criterio específico.</p>",
         "description": "<p style='font-style: italic;'>Un \"conjunto\" es como una caja imaginaria que contiene cosas similares. Piensa en una caja de juguetes: todos los juguetes dentro de la caja son un conjunto porque tienen algo en común, como ser de colores o formas similares. En matemáticas, un conjunto es como una lista de números o elementos que están agrupados juntos por alguna razón, como los números pares (2, 4, 6, ...) o los animales de la granja (vacas, cerdos, gallinas, ...). Es como poner cosas que tienen algo en común en un mismo lugar.</p>",
-        "link": "https://es.wikipedia.org/wiki/Conjunto"
+        "link": "https://es.wikipedia.org/wiki/Conjunto",
+        "video": "https://www.youtube.com/embed/k_eJPjV5EOg?si=sgctOmnDOe_T37Zs"
     },
     "Cifra": {
         "title": "<h3 style='font-size: 3em;'>Cifra</h3>",
