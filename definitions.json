@@ -73,7 +73,7 @@
     },
     "Unidad": {
         "title": "<h3 style='font-size: 3em;'>Unidad</h3>",
-        "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
+        "source": "<p style='color: #007BFF;'>RAE:</p>",
         "definition": "<p style='font-style: italic;'>Valor o cantidad básica utilizada como referencia para medir, contar o comparar otras cantidades. En muchos casos, la unidad se representa con el número \"1\" y se utiliza para construir números más grandes mediante la adición o multiplicación.</p>",
         "description": "<p style='font-style: italic;'>En matemáticas, \"unidad\" es como la pieza más pequeña que usamos para contar cosas o medir cantidades. Es como tener una regla donde la unidad es el centímetro, y cuando decimos \"3 centímetros\", estamos usando la unidad para medir una distancia. O cuando decimos \"3 manzanas\", la unidad es \"manzana\", y estamos contando cuántas tenemos. En resumen, la unidad es como la pieza básica que nos ayuda a decir cuántas cosas tenemos o a medir distancias, como si fuera el ladrillo más pequeño de un edificio de números.</p>",
         "link": "https://es.wikipedia.org/wiki/Uno"
