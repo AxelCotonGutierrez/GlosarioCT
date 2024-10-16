@@ -65,10 +65,11 @@
     },
     "Dígito": {
         "title": "<h3 style='font-size: 3em;'>Dígito</h3>",
-        "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
+        "source": "<p style='color: #007BFF;'>RAE:</p>",
         "definition": "<p style='font-style: italic;'>Cada uno de los caracteres o símbolos con los que se representan los números en la numeración decimal, que son los siguientes: 0, 1, 2, 3, 4, 5, 6, 7, 8 y 9.</p>",
-        "description": "<p style='font-style: italic;'>Un \"dígito\" es como un número pequeñito que usamos todos los días. Imagina que los números son como las palabras en un idioma, y los dígitos son las letras de ese idioma. Los dígitos son solo diez: 0, 1, 2, 3, 4, 5, 6, 7, 8 y 9. Usamos estos dígitos para escribir todos los números más grandes. Por ejemplo, el número \"5\" es un dígito que usamos para escribir el número \"50\" o \"500\". Es como si los dígitos fueran las piezas más pequeñas que forman los números que usamos en nuestra vida diaria.</p>",
-        "link": "https://es.wikipedia.org/wiki/Cifra_(matem%C3%A1tica)"
+        "description": "<p style='font-style: italic;'>Un \"dígito\" es como un número pequeñito que usamos todos los días. Imagina que los números son como las palabras en un idioma, y los dígitos son las letras de ese idioma. Los dígitos son solo diez: 0, 1, 2, 3, 4, 5, 6, 7, 8 y 9. Usamos estos dígitos para escribir los números más grandes. Por ejemplo, el número \"5\" es un dígito que usamos para escribir el número \"50\" o \"500\". Es como si los dígitos fueran las piezas más pequeñas que forman los números que usamos en nuestra vida diaria.</p>",
+        "link": "https://es.wikipedia.org/wiki/Cifra_(matem%C3%A1tica)",
+        "video": "https://www.youtube.com/embed/Xpf_K6Q9TuE?si=dPQaTyzfZZHbSQiD"
     },
     "Unidad": {
         "title": "<h3 style='font-size: 3em;'>Unidad</h3>",
