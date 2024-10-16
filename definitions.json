@@ -57,10 +57,11 @@
     },
     "Cifra": {
         "title": "<h3 style='font-size: 3em;'>Cifra</h3>",
-        "source": "<p style='color: #007BFF;'>RAE (sept. 2021):</p>",
+        "source": "<p style='color: #007BFF;'>RAE:</p>",
         "definition": "<p style='font-style: italic;'>Signo o conjunto de signos con que se representa un número.</p>",
         "description": "<p style='font-style: italic;'>Una \"cifra\" es como un número pequeñito, como los que vemos todos los días en los relojes o cuando contamos cosas. Imagina que cada número que vemos, como el \"7\" en un reloj o el \"3\" en tu edad, es una cifra. En matemáticas, las cifras son como los ladrillos con los que construimos los números más grandes. Por ejemplo, el número \"73\" está hecho de las cifras \"7\" y \"3\". Es como si cada cifra fuera un bloque que usamos para construir nuestros números.</p>",
-        "link": "https://es.wikipedia.org/wiki/Cifra_(matem%C3%A1tica)"
+        "link": "https://es.wikipedia.org/wiki/Cifra_(matem%C3%A1tica)",
+        "video": "https://www.youtube.com/embed/PlvXxgkO44I?si=C3grpqFG2FdazEuG"
     },
     "Dígito": {
         "title": "<h3 style='font-size: 3em;'>Dígito</h3>",
